@@ -1,17 +1,23 @@
+[ http://paulgraham.com/pow.html ]
+
 Charisma / Power
-ƒJƒŠƒXƒ}« / ƒpƒ[
+ã‚«ãƒªã‚¹ãƒï¼æœ‰èƒ½ã•
 
 January 2017
-‚Q‚O‚P‚V”N‚PŒ
+2017å¹´1æœˆ
 
-People who are powerful but uncharismatic will tend to be disliked. Their power makes them a target for criticism that they don't have the charisma to disarm. That was Hillary Clinton's problem. It also tends to be a problem for any CEO who is more of a builder than a schmoozer. And yet the builder-type CEO is (like Hillary) probably the best person for the job.
+People who are powerful but uncharismatic will tend to be disliked. 
+Their power makes them a target for criticism that they don't have the charisma to disarm. 
+That was Hillary Clinton's problem. It also tends to be a problem for any CEO who is more of a builder than a schmoozer. 
+And yet the builder-type CEO is (like Hillary) probably the best person for the job.
 
-ƒpƒƒtƒ‹‚¾‚ªAƒJƒŠƒXƒ}«‚Ì‚È‚¢l‚½‚¿‚ÍŒ™‚í‚ê‚ª‚¿‚¾B
-‚»‚Ìƒpƒ[‚ä‚¦‚É”á”»‚Ì“I‚É‚È‚èA‚Ü‚½A‚»‚Ì”á”»‚ğ‚â‚í‚ç‚°‚éƒJƒŠƒXƒ}«‚ğ‚à‚Á‚Ä‚¢‚È‚¢B
-‚»‚ê‚ªƒqƒ‰ƒŠ[EƒNƒŠƒ“ƒgƒ“‚Ì–â‘è‚¾‚Á‚½B‚»‚ê‚Í‚Ü‚½A’†g‚Ì‚È‚¢–¼‚Î‚©‚è CEO ‚æ‚è‚àA—L”\‚È CEO ‚É‚Æ‚Á‚Ä‚Ì‚Ù‚¤‚ª‚æ‚è–â‘è‚Æ‚È‚éB
-‚»‚µ‚ÄA‚»‚Ì‚æ‚¤‚Èƒpƒƒtƒ‹‚Èƒ^ƒCƒv‚Ì CEOiƒqƒ‰ƒŠ[‚Ì‚æ‚¤‚Èj‚±‚»‚ªA‚¨‚»‚ç‚­A‚»‚ÌE‹Æ‚ÉÅ“K‚Èl•¨‚È‚Ì‚¾B
+èƒ½åŠ›ã¯ã‚ã‚‹ãŒã‚«ãƒªã‚¹ãƒæ€§ãŒãªã„äººã¯å«Œã‚ã‚ŒãŒã¡ã ã€‚
+ãã®èƒ½åŠ›ã‚†ãˆã«å½¼ã‚‰ã¯æ‰¹åˆ¤ã®çš„ã«ãªã‚Šã€ãã‚Œã‚’å’Œã‚‰ã’ã‚‹ã‚«ãƒªã‚¹ãƒæ€§ã‚’æŒã£ã¦ã„ãªã„ã€‚
+ãã‚ŒãŒãƒ’ãƒ©ãƒªãƒ¼ãƒ»ã‚¯ãƒªãƒ³ãƒˆãƒ³ã®å•é¡Œã ã£ãŸã€‚ã¾ãŸã€ãã‚Œã¯å†…å®¹ã®ãªã„ã€è‚©æ›¸ãã ã‘ã® CEO ã‚ˆã‚Šã‚‚ã€å»ºè¨­çš„ãª CEO ã®å¤šãã«ã¨ã£ã¦å•é¡Œã¨ãªã‚‹ã€‚
+ãã—ã¦ã€ãã‚“ãªå»ºè¨­çš„ãªã‚¿ã‚¤ãƒ—ã® CEO ï¼ˆãƒ’ãƒ©ãƒªãƒ¼ã®ã‚ˆã†ãªï¼‰ã¯ã€ãŠãã‚‰ãã€ã¾ã ãã®è·æ¥­ã®æœ€é©ãªäººç‰©ã ã€‚
 
-I don't think there is any solution to this problem. It's human nature. The best we can do is to recognize that it's happening, and to understand that being a magnet for criticism is sometimes a sign not that someone is the wrong person for a job, but that they're the right one.
+I don't think there is any solution to this problem. It's human nature. 
+The best we can do is to recognize that it's happening, and to understand that being a magnet for criticism is sometimes a sign not that someone is the wrong person for a job, but that they're the right one.
 
-‚±‚Ì–â‘è‚É‚½‚¢‚·‚é‰ğŒˆô‚ª‚ ‚é‚Æ‚Ív‚í‚È‚¢B‚»‚ê‚Í‚Ğ‚Æ‚Ì«‚È‚ñ‚¾B
-‚»‚Ì‚±‚Æ‚ğ”F‚ß‚ÄA‚±‚Ìí‚Ì”á”»‚ª‹N‚±‚Á‚½‚Æ‚«‚É‚ÍA”á”»‚ğˆø‚«Šñ‚¹‚é¥Î‚Ì‚æ‚¤‚Èl•¨‚ª•s“KŠiÒ‚È‚Ì‚Å‚Í‚È‚­A‚Ş‚µ‚ëA‚»‚ÌE‹Æ‚É‚Æ‚Á‚ÄÅ“K‚Èl•¨‚©‚à‚µ‚ê‚È‚¢B‚»‚Ì‚±‚Æ‚ğ—‰ğ‚·‚é‚±‚Æ‚ªA„‚½‚¿‚Ì‚Å‚«‚éÅ‘åŒÀ“x‚¾B
+ã“ã®å•é¡Œã«ãŸã„ã™ã‚‹è§£æ±ºç­–ãŒã‚ã‚‹ã¨ã¯æ€ã‚ãªã„ã€‚ãã‚Œã¯äººã®æ€§ãªã‚“ã ã€‚
+ãã®ã¨ãç§ãŸã¡ã«ã§ãã‚‹æœ€è‰¯ã®ã“ã¨ã¯ã€æ‰¹åˆ¤ã‚’å¼•ãã‚ˆã›ã‚‹ç£çŸ³ã®ã‚ˆã†ãªãã®äººç‰©ãŒã€ãã®è·æ¥­ã«ä¸çš„ç¢ºãªäººç‰©ã¨ã„ã†ã‚ã‘ã§ã¯ãªãã€ã‚€ã—ã‚ã€æœ‰èƒ½ãªæ­£ã—ã„äººç‰©ã§ã‚ã‚‹ã“ã¨ã‚’ç¤ºã™ã‚µã‚¤ãƒ³ã§ã‚ã‚‹ã“ã¨ãŒã¾ã¾ã‚ã‚‹ã€ãã®ã“ã¨ã‚’ç†è§£ã™ã‚‹ã“ã¨ã ã€‚
