@@ -1,0 +1,117 @@
+[ http://paulgraham.com/altair.html ]
+
+What Microsoft Is this the Altair Basic of?
+この Altair 用 Basic 【じみたもの】、どんな Microsoft のだろう？
+
+February 2015
+2015年2月
+
+One of the most valuable exercises you can try
+if you want to understand startups is to look at the most successful companies 
+and explain why they were not as lame as they seemed when they first launched. 
+
+Because they practically all seemed lame at first. 
+Not just small, lame. 
+Not just the first step up a big mountain. 
+More like the first step into a swamp.
+
+もし、あなたがスタートアップについて理解したいのなら、
+あなたが挑戦できる最も価値のあるエクササイズのひとつに、
+最も成功した企業に注目して、なぜ彼らは、最初のローンチの時に思われていたほどには
+【不格好】では【なくなったか】を説明する、って【試み】がある。
+
+なぜなら、事実上、彼らは最初すべてが【不格好】に思えたからだ。
+ただ、小さいだけじゃなく、【不格好】。
+ただ、大きな山を登るときの一歩じゃない。沼に入る最初の一歩により似ている。
+
+A Basic interpreter for the Altair? 
+How could that ever grow into a giant company? 
+People sleeping on airbeds in strangers' apartments? 
+A web site for college students to stalk one another? 
+A wimpy little single-board computer for hobbyists that used a TV as a monitor? 
+A new search engine, when there were already about 10,
+and they were all trying to de-emphasize search? 
+
+These ideas didn't just seem small. 
+They seemed wrong. 
+They were the kind of ideas you could not merely ignore, 
+but ridicule.
+
+Altair コンピュータ向けの Basic のインタープリター？
+【そんなんで】どうやって【ゆくゆくは】巨大企業に成長できるんだ？
+知らない人んちのベッドに寝るひと？
+他の生徒をストーカーするための、大学生向けのウェブサイト？
+ホビイストのための、ちんけなシングルボードコンピュータ？テレビをモニターに使う？
+すでに【同じサービスが】 10 はあって、
+そして、そのどれもが検索処理に重きをおいていなかったのに、
+いまさら新しい検索エンジン？
+
+これらのアイデアはただ小さそう、というんじゃなかった。
+それらは間違っているように感じられた。
+それらのアイデアは、あなたが無視できる【ほど小さい】だけではなく、
+また、あざけることもできたほど【不格好】だった。
+
+Often the founders themselves didn't know why their ideas were promising. 
+They were attracted to these ideas by instinct, 
+because they were living in the future and they sensed that something was missing. 
+But they could not have put into words exactly
+how their ugly ducklings were going to grow into big, 
+beautiful swans.
+
+創業者たちの多くが、彼ら自身、
+なぜ彼らのアイデアが成功を約束されてたものだったのか、分からなかった。
+彼らは、未来の住人だったのであり、彼らは見過ごされていた何かを感じたから、
+本能によって、それらのアイデアに引き寄せられた。
+
+だけど彼らは、どのように、
+彼らの醜いアヒルたちが大きくなり、美しい白鳥に成長するか、を
+厳密な言葉に落とし込めなかったのだ。
+
+Most people's first impulse when they hear about
+a lame-sounding new startup idea is to make fun of it. 
+Even a lot of people who should know better.
+
+新しいスタートアップのアイデアが立てる、不格好な音を聞いたとき、
+ほとんどの人は衝動的にそれをからかいたくなる。
+多くの人がよい【ものだ】と知るべきなのにもかかわらず。
+
+When I encounter a startup with a lame-sounding idea, 
+I ask "What Microsoft is this the Altair Basic of?"
+Now it's a puzzle, and the burden is on me to solve it. 
+
+Sometimes I can't think of an answer, 
+especially when the idea is a made-up one. 
+But it's remarkable how often there does turn out to be an answer. 
+Often it's one the founders themselves hadn't seen yet.
+
+私は、不格好な音を立てるアイデアを持ったスタートアップに会くわしたとき、
+こう訊ねる。
+「この Altair 用 Basic 【じみたもの】、どんな Microsoft のだろう？」と。
+それは一種のパズルで、そして、私に課せられた【任務】はそれを解くことだ。
+
+ときどき答えを出せないこともある。
+特に、そのアイデアがすでに【実現されている】ものの場合には。
+だけど、どれほど頻繁に【【答え】にされるのか】ということは注目に値する。
+多く【の場合】、創業者自身がまだ見たこともないアイデア【の】ひとつが、それだ。
+
+Intriguingly, 
+there are sometimes multiple answers. 
+I talked to a startup a few days ago that could grow into 3 distinct Microsofts.
+
+【おもしろいことに、ときどき、複合的な答えがある。】
+何日かまえに私が会話を交わしたあるスタートアップは、
+３つの、【重複していない】マイクロソフトに成長【できた】。
+
+They'd probably vary in size by orders of magnitude. 
+But you can never predict how big a Microsoft is going to be, 
+so in cases like that I encourage founders to follow whichever path
+is most immediately exciting to them. 
+Their instincts got them this far. 
+Why stop now?
+
+だけど、そんなマイクロソフトのひとつが、
+どれくらい成長するかを、あなたには予言することはできないから、
+そのような場合、私は、創業者たちに、彼らにとってもっとも身近【にある】
+エキサイティングな【方へ進むよう】促している。
+彼らの本能が、彼らを遠くへ連れて【いった】。
+なぜ今やめる？

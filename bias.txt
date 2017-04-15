@@ -1,0 +1,176 @@
+[ http://paulgraham.com/bias.html ]
+
+A Way to Detect Bias
+バイアスの見つけ方
+
+October 2015
+2015年10月
+
+This will come as a surprise to a lot of people, 
+but in some cases it's possible to detect bias in a selection process
+without knowing anything about the applicant pool. 
+
+Which is exciting because among other things 
+it means third parties can use this technique to detect bias 
+whether those doing the selecting want them to or not.
+
+これは多くの人にとって驚きとして受け止められるだろう。
+だが、【いくつかの場合】なにかの選考過程で、
+志願者【の山】についてのなんらの知識もなくても、バイアスを見つけられる。
+
+＊【なにが興奮するかって】、だって、
+彼らのやっている選考が【それら】を望んでいるか、どうかにかかわらず、
+第三者にもバイアスを見つけるために使えるテクニックだ、ってことなんだ。
+
+You can use this technique whenever
+(a) you have at least a random sample of the applicants that were selected, 
+(b) their subsequent performance is measured, and
+(c) the groups of applicants you're comparing have roughly equal distribution of ability.
+
+以下の条件を満たしていれば、あなたはいつでもこのテクニックを使える
+
+　(a)なんらかの選考を経た志願者の、無作為抽出されたサンプルグループが少なくとも１つある 
+　(b)そのグループの【次につづく】パフォーマンスは計測済みであること、
+　(c)そして、あなたが比較しようと思っている、それらのグループの能力分布は、
+　　どれも大ざっぱに同じである
+
+How does it work?
+Think about what it means to be biased. 
+What it means for a selection process to be biased
+against applicants of type x is that it's harder for them to make it through. 
+Which means applicants of type x have to be better to get selected than applicants not of type x.
+
+[1] Which means applicants of type x who do make it through
+the selection process will outperform other successful applicants. 
+And if the performance of all the successful applicants is measured, 
+you'll know if they do.
+
+どうやって、その方法は機能するのか？
+「バイアスが掛かっている状態」が何を意味するのかを考えよう。
+ある選考過程で、タイプ X の志願者にたいして【負の】バイアスが掛かっている、とは、
+非タイプ X の志願者に比べて、タイプ X の志願者は容易に選考過程をくぐり抜けてしかるべき、
+【なのに】、彼らにはくぐり抜けるのが困難な【状態】を意味する。
+
+[1]タイプ X の志願者とは、
+その選考過程をくぐり抜けた、その他の志願者よりも優れた成績で通過していることを意味する。
+そして、その選考を通過したすべての志願者のパフォーマンスが計測済みで、
+あなたにも閲覧可能であること、もし【彼らが】するなら。
+
+Of course, 
+the test you use to measure performance must be a valid one. 
+And in particular it must not be invalidated
+by the bias you're trying to measure. 
+But there are some domains where performance can be measured, 
+and in those detecting bias is straightforward. 
+
+Want to know if the selection process was biased against some type of applicant?
+Check whether they outperform the others. 
+This is not just a heuristic for detecting bias. 
+It's what bias means.
+
+もちろん、
+あなたがいつも使っているテストは、パフォーマンスを計測するのに有効な方法のひとつに違いない。
+そして、あなたが計測しようとしているバイアスによって、
+そのテストが機能しなくなることは、【絶対に】あってはならない。
+だけど、【申請者の】パフォーマンスを計測することが可能な分野では、
+バイアス発見を発見すること【も】【それほど難しくはない】。
+
+もし、ある選考過程で特定のタイプの志願者にたいして【負の】バイアスが掛かっているのなら、
+知りたいのは、そのタイプの志願者が、そのほかの志願者と比べてどこが秀でているか、そうでないか、
+をチェックしよう。これは、ただのバイアスを見つける方法ではない。
+バイアスの意味することそのものだ。
+
+For example, 
+many suspect that venture capital firms are biased against female founders. 
+This would be easy to detect: among their portfolio companies, 
+do startups with female founders outperform those without?
+
+A couple months ago, one VC firm (almost certainly unintentionally) published
+a study showing bias of this type. 
+
+First Round Capital found that among its portfolio companies, 
+startups with female founders outperformed those without by 63%. [2]
+
+たとえば、
+多く【の人】が、ベンチャーキャピタルファームは、
+女性創業者にたいしての【負の】バイアス掛かっているのではないか、と怪しんでいる。
+この種のバイアスは見つけるのは簡単だろう。ポートフォリオのなかの会社間で比較してみればいい。
+創業者に女性が入っている会社が、そうでない会社よりも優秀か？
+
+２ヶ月前、あるベンチャーキャピタルファームが報告した【研究調査】は、
+（ほぼ確実に、故意ではなく）この種のバイアスがかかっていることが見てとれた。
+
+First Round Capital が、自社のポートフォリオの会社間で比較してみたところ、
+創業者に女性が入っている会社は、そうでない会社よりも 63 % 優れていたことが分かった。
+
+The reason I began by saying that this technique would come as
+a surprise to many people is that we so rarely see analyses of this type. 
+I'm sure it will come as a surprise to First Round that they performed one.
+
+I doubt anyone there realized that by limiting their sample to their own portfolio, 
+they were producing a study not of startup trends
+but of their own biases when selecting companies.
+
+If they'd understood the implications of the numbers they were publishing, 
+they wouldn't have presented them the way they did.
+
+「このテクニックは多くの人にとって驚きをもって受け止められるだろう」
+という書き出しから始めたのは、このような理由からだ。
+私たちは、ほとんどこの手法による分析をしてこなかった。
+First Round Capital にとって、それが驚きだったのは無理もないことだと思う。
+彼らは【創業者に女性を含む】企業のひとつなのだから。
+
+ポートフォリオのサンプル抽出に制限を掛けることで、
+同じことを実現した【人たち】がいるのではないか、と私は疑っている。
+彼らは、スタートアップ企業の傾向【研究調査】だけではなく、
+企業を選定するときの、自らの傾向【研究調査】をもプロデュースしていたのだ。
+
+もし彼らが、彼らの公開した【研究調査】から【意図的に除外した】数を把握していたら、
+彼らがやった方法で、それの数を表に出すことはしないだろう。
+
+I predict we'll see this technique used more in the future. 
+The information needed to conduct such studies is increasingly available. 
+
+Data about who applies for things is usually closely guarded by
+the organizations selecting them, 
+but nowadays data about who gets selected is often publicly available to
+anyone who takes the trouble to aggregate it.
+
+将来、このテクニックはより広く使われるようになることを、予言する。
+【研究調査】を管理するために必要なその情報は、どんどん利用可能になる。
+通常、何かの選考に申し込んだ人にかんする情報は、その申込者を選定する組織によって、
+閉じられ、守られている。
+だが、近頃では、その選考に通った人についての情報は、
+それを集めることの労をいとわない人にとっては、ほぼ公開状態で、利用可能になっている。
+
+Notes
+メモ
+
+[1] This technique wouldn't work if the selection process looked for
+different things from different types of applicants—for example, 
+if an employer hired men based on their ability but women based on
+their appearance.
+
+[1]もし、【タイプごとに】志願者を異なる選考基準を適用する選考、
+たとえば、男性はその能力によって、女性はその容姿によって、採用を決定する雇用主の場合、このテクニックは機能しない。
+
+[2] As Paul Buchheit points out, 
+First Round excluded their most successful investment, Uber, from the study.
+
+And while it makes sense to exclude outliers from some types of studies, 
+studies of returns from startup investing, 
+which is all about hitting outliers, 
+are not one of them.
+
+[2] Paul Buchheit の指摘として、
+First Round Capital は、その【研究調査】から、
+いちばん成功した【彼らの】出資先である Uber は除外していた。
+
+＊そして、
+いくつかのタイプの【研究調査】から outliers を除くことが【なんらかの】意味をなす間、
+スタートアップ投資からのリターンの【研究調査】、
+それは outliers を叩くこと以外のなにものでもない、
+【その限りではない。】
+
+Thanks to Sam Altman, Jessica Livingston, and Geoff Ralston for reading drafts of this.
+草稿を読んでくれた Sam Altman、 Jessica Livingston、そして Geoff Ralston に感謝する。

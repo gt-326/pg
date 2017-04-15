@@ -1,0 +1,176 @@
+[ http://paulgraham.com/talk.html ]
+
+Write Like You Talk
+話すように書こう
+
+October 2015
+2015年10月
+
+Here's a simple trick for getting more people to read what you write:
+write in spoken language.
+
+あなたが書くものをより多くの人に読んでもらうのに、簡単なコツがある。
+話しことばで書くんだ。
+
+Something comes over most people when they start writing. 
+They write in a different language than they'd use if they were talking to a friend. 
+The sentence structure and even the words are different. 
+No one uses "pen" as a verb in spoken English. 
+You'd feel like an idiot using "pen" instead of "write" in a conversation with a friend.
+
+何かを書き始めようとするときに、ほとんどの人に何かが起こるんだ。
+彼らは、友達どうしで話すときとは別のことばで書くんだ。
+文章構造、そして使う語句でさえ違っている。
+英語話者は誰も、話しことばで「ペン」を動詞として使わない。
+友達との会話のなかで、「書く」のかわりに「ペン」を使う【奴の】ことをマヌケと感じるだろう。
+
+The last straw for me was a sentence I read a couple days ago: 
+The mercurial Spaniard himself declared: "After Altamira, all is decadence." 
+ It's from Neil Oliver's A History of Ancient Britain. 
+I feel bad making an example of this book, because it's no worse than lots of others. 
+But just imagine calling Picasso "the mercurial Spaniard" when talking to a friend. 
+Even one sentence of this would raise eyebrows in conversation. 
+And yet people write whole books of it.
+
+私にとっての「最後のストロー」は、二日前に読んだこの文だった。
+
+【気まぐれな】スペイン人は【自身のことを】こう断じた、
+「アルタミラ【洞窟】 の後では、すべては衰退だ」と。
+
+これは Neil Oliver の古代英国の歴史からの一節だ。
+この本をここで挙げることを申し訳なく思っている。だって、ほかの多くの本よりも悪いところがないから。
+だけど、イメージしてみてほしい。
+友達として話すときに、ピカソを「【気まぐれな】スペイン人」と呼んだりするか、と。
+この本の一文でさえ、会話のなかでは相手をぎょっとさせるが、
+まだみんな、まるまる一冊を【こんな調子で】書き上げている。
+
+Ok, so written and spoken language are different. 
+Does that make written language worse?
+
+そういうわけで、書きことばと話しことばは違っているんだ。
+書きことばじゃまずいことってある？
+
+If you want people to read and understand what you write, yes. 
+Written language is more complex, which makes it more work to read. 
+It's also more formal and distant, which gives the reader's attention permission to drift. 
+But perhaps worst of all, the complex sentences and fancy words give you, the writer,
+the false impression that you're saying more than you actually are.
+
+あなたの書くことを誰かに読んで、理解してもらいたいのなら、
+【書きことばはまずい】。
+書きことばはより複雑で、より読むのに苦労をともなう。
+また、より格式張っていて、【冷たい感じ】にするため、
+書きことばは読み手の注意を【他所へ漂わせる許可を与える】ことになる。
+
+だが、【なかでも】最悪なのは、
+複雑な文と【装飾的な】語句を使うことで、書き手であるあなた自身が、
+実際によりも、もっと【重厚長大深遠なことを】言っているような、
+間違った印象を抱くこと、かもしれない。
+
+You don't need complex sentences to express complex ideas. 
+When specialists in some abstruse topic talk to one another about ideas in their field,
+they don't use sentences any more complex than they do when talking about what to have for lunch. 
+They use different words, certainly. 
+But even those they use no more than necessary. 
+And in my experience, the harder the subject, the more informally experts speak.
+
+複雑なアイデアを表現するのに、複雑な文は必要ない。
+専門家が、難解なトピックについて専門外の人に話すとき、
+昼食に何を食べるか話しているときに使うのよりも複雑な【言い回し】は
+使わないものだ。
+たしかに、彼らは違った言葉を使う【こともある】。
+だけど、それは必要があってそうしているわけで、他意はない。
+そして、私の経験では、より難解なお題のときほど、
+専門家の説明はくだけたものになる。
+
+Partly, I think, because they have less to prove,
+and partly because the harder the ideas you're talking about,
+the less you can afford to let language get in the way.
+
+【思うに、それは以下のような要因のためだろう。】
+【１．彼らが証明する必要がない【場面だから、という】こと。】
+【２．そのトピックがあなたとの話題としては難解であること。】
+【３．あなたがその分野にあわせた言葉を持ち合わせていないこと。】
+
+Informal language is the athletic clothing of ideas.
+格式張っていない言葉【こそ】が、アイデアのためのスポーツウェアだ。
+
+I'm not saying spoken language always works best. 
+Poetry is as much music as text,
+so you can say things you wouldn't say in conversation. 
+And there are a handful of writers who can get away with using fancy language in prose. 
+And then of course there are cases where writers don't want to make it easy
+to understand what they're saying—in corporate announcements of bad news,
+for example, or at the more bogus end of the humanities. 
+But for nearly everyone else, spoken language is better.
+
+話しことばを使うことが、いつでも最善だと言ってるわけではない。
+詩は文章であると同時に、音楽でもあり、
+そのため、会話のなかでは言えないことがらをそれを使って言える。
+そして、散文のなかで装飾的なことばを使うことに成功している書き手は、
+ごくわずかだ。そして、もちろん、たとえば企業が悪いニュースを発表するとき、
+【人文科学のよりニセの終わりに】のように、彼らの言ってることを簡単に理解してもらいたくない、そういうこともある。
+だが、ほぼすべての人には話しことばを使うほうがよい。
+
+It seems to be hard for most people to write in spoken language. 
+So perhaps the best solution is to write your first draft the way you usually would,
+then afterward look at each sentence and ask "Is this the way I'd say this if I were talking to a friend?"
+If it isn't, imagine what you would say, and use that instead. 
+
+After a while this filter will start to operate as you write. 
+When you write something you wouldn't say, you'll hear the clank as it hits the page.
+
+ほとんどの人には話しことばで書くことは難しいようだ。
+ならば、これが一番の解決法かもしれない。
+まず最初に、これまでのやり方で草稿を書きあげて、それから、
+各行を読み直して「友だちに話すとして、こんな言い方するか？」とチェックしてみよう。
+もし、そんなふうに言わないのなら、どんなふうに言うかを想像して、それと置き換えるんだ。
+
+しばらくやっていれば、このフィルターは、あなたが書くと【同時に】機能し始めるだろう。
+普段とはちがう言い回しで何か書いていると、あなたは【その言い回しが】ページにぶつかった音を
+聞くようになるだろう。
+
+Before I publish a new essay,
+I read it out loud and fix everything that doesn't sound like conversation. 
+I even fix bits that are phonetically awkward; I don't know if that's necessary, but it doesn't cost much.
+
+新しいエッセイを発表する前には、
+私は、大きく声に出してそれを読み上げてみて、会話のように感じられない箇所を直している。
+また、ぎこちない発音の箇所についても直すようにしている。【その工程が】必要なのかどうかは分からないが、
+それほどコストの掛かるものではない。
+
+This trick may not always be enough. 
+I've seen writing so far removed from spoken language that it couldn't be fixed sentence by sentence. 
+For cases like that there's a more drastic solution. 
+After writing the first draft, try explaining to a friend what you just wrote. 
+Then replace the draft with what you said to your friend.
+
+いつでもこの方法で十分、というわけではないだろう。
+【これまでに、】私は【書くという作業のなかで】
+【【気にはなったものの】うまく直せなかった話しことば】を【一行、また一行】と削る【ケース】を見てきた。
+そのようなときには、もうひとつ、根本的な解決法がある。
+あなたが最初の草稿を書いたら、書いたばかりのその内容を友だちに説明してみよう。
+そのときに友だちに言ったことで、その草稿を置き換えるんだ。
+
+People often tell me how much my essays sound like me talking. 
+The fact that this seems worthy of comment shows
+how rarely people manage to write in spoken language. 
+Otherwise everyone's writing would sound like them talking.
+
+読者は、私の書いたエッセイがどれほど語りかけるように感じられたか、よく伝えてくる。
+それがコメントするに足るものらしい、ということから【も】、話しことばで書いている人がどれだけ少ないかが分かる。
+そうでなければ、書いたものは、【どれも書き手が】語りかけてくるように感じられるものであるはずだ。
+
+If you simply manage to write in spoken language,
+you'll be ahead of 95% of writers. 
+And it's so easy to do: just don't let a sentence through
+unless it's the way you'd say it to a friend.
+
+もし、話しことばで書くよう単純に意識すれば、
+あなたは書き手の 95 %よりまえに躍り出る【ことが出来る】だろう。
+そして、それを実行するのはとても簡単なことだ。
+【ひとつの】文を、
+あなたがいつも友だちに伝えるときのやり方と違うものにしないでおく、それだけだ。
+
+Thanks to Patrick Collison and Jessica Livingston for reading drafts of this.
+草稿を読んでくれた Patrick Collison と Jessica Livingston に感謝する。

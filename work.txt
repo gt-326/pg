@@ -1,0 +1,111 @@
+[ http://paulgraham.com/work.html ]
+
+What Doesn't Seem Like Work?
+仕事とは思えないことって何？
+
+January 2015
+2015年1月
+
+My father is a mathematician. 
+For most of my childhood he worked for Westinghouse, modelling nuclear reactors.
+
+私の父親は数学者です。
+私が子供時代のほとんどを、彼は Westinghouse にて原子炉の設計をしていた。
+
+He was one of those lucky people who know early on what they want to do. 
+When you talk to him about his childhood, there's a clear watershed at about age 12, 
+when he "got interested in maths." He grew up in the small Welsh seacoast town of Pwllheli. 
+
+彼は、人生の早い時期に自分がやりたいことを見つける、幸運な一人でした。
+もしあなたが彼に子供時代のことについて訊ねたら、
+人生の分岐点のひとつとなった、彼が「数学にたいする興味を持った」 12 歳のときのことを話すだろう。
+彼はウェールズの海沿いの町 Pwllheli で育った。
+
+As we retraced his walk to school on Google Street View, 
+he said that it had been nice growing up in the country.
+
+グーグルのストリートビューで、彼の歩いてた学校までの道をたどったとき、
+【当時を振り返り】田舎で育ったことはとてもよかった、と彼は言った。
+
+"Didn't it get boring when you got to be about 15?" I asked.
+
+「15 歳くらいにったら、退屈しなかったの？」私は訊ねた。
+
+"No," he said, "by then I was interested in maths."
+
+「いいや」、彼は言った「もう、その時には数学に夢中だったから」と。
+
+In another conversation he told me that what he really liked was solving problems. 
+To me the exercises at the end of each chapter in a math textbook represent work, or at best a way to reinforce what you learned in that chapter. 
+To him the problems were the reward. 
+The text of each chapter was just some advice about solving them. 
+He said that as soon as he got a new textbook he'd immediately work out all the problems—to the slight annoyance of his teacher, 
+since the class was supposed to work through the book gradually.
+
+もうひとつの会話のなかで彼が私に語ったことは、問題を解くことが本当に好きだった、
+ということだった。
+私にとって、数学の教科書の各章の終わりにある問題は「作業」の象徴で、
+良くて、各章で学んだことを補強するもの以上ではない。
+彼にとって、それらの問題はご褒美だった。
+各章の記述は、章末問題を解くためのアドバイスでしかなかった。
+
+彼は言った。
+なるべく早く、新しい教科書をもらったそばから、すべての章末問題に取り組んだ、と。
+ちょっと先生をいらつかせるために。だって、クラスではその教科書をちょっとずつ進んでいくもんだから。
+
+Few people know so early or so certainly what they want to work on. 
+But talking to my father reminded me of a heuristic the rest of us can use. 
+If something that seems like work to other people doesn't seem like work to you,
+that's something you're well suited for. 
+For example, a lot of programmers I know, including me, actually like debugging. 
+It's not something people tend to volunteer; one likes it the way one likes popping zits. 
+But you may have to like debugging to like programming,
+considering the degree to which programming consists of it.
+
+少数だが、とても早い時期か、もしくは、とても強い確信を持って、
+取り組みたいものがなんであるかを知る人がいる。
+だが、父との会話が、そうじゃない私たちのような大多数が使える方法を思い出させてくれた。
+もし何か、ほかの人には仕事としか感じないもので、あなたにとってはそうじゃないもの、
+それがあなたによく向いている何かなんだ。
+たとえば、私自身を含むのだが、私の知っているプログラマーの多くは本当にデバッグ作業が好きだ。
+それはあまり自発的にやりたがる作業ではない【が】、ある人は【にきびつぶしの要領で】バグつぶしを好む。
+だけど、プログラミング作業の多くをバグつぶしが占めていることを考えると、
+プログラミングが好きであるためには、バグつぶしを好むようになる必要があるのかもしれない。
+
+The stranger your tastes seem to other people,
+the stronger evidence they probably are of what you should do. 
+When I was in college I used to write papers for my friends. 
+It was quite interesting to write a paper for a class I wasn't taking. 
+Plus they were always so relieved.
+
+あなたの【感性】うちで、他の人には奇妙に見えるもの、
+それらは、おそらくあなたがすべきことの強力な証拠となりうる。
+大学生時代、私は友達のために【授業の内容を】紙に書いていたものだった。
+【履修】していなかった授業を紙に書くのは、とても楽しかった。
+加えて、いつも彼らはとても安心していた。
+
+It seemed curious that the same task could be painful to one person and pleasant to another,
+but I didn't realize at the time what this imbalance implied, because I wasn't looking for it. 
+I didn't realize how hard it can be to decide what you should work on,
+and that you sometimes have to figure it out from subtle clues,
+like a detective solving a case in a mystery novel. 
+So I bet it would help a lot of people to ask themselves about this explicitly. 
+What seems like work to other people that doesn't seem like work to you?
+
+同じ作業が、ある人には苦痛になり、べつの誰かには楽しみになるって好奇心がそそられるけれど、
+この不均衡が何を意味するのか、そのとき私には分からなかった。
+なぜなら【それを探していたわけじゃなかった】から。
+私には、あなたが何に取り組むべきかを決めるのが、どれだけ大変かはわからない。
+そして、ときには、ミステリー小説のなかで探偵が解決するように、
+あなたはわずかな糸口から、それを【結論づける】必要がある。
+だから、この、自分自身に問いかける方法が、たくさんの人の役に立つだろう、と【断言する】。
+他の人には仕事のようなに感じられることなのに、あなたにとってはそうじゃない、そういうものって何だろう？
+
+Thanks to Sam Altman, Trevor Blackwell, Jessica Livingston, Robert Morris,
+and my father for reading drafts of this.
+
+草稿を読んでくれた Sam Altman、 Trevor Blackwell、 Jessica Livingston、 Robert Morris、
+そして、父に感謝する。
+ 
+Robert Morris: All About Programming 
+Robert Morris「プログラミングにかんする全て」

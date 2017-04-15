@@ -1,0 +1,89 @@
+[ http://paulgraham.com/aap.html ]
+
+Robert Morris: All About Programming 
+ロバート・モリス「プログラミングにかんする全て」
+
+(When I asked Robert Morris to read a draft of "What Doesn't Seem Like Work?"
+he replied with his own story, which he has allowed me to publish.)
+
+（「仕事とは思えないことって何？」の、草稿の査読をロバート・モリスに頼んだときに、
+自身のエピソードとともに彼は返事をくれた。彼の許可をもらって公開する。）
+
+My father tried to interest me in programming somewhat before high school; it didn't work,
+and I didn't continue then. 
+My life was pretty aimless, and my father delivered some hard words about
+how boring my life was going to be.
+
+高校入学のすこし前、父は、私にプログラミングに興味を持たせようと仕向けたが、それは無駄だった。
+そして、そのときは続かなかった。
+当時の私の生活はひどく無目的で、父は、私の人生がどれほど退屈なものになるかについて、
+厳しい言葉を寄せた。
+
+I re-started programming in early high school. 
+I don't remember any gap between re-starting and total absorbtion. 
+
+Programming was off the radar for nearly everyone at my at high school, 
+and was unrelated to studying, so the question of whether it was work never arose. 
+
+Just as well considering how little effort I put into school. 
+I mentally moved to Bell Labs, first because I was using their computers and software, 
+then because I got a part-time job there in late high school.
+
+私は、高校生活の早い時期にプログラミングを再開した。
+再開するときに、【吸収するべきこと】全部との間に、なんらかのギャップがあったのか思い出せない。
+
+僕の高校では、プログラミングは、ほぼすべての生徒のレーダーに映っていなかったし、
+勉強【すること】とも関連づけられていなかった。
+だから、質問にあった、仕事みたいなことであろうが、そうでなかろうが、レーダーに映ることはなかった。
+
+私が、学校生活で努力したことがどれだけ小さかったか、ということだけがうかがえる。
+私の関心はベル研へと移っていて、彼らのコンピュータとソフトウェアを使うことが第一の関心事になっていた。
+そういうわけで、高校生活の後期はそこでパートの仕事を得ていた。
+
+Because college acts as such a strong sorter,
+when I got there it was much more like Bell Labs than it was like high school. 
+I spent time with people like Rich Draves, for whom programming was not work. 
+CS wasn't the same as programming
+(I still remember my confusion and disappointment at a recursion theory seminar
+early freshman year), but it was close enough that I could get by.
+
+大学は、そのような強力な【順位付け機構】として動くため、高校時代の学生生活よりも、
+ベル研でそうしていたように、多くの時間を過ごした。
+Rich Draves のようなひとと過ごしていた。彼らにとって、プログラミンは仕事ではなかった。
+CS はプログラミングとは同じじゃなかった。
+（１年生の早い時期の、再帰の講習にたいする混乱と失望をまだおぼえている）だが、それは
+【私がやれることに、十分に近かった】。
+
+Even in college it took me a while to admit that it was all about programming. 
+People at Bell Labs believed that CS was not serious,
+that one must study something with inherent value like math. 
+
+Not wanting to look like a loser to the people I most admired,
+
+I was pretty late in admitting the obvious about math. 
+Straightening myself out was tough,
+and I was not mentally flexible enough to keep in touch with the Bell Labs
+people after ignoring their advice.
+
+【大学においてさえ、それを認めるのにしばらく掛かった。】
+それがプログラミングにかんするすべてだった。
+
+ベル研の人々は、CS を真剣なものとは見なさず、
+数学のような【生得的な】価値を持つものをこそ学ぶべきものだ、と信じていた。
+
+私がもっとも慕った人を負け犬のように見なしたくはないが。
+
+明らかに、私は数学をとても遅かった。
+まじめにやるよう軌道修正するのは大変だった。
+そして、彼らのアドバイスを無視したあとで、
+ベル研の人たちとやる取りをつづけられるほど私の心は柔軟ではなかった。
+
+The idea that one should ask questions about one's own life
+(e.g. your "What seems like work...?") 
+and act on the answers was completely alien to me in those days,
+and I doubt I could have absorbed any wisdom in this department.
+
+自分自身の有する人生にたいして、訊ねるべき質問する、というアイデア
+（君の「仕事に見える・・・？」のような）と、その答えのうえでの行動は、
+当時の私の場合、全くもって相容れないもので、
+そして、この分野でなにか知識を吸収できたとは疑わしく思う。

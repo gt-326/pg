@@ -1,0 +1,193 @@
+[ http://paulgraham.com/ronco.html ]
+
+The Ronco Principle
+ロン・コンウェイの原則
+
+January 2015
+2015年1月
+
+No one, VC or angel, has invested in more of the top startups than Ron Conway. 
+He knows what happened in every deal in the Valley,
+half the time because he arranged it.
+
+VC ラウンドであれ、エンジェルラウンドであれ、
+Ron Conway ほど多く、スタートアップのトップ企業に投資した者はいない。
+彼はシリコンバレーのあらゆる【取引】で何が【起こったか】を知っていて、
+＊【それは、その半分を彼が【アレンジした】からだ。】
+
+And yet he's a super nice guy. 
+In fact, nice is not the word. 
+Ronco is good. 
+I know of zero instances in which he has behaved badly. 
+It's hard even to imagine.
+
+そして、【加えて】彼はスーパーナイスガイだ。
+実は、「ナイス」は適当な語句ではない。
+彼は【良いひと】だ。
+一度だって、彼が【無礼な】ふるまいをした、なんてことは聞いたことがない。
+想像することすら難しい。
+
+When I first came to Silicon Valley
+I thought "How lucky that someone so powerful is so benevolent." 
+But gradually I realized it wasn't luck. 
+It was by being benevolent that Ronco became so powerful. 
+
+All the deals he gets to invest in come to him through referrals. 
+Google did. 
+Facebook did. 
+Twitter was a referral from Evan Williams himself. 
+And the reason so many people refer deals to him is that he's proven himself to be a good guy.
+
+私が最初にシリコンバレーに来たとき、こう思ったものだ。
+「とても有力な人が、とても親切だなんて、なんてラッキーだろう」と。
+だが、だんだんとツイてたからってわけじゃないのだ、と理解した。
+親切でいることによって、ロンコはとても有力になったのだ。
+
+＊彼が出資した【取引】は、すべて【照会を通り抜けて】彼のところにくる。
+
+Google がそうだった。
+Facebook がそうだった。
+Twitter は Evan Williams の【自薦】だった。
+
+＊そして、多くの人が【取引】を彼に【参照】させるのは、
+彼自身が【良いひと】であることを【証明】したからだ。
+
+Good does not mean being a pushover. 
+I would not want to face an angry Ronco. 
+But if Ron's angry at you, it's because you did something wrong. 
+Ron is so old school he's Old Testament. 
+He will smite you in his just wrath, but there's no malice in it.
+
+【良いひと】は、お人好し、という意味ではない。
+怒っているときの彼と会いたくはない。
+だけど、彼があなたに怒るのは、あなたが何か間違いをやったからだ。
+彼は【オールドスクーラー】で、旧約聖書【に出てくる神々のよう】だ。
+その怒りからあなたを罰するだろう、だが、そこには一片の敵意もない。
+
+In almost every domain there are advantages to seeming good. 
+It makes people trust you. 
+But actually being good is an expensive way to seem good. 
+To an amoral person it might seem to be overkill.
+
+ほぼすべての【分野】において、【良いひとに見えること】は有利に働く。
+それで人々はあなたを信頼する。
+だけど、実際に【良いひと】でいることは、
+【良いひとに見える】方法としては高くつく。
+【道徳観念のない人にとって、それは過剰と感じられるのかもしれない。】
+
+In some fields it might be, but apparently not in the startup world. 
+Though plenty of investors are jerks, 
+there is a clear trend among them: the most successful investors
+are also the most upstanding. [1]
+
+いくつかの【フィールド】ではそうかもしれない、
+だが、どうもスタートアップの世界ではそうではないらしい。
+出資者の多くが世間知らずであるにもかかわらず、
+もっとも成功した出資者たちは、同時に、もっとも正直者である、
+ということには、ひとつ明確な傾向がある。[1]
+
+It was not always this way. 
+I would not feel confident saying that about investors twenty years ago.
+
+いつでも、そんなふうだったわけではない。
+20 年前の投資家については、そう断言する気にはならない。
+
+What changed?
+The startup world became more transparent and more unpredictable. 
+Both make it harder to seem good without actually being good.
+
+何が変わったんだろう？
+スタートアップの世界はより透明性が高く、そして、より変化が激しいものになった。
+その両方が、実際は【良いひと】でないのに、【良いひと】のように見えることを難しくしている。
+
+It's obvious why transparency has that effect. 
+When an investor maltreats a founder now, it gets out. 
+Maybe not all the way to the press, but other founders hear about it, 
+and that means that investor starts to lose deals. [2]
+
+透明性が【その効果】を持っているのは明らかだ。
+いまの時代、もし投資家が起業家をいじめたら【それは外に出る。】
+【おそらく、知れわたる方法はそれがだけじゃないだろうけど、】
+他の起業家たちの耳に入るので、
+それは、その投資家が【取引】を失いはじめることを意味する。[2]
+
+The effect of unpredictability is more subtle. 
+It increases the work of being inconsistent. 
+If you're going to be two-faced, 
+you have to know who you should be nice to
+and who you can get away with being nasty to. 
+
+In the startup world, things change so rapidly that you can't tell. 
+The random college kid you talk to today might
+in a couple years be the CEO of the hottest startup in the Valley.
+
+If you can't tell who to be nice to, you have to be nice to everyone. 
+And probably the only people who can manage that are the people who are genuinely good.
+
+変化の激しさのもたらす影響は、もっと複雑だ。
+それによって、【一貫性がない状態でいることの】手間が増える。
+もし、あなたが【二つの顔】を使い分けてやっていこうとするのなら、
+あなたは、誰に【良いひと】であるべきで、そして、
+誰に【イヤな奴】でいられるか、を分かってないといけない。
+
+スタートアップの世界では、ものごとはとても速く変化するので、
+あなたに【それが誰か】は分からない。
+今日、あなたが【ランダムに】話した大学生が、２年で、
+シリコンバレーで一番ホットなスタートアップ企業の CEO 【になる】かもしれない。
+
+もし、誰に【良いひと】であるべきか分からないのなら、
+全員に【良いひと】であるほかない。そして、それができるのは、
+おそらく本心からの良いひとだけだ。
+
+In a sufficiently connected and unpredictable world,
+you can't seem good without being good.
+
+十分に【接続されていて】、そして、予測が立たない世界では、
+あなたは、【良いひと】であることなしに、良いひとに見えることはできない。
+
+As often happens,
+Ron discovered how to be the investor of the future by accident. 
+He didn't foresee the future of startup investing,
+realize it would pay to be upstanding, 
+and force himself to behave that way. 
+
+It would feel unnatural to him to behave any other way. 
+He was already living in the future.
+
+よく起こることとして、
+偶然、ロンは未来の投資家になる方法を発見した。
+スタートアップ投資の未来を予見したわけではなく、
+彼は、正直でいることが利益になると理解していて、そして、
+自身にそのように振る舞うこと強制している。
+
+彼には、それ以外のどんな振るまい方も不自然と感じられた。
+彼は、すでに未来【を】生きていた。
+
+Fortunately that future is not limited to the startup world. 
+The startup world is more transparent and unpredictable than most, 
+but almost everywhere the trend is in that direction.
+
+幸運なことに、スタートアップの世界【にとっての】未来は制限されていない。
+スタートアップの世界は、ほとんど【の業界】よりも、より透明性が高く、
+そして、より変化に富んでいる。だけど、ほとんど【どの業界】でもこの傾向にある。
+
+Notes
+ノート
+
+[1] I'm not saying that if you sort investors by benevolence
+you've also sorted them by returns, 
+but rather that if you do a scatterplot with benevolence on
+the x axis and returns on the y, you'd see a clear upward trend.
+
+[1]「出資者を【人の良さ】で順位付けすれば、リターンも順位付けできる」と言いたいのではなく、【むしろ】 X 軸に【人の良さ】を、Y 軸にリターンを【置いて】出資者をプロットしたら、上向きのトレンドを見てとれるだろう、と言いたいんだ。
+
+[2] Y Combinator in particular, 
+because it aggregates data from so many startups, 
+has a pretty comprehensive view of investor behavior.
+
+[2] Y Combinator は特にそうで、
+とてもたくさんのスタートアップからデータを集めるので、
+ Y Combinator は、出資者の振るまいをとても広範囲に【捕捉】できる。
+
+Thanks to Sam Altman and Jessica Livingston for reading drafts of this.
+草稿を読んでくれた Sam Altman と Jessica Livingston に感謝する。

@@ -22,7 +22,7 @@ That gave me a way to answer the question, and the answer is that life actually 
 
 この疑問について答えるみちすじがなさそうだったので、子供の私は考えるのをやめた。
 【子供だった私も】子供を持った。
-子供をもったことは、かつての疑問に答えるみちすじを与えてくれた。そして、その答えはこうだ。
+子供を持ったことは、かつての疑問に答えるみちすじを与えてくれた。そして、その答えはこうだ。
 やっぱり、人生は本当に短いんだ。
 
 Having kids showed me how to convert a continuous quantity, time, into discrete quantities. 
@@ -43,7 +43,7 @@ the quantity would definitely seem limited, no matter what your lifespan was.
 たっぷりあるだとか、ちょっとかないだとか言うことは不可能ではあるが、
 それでも 8 回というのはたくさんではない。
 手の中の 8 粒のピーナッツ、8 冊の本が入っている棚から本を選ぶとき、
-その数はあきらかな上限が設定されているが、あなたの寿命【がどうだったか】ということは、
+その数は明らかな上限が設定されているが、あなたの寿命【がどうだったか】ということは、
 そうではない。
 
 Ok, so life actually is short. 
@@ -125,7 +125,7 @@ This could become more common.
 成功する見込みのありそうな場所へ移ることを選ぶ、そんな人たちの流れはいつだって存在する。
 伝統的な社会ではその流れはごくわずかなだが、そっちの人生のほうがより本質的だ。
 
-この流れはより一般的になる。
+この流れはより一般的に【なった】。
 
 You can do it on a smaller scale without moving. 
 The amount of time you have to spend on bullshit varies between employers. 
@@ -176,7 +176,7 @@ Otherwise these people are literally taking your life. [2]
 ときに、かなり明白に。
 
 あなたの本能は、攻撃されると自らを防御しようとする。
-本能の多くがそうだが、この反応は、我々がいるいまの世界のために設計されたものではない。
+本能の多くがそうだが、この反応は、我々がいるいまの世界にむけて設計されたものではない。
 直感に反するだろうが、そういう場合には自分を防御しないほうがよい。
 さもなければ、【あなたの人生は、文字通りに、その人たちに奪われることになる。】[2]
 
@@ -447,4 +447,4 @@ inclination to say "Hey, that's not true!"
 という、とてもつまらない仕事をしてきた。
 
 Thanks to Jessica Livingston and Geoff Ralston for reading drafts of this.
-この草稿を読んでくれた Jessica Livingston と Geoff Ralston に感謝する。
+草稿を読んでくれた Jessica Livingston と Geoff Ralston に感謝する。
