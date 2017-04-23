@@ -1,0 +1,525 @@
+[ http://paulgraham.com/jessica.html ]
+
+Jessica Livingston
+ジェシカ・リビングストン
+
+November 2015
+2015年11月
+
+A few months ago an article about Y Combinator said that early on
+it had been a "one-man show." It's sadly common to read that sort of thing. 
+But the problem with that description is not just that it's unfair. 
+It's also misleading. 
+Much of what's most novel about YC is due to Jessica Livingston. 
+If you don't understand her, you don't understand YC. 
+So let me tell you a little about Jessica.
+
+数ヶ月まえのある記事に、Y Combinator についてこう書いてあった。
+早く【から】それは「ワンマンショー」だった、と。
+その手のものを読むと、悲しいくらい【共通している。】
+
+だが、その描写の問題は、ただ単にアンフェアだというだけではない。
+それはまた、誤解を招きやすいものなのだ。
+YC について、特筆すべきことがらの多くが Jessica Livingston によるものだ。
+もし、彼女を理解しないのなら、あなたは YC を理解しない。
+だから、ちょっとだけジェシカについて私に説明させてほしい。
+
+YC had 4 founders. 
+Jessica and I decided one night to start it, 
+and the next day we recruited my friends Robert Morris and Trevor Blackwell. 
+Jessica and I ran YC day to day, 
+and Robert and Trevor read applications and did interviews with us.
+
+YC は４人の設立者によって始まった。
+ジェシカと私は、ある夜、それを始めることを決め、
+そして次の日、私の友人の Robert Morris と Trevor Blackwell を引っ張り込んだ。
+ジェシカと私は毎日 YC を進めた、
+ロバートとトレバーはアプリケーションを【読んでいた】、
+そして、【４人で】面接をした。
+
+Jessica and I were already dating when we started YC. 
+At first we tried to act "professional" about this,
+meaning we tried to conceal it. 
+In retrospect that seems ridiculous, and we soon dropped the pretense. 
+And the fact that Jessica and I were a couple is a big part of what made YC what it was.
+
+YC felt like a family. 
+The founders early on were mostly young. 
+We all had dinner together once a week, cooked for the first couple years by me.
+
+YC をスタートさせたとき、すでにジェシカと私はデートを重ねていた。
+私たちははじめ、「プロフェッショナル」でいるように努めていた。
+つまり、私たちはそれを秘密にしようとした。
+【いま】振りかえるとばかばかしいことだと思う。そして、すぐに【それを止めた】。
+
+＊そして、事実、
+ジェシカと私は
+ひとつのカップルだった。
+YC を作っている大きな【部品】のひとつ
+
+YC はひとつの家族のように感じられた。
+スタートアップの初期は、多くの場合【創立者】は若い。
+私たちは、週に一回は４人全員で夕食を摂っていて、最初の２年間は私が料理していた。
+
+Our first building had been a private home. 
+The overall atmosphere was shockingly different from a VC's office on Sand Hill Road, 
+in a way that was entirely for the better. 
+
+There was an authenticity that everyone who walked in could sense. 
+And that didn't just mean that people trusted us.
+It was the perfect quality to instill in startups.
+
+Authenticity is one of the most important things YC looks for in founders, 
+not just because fakers and opportunists are annoying, 
+but because authenticity is one of the main things that separates the most successful startups from the rest.
+
+私たちの最初の建物は、【ずっと】民家だった。全体の雰囲気は、
+びっくりするほど Sand Hill Road の VC のオフィスとは違っていたが、
+まったくもって【こっちのほうが】良いんだ。
+
+皆が歩いて来られる、というひとつの【確実性】があった。
+そして、それは単に人々が私たちを信用してくれる、という意味だけではない。
+＊スタートアップに【染み込ませる】、完璧な【品質】だった。
+
+【確実性】は、YC が創業者に求める一番重要な要素のひとつである。
+それは、単に口だけ野郎ども、日和見野郎どもが【イラつく】というだけではなく、
+最も成功するスタートアップとそれ以外のスタートアップとを隔てる、主要な要素のひとつだ。
+
+Early YC was a family, and Jessica was its mom. 
+And the culture she defined was one of YC's most important innovations. 
+Culture is important in any organization, 
+but at YC culture wasn't just how we behaved when we built the product. 
+At YC, the culture was the product.
+
+YC の初期は、ひとつの家族だった。そしてジェシカは、そこの母親だった。
+そして、彼女が定義した文化【こそが】、 YC の最も重要なイノベーションのひとつだった。
+文化はどんな組織でも重要だが、YC では、製品を作るときのたんなる振る舞い方、というだけではなかった。
+
+Jessica was also the mom in another sense: she had the last word. 
+Everything we did as an organization went through her first—who to fund, 
+what to say to the public, how to deal with other companies, who to hire,
+everything.
+
+またジェシカは、【もうひとつのことがら】についての母親でもあった。
+彼女が【決定権を握っていた。】
+組織として、私たちがやったことはすべて、まず最初に彼女のとこを【通っていた】。
+誰に出資するか、公式発表で何を言うか、ほかの企業の【扱い方】、誰を雇うか、などなど、すべてだ。
+
+Before we had kids, YC was more or less our life. 
+There was no real distinction between working hours and not. 
+We talked about YC all the time. 
+
+And while there might be some businesses that
+it would be tedious to let infect your private life, we liked it. 
+
+We'd started YC because it was something we were interested in. 
+And some of the problems we were trying to solve were endlessly difficult. 
+How do you recognize good founders? You could talk about that for years, and we did; we still do.
+
+私たちが子供を持つまえ、程度の差はあれ YC が私たちの生活【そのもの】だった。
+【そのときは】作業時間とそれ以外の時間とを隔てるものは、【本当に】何もなかった。
+私たちはすべての時間、 YC について話していた。
+
+プライベートな生活を【浸食】するうんざりするようなビジネスがあるが、
+【その間】、私たちは好んでそれをやっていた。
+
+私たちは YC を始めた。
+それは私たちが興味をもっていたことだったからだ。
+そして、私たちが解決しようと試みた問題のいくつかは、終わりが見えないほど困難なものだった。
+あなたはどうやって【有望な】創業者を識別する？
+そのことについて、何年【でも】話せるだろう。
+そして、私たちはそうした【し】、今もまだやっている。
+
+I'm better at some things than Jessica,
+and she's better at some things than me. 
+One of the things she's best at is judging people. 
+She's one of those rare individuals with x-ray vision for character. 
+She can see through any kind of faker almost immediately. 
+Her nickname within YC was the Social Radar, 
+and this special power of hers was critical in making YC what it is. 
+
+The earlier you pick startups, the more you're picking the founders. 
+Later stage investors get to try products and look at growth numbers. 
+At the stage where YC invests, there is often neither a product nor any numbers.
+
+【いくつかのことがらでは、私のほうがジェシカより上手で、】
+そして、【いくつかのことがらでは、ジェシカのほうが私より上手】だ。
+彼女が一番上手ということがらのひとつに、人を評価することがある。
+彼女の持っているめずらしい特徴のひとつに、人の性格を見透かす X線 を持っていることがあげられる。
+彼女は、どんな種類の口だけ野郎でも、ほぼ瞬時に見とおすことができる。
+YC での彼女のニックネームは【ソーシャル・レーダー】だった
+この彼女の特別な【能力】は、YC を形づくる際に、決定的な【役割を果たした】。
+
+早い段階で、あなたがスタートアップを選ぶのなら、より、
+その創業者を選び出すことが【重要になってくる】。
+【あとの】ステージの出資者は製品を試す機会があり、数字から成長をみることが【できる】。
+YC の出資するステージでは、製品も、数値もない、なんてことはよくある。
+
+Others thought YC had some special insight about the future of technology. 
+Mostly we had the same sort of insight Socrates claimed: we at least knew we knew nothing. 
+What made YC successful was being able to pick good founders. 
+We thought Airbnb was a bad idea. 
+We funded it because we liked the founders.
+
+外部のひとたちは、
+YC が技術の未来についてのいくつかの特別な洞察を持って【いる】、と考え【る】。
+YC を成功せしめているのは、【良い】創業者を選べたことにある。
+私たちは Airbnb は悪いアイデアだと思った。
+私たちは出資したのは、創業者のことを気に入ったからだ。
+
+During interviews, 
+Robert and Trevor and I would pepper the applicants with technical questions. 
+Jessica would mostly watch. 
+A lot of the applicants probably read her as some kind of secretary, 
+especially early on, 
+because she was the one who'd go out and get each new group and she didn't ask many questions. 
+She was ok with that. 
+It was easier for her to watch people if they didn't notice her. 
+But after the interview, 
+the three of us would turn to Jessica and ask "What does the Social Radar say?" [1]
+
+面接では、ロバートとトレバーと私は技術的な質問をして、応募者にコショウを掛ける。
+ジェシカはほぼ観察している。
+たぶん、たくさんの応募者が彼女のことを秘書のたぐいと【思っただろう】、
+とくに初期は。なぜなら、【部屋を】出て、新しいグループを呼び込む役割を、彼女がしていたし、
+彼女はそれほど多く質問しなかったから。
+彼女はそれでかまわなかった。
+もし、彼らが彼女のことを気にとめないのなら、彼女にとって、応募者をより観察しやすくなる。
+だけど、面接が終わると、私たちのうちの３人はジェシカの方に向き直り、
+こう訊くんだ。「ソーシャル・レーダーはなんて言ってる？」と。[1]
+
+Having the Social Radar at interviews wasn't just
+how we picked founders who'd be successful. 
+It was also how we picked founders who were good people. 
+
+At first we did this because we couldn't help it. 
+Imagine what it would feel like to have x-ray vision for character. 
+Being around bad people would be intolerable. 
+So we'd refuse to fund founders whose characters we had doubts about
+even if we thought they'd be successful.
+
+面接でソーシャル・レーダーを持つことは、
+単に、私たちが成功する見込みのある創業者を選ぶ方法、というだけではない。
+それは、【よい人である】創業者を選ぶ方法、でもある。
+
+最初に私たちはそれをした。＊【なぜなら、私たちはそれを助けられなかった】。
+性格を見透す X線 の目を持っているのがどんな感じか、想像してほしい。
+悪い人間にまわりをうろつかれたら、耐えられないだろう。
+だから、性格に疑わしいところがある場合は、成功する見込みがありそうでも、
+その創業者に出資するのを拒否する。
+
+Though we initially did this out of self-indulgence, 
+it turned out to be very valuable to YC. 
+We didn't realize it in the beginning, 
+but the people we were picking would become the YC alumni network.
+
+And once we picked them, 
+unless they did something really egregious, 
+they were going to be part of it for life. 
+Some now think YC's alumni network is its most valuable feature. 
+
+I personally think YC's advice is pretty good too, 
+but the alumni network is certainly among the most valuable features. 
+The level of trust and helpfulness is remarkable for a group of such size. 
+And Jessica is the main reason why.
+
+【わがままで】私たちは【最初に】これをやった【わけではないが、】
+にもかかわらず、YC にとって、とても価値のあるものになった。
+YC のスタート【時に、いきなりは】、私たちはそれを実現【できなかった】けれど、
+私たちが選んだ人たちは YC 同窓生のネットワークを形成する【んだ】。
+
+そして、一度私たちが彼らを選んだら、
+彼らは、目に余るような本当に【ひどいこと】もなく、
+彼らの【人生】のために、その【ネットワークの】一部となった。
+いまでは、その同窓生のネットワークこそが最も価値のある YC の【特徴】だと考える人もいる。
+
+YC のアドバイス【じたい】とても良いものだが、
+同窓生のネットワーク【こそが】、最も価値のある特徴【を成している】と、個人的には思う。
+信頼性と有用性のレベル【の高さ】は、この規模のグループとしては注目すべきものだ。
+そして、ジェシカこそが、【それが機能する】主な【理由】だ。
+
+(As we later learned, 
+it probably cost us little to reject people whose characters
+we had doubts about, 
+because how good founders are and how well they do are not orthogonal. 
+If bad founders succeed at all, they tend to sell early. 
+The most successful founders are almost all good.)
+
+（あとになって学んだことだが、
+おそらく、【この仕組みが】性格に難のあると判断した人物を除外するコストを小さくしているのだろう。
+なぜなら、創業者がどれほど良い人か、ということと、彼らがどれくらい上手にやるか、ということは直交しない。
+仮に、悪い創業者が【すべてにおいて】成功したとして、彼らは早い時期に売り【払おう】しがちだ。
+もっとも成功する創業者は、ほぼ全員、よい人たちだ。）
+
+If Jessica was so important to YC, why don't more people realize it?
+Partly because I'm a writer, 
+and writers always get disproportionate attention. 
+YC's brand was initially my brand,
+and our applicants were people who'd read my essays.
+
+But there is another reason: Jessica hates attention. 
+Talking to reporters makes her nervous. 
+The thought of giving a talk paralyzes her. 
+She was even uncomfortable at our wedding, 
+because the bride is always the center of attention. [2]
+
+YC にとってジェシカがそれほど重要だったのなら、
+なぜ、多くの人たちは、それを見抜けないんだろう？
+その部分解は、私が物書きだということにあり、
+物書きというのは、つねに不釣り合いな注目を集める【ものだ】からだ。
+YC のブランドは僕のブランドで、私たちの応募者は私のエッセイを読んだ人たちだ。
+
+だけど、もうひとつ理由があって、ジェシカは注目されることを嫌う。
+レポーターたちに話すことは彼女を不安にさせる。
+＊【話を与える考え】は彼女を麻痺させる。
+彼女は私たちの結婚式のときでさえそうだった。
+花嫁は常に注目の中心にいるものだからね。[2]
+
+It's not just because she's shy that she hates attention, 
+but because it throws off the Social Radar. 
+She can't be herself. 
+You can't watch people when everyone is watching you.
+
+彼女が注目されることを嫌うのは、彼女がただシャイだというだけではなく、
+ソーシャル・レーダーを捨てることになるからだ。
+彼女が彼女自身でいられな【くなる】。
+みんながあなたのことを見ているとき、あなたは【誰か】を【観察】できない。
+
+Another reason attention worries her is that she hates bragging. 
+
+In anything she does that's publicly visible, 
+her biggest fear (after the obvious fear that it will be bad) is that it will seem ostentatious. 
+
+She says being too modest is a common problem for women. 
+But in her case it goes beyond that. 
+She has a horror of ostentation so visceral it's almost a phobia.
+
+注目されることが彼女を不安にさせるもうひとつ理由は、
+彼女が自慢することを嫌うことにある。
+
+彼女がやることはなんであれ、公にさらされていて、
+それを見せびらかしている、とられてしまうことを一番恐れている（そして、それは悪い【現実】となる）。
+
+控えめ過ぎることは女性たちに共通する問題だ、と彼女は言う。
+だけど、彼女の場合【それを越えたところにある】。
+彼女は見せびらかすことに対する、とても本能的な恐怖を持っていて、
+ほとんど恐怖症と言っていいほどだ。
+
+She also hates fighting. 
+She can't do it; she just shuts down. 
+And unfortunately there is a good deal of fighting in being the public face of an organization.
+
+また、彼女は戦うことを嫌っている。
+彼女は戦えない、ただシャッターを下ろすだけだ。
+そして、不幸なことに、ある組織の開かれた顔として振る舞うときに、戦うことには価値がある。
+
+So although Jessica more than anyone made YC unique, 
+the very qualities that enabled her to do it mean she tends to get written out of YC's history. 
+
+Everyone buys this story that PG started YC and his wife just kind of helped. 
+Even YC's haters buy it. 
+
+A couple years ago when people were attacking us for not funding more female founders (than exist), 
+they all treated YC as identical with PG. 
+It would have spoiled the narrative to acknowledge Jessica's central role at YC.
+
+誰よりも、ジェシカが YC をユニークなものにしているにもかかわらず、
+その【突出した品質】が、彼女にそれを可能にさせる。
+つまり、彼女は YC の歴史の記述外に置かれがち、ということだ。
+
+みんなは「PG が YC を始め、彼の妻はただのお手伝いのたぐい」という物語を買う。
+アンチどもでさえも、それを買う。
+
+２年前、私たちが（【実際に】存在するよりも、多くの）女性創業者にたいして出資していない、
+として私たちを攻撃してきたときに、その人たちは YC を PG と同一視していた。
+YC でのジェシカの中心的な役割を認めることは、その物語を台なしになってしまうだろう。
+
+Jessica was boiling mad that people were accusing her company of sexism. 
+I've never seen her angrier about anything. 
+But she did not contradict them. 
+Not publicly. 
+In private there was a great deal of profanity. 
+And she wrote three separate essays about the question of female founders. 
+But she could never bring herself to publish any of them. She'd seen the level of vitriol in this debate, 
+and she shrank from engaging. [3]
+
+人々が彼女の会社をセクシズムと非難したことで、ジェシカは狂ったように煮えくりかえっていた。
+ほかのどんなことでも、あんなに怒った彼女をみたことがない。
+だけど、彼女はその人たちに反論しなかった。
+おおっぴらには、ね。
+プライベートでは、罰当たりな言葉を【たっぷり】用いていた。
+そして、彼女は女性起業家の質問についての、それぞれ独立した３つのエッセイを書き上げた。
+だけど、彼女はそれらのうちのどれひとつも、発表することができなかった。
+彼女は、ディベートでの悪意のひどさを目の当たりにし、人の注目をあつめることに尻込みした。[3]
+
+It wasn't just because she disliked fighting. 
+She's so sensitive to character that
+it repels her even to fight with dishonest people. 
+The idea of mixing it up with linkbait journalists or Twitter trolls
+would seem to her not merely frightening, 
+but disgusting.
+
+それは、単に彼女が戦うことを好まないからではなかった。
+彼女はとても繊細な性格のため、不誠実な人を追い払うことでさえ、彼女をおびえさせる。
+linkbait のジャーナリストか、もしくは、ツイッター上の暇人による、
+＊【そのないまぜのアイデアは、】彼女にとって、ぞっとさせる、というだけではなく、
+うんざりすることであった。
+
+But Jessica knew her example as a successful female founder
+would encourage more women to start companies, 
+so last year she did something YC had never done before
+and hired a PR firm to get her some interviews. 
+
+At one of the first she did, 
+the reporter brushed aside her insights about startups
+and turned it into a sensationalistic story about
+how some guy had tried to chat her up as she was waiting outside the bar
+where they had arranged to meet. 
+
+Jessica was mortified, 
+partly because the guy had done nothing wrong, 
+but more because the story treated her as a victim significant
+only for being a woman, 
+rather than one of the most knowledgeable investors in the Valley.
+
+だけど、ジェシカは、自分が成功した女性創業者のひとりとして、
+会社を始める女性を【もっと】励ますことになると知っている。
+だから、去年、彼女は YC がそれまでやったことがなかった【こと】をやった。
+そして、彼女をインタビューしてもらうために、ある PR 会社を雇った。
+
+最初に彼女がやったことのひとつ【で】、
+そのレポーターは、スタートアップについての彼女の見識を【軽くあしらい】、
+そして、彼女たちがインタビューの場所として落ちあう場所として
+あるバーを指定したが、そのバーの外で待っていた彼女を、
+ひとりの男がどうやってひっかけようとしたか、という、
+センセーショナルな小咄に、落とし込んだんだ。
+
+ジェシカは腹を立てた。
+その男は何も悪いことをしていないし、
+そして、その小咄が、シリコンバレーでもっとも認められるべき出資者のひとりとして扱うよりも、
+【彼女をただ女性であるだけで重要な犠牲者とみなした】からだ。
+
+After that she told the PR firm to stop.
+
+その後、彼女はその PR 会社に止めるよう【命じた】。
+
+You're not going to be hearing in the press about what Jessica has achieved. 
+So let me tell you what Jessica has achieved. 
+Y Combinator is fundamentally a nexus of people, like a university. 
+It doesn't make a product. 
+What defines it is the people. 
+Jessica more than anyone curated and nurtured that collection of people. 
+In that sense she literally made YC.
+
+ジェシカが達成したことについての発表を、あなたが聞くことはないだろう。
+だから、代わりに私にそれを話させてほしい。
+Y Combinator は、基本的に大学のような、ひとつのひとのつながりだ。
+それは【ひとつも】製品を作らない。
+【定義するのは、人だ】。
+ジェシカは、誰よりも企画し、【人脈】を育てた。
+それによって、文字通りの意味で、YC を作ったのは彼女だ。
+
+Jessica knows more about the qualities of startup founders than
+anyone else ever has. 
+Her immense data set and x-ray vision are the perfect storm in that respect. 
+The qualities of the founders are the best predictor of how a startup will do. 
+And startups are in turn the most important source of growth
+in mature economies.
+
+ジェシカはスタートアップ創設者の質について、それまでの誰よりも、
+多くを知っている。
+彼女の膨大なデータと X線【視界】は【尊敬のなかの完璧な嵐】だ。
+ひとつのスタートアップがどう成すのかを占うのに、創立者の質こそが、
+最良の予言者だ。
+そして、スタートアップは成熟した経済のなかで、一番重要な成長の原資となっている。
+
+The person who knows the most about the most important factor
+in the growth of mature economies—that is who Jessica Livingston is. 
+Doesn't that sound like someone who should be better known?
+
+成熟した経済の成長の、最も重要なカギについて一番知っている人物、
+それが、ジェシカ・リビングストン、その人だ。
+【もっと、よく理解されてしかるべき人物だとは思わないかい？】
+
+Notes
+ノート
+
+[1] Harj Taggar reminded me that while Jessica didn't ask many questions, 
+they tended to be important ones:
+
+"She was always good at sniffing out any red flags about
+the team or their determination and disarmingly asking the right question, 
+which usually revealed more than the founders realized."
+
+[1] Harj Taggar がわたしに、
+ジェシカがそれほど質問しない【間に】、応募者がやりがちな
+重要なことを思い出させてくれた。
+
+「いつも彼女は、チームやその創業者らの決断についてのどんな【赤信号】でさえ、
+上手にかぎ分けて、そして、おだやかに的確な質問を【する】んだ。
+それによって、創業者たちが認識して【いる】以上に、
+【抱えている】多くの問題を取り除いた」。
+
+[2] Or more precisely, 
+while she likes getting attention in the sense of getting credit for
+what she has done, 
+she doesn't like getting attention in the sense of being watched in real time. 
+Unfortunately, 
+not just for her but for a lot of people, 
+how much you get of the former depends a lot on how much you get of the latter.
+
+Incidentally, 
+if you saw Jessica at a public event, 
+you would never guess she hates attention, 
+because (a) she is very polite and (b) when she's nervous, 
+she expresses it by smiling more.
+
+[2]もしくは、もっと正確に言えば、
+彼女がやったことについて明記され、それが注目を集めることについては好む。
+彼女はリアルタイムに見られることを好まない。
+彼女だけでなく、多くの人にとってもそうだが、不幸にして、
+あなたがどれだけ前者【の注目】を得るかは、その多くが、あなたがどれだけ後者【の注目】を得るかに拠る。
+
+ついでに、
+もし、あなたがなにかの公式なイベントでジェシカを見かけても、
+彼女が注目されることを嫌っているなんて、想像もできないだろう。
+なぜなら、(a) 彼女がとても礼儀正しいこと、
+そして、(b) 彼女がナーバスになっているとき、彼女はより笑顔になることでそれを表現するから、だ。
+
+[3] The existence of people like Jessica is not just something
+the mainstream media needs to learn to acknowledge, 
+but something feminists need to learn to acknowledge as well. 
+There are successful women who don't like to fight. 
+Which means if the public conversation about women consists of fighting, 
+their voices will be silenced.
+
+There's a sort of Gresham's Law of conversations. 
+If a conversation reaches a certain level of incivility, 
+the more thoughtful people start to leave. 
+No one understands female founders better than Jessica. 
+But it's unlikely anyone will ever hear her speak candidly about the topic. 
+She ventured a toe in that water a while ago, 
+and the reaction was so violent that she decided "never again."
+
+[3]主要なメディアだけでなく、フェミニストもまた、ジェシカのような【女性】の存在を
+認めることを、よく学ぶ必要がある。
+戦うことを好まない、成功した女性たちがいる。
+もし、女性についての【公式的な会話】が言い争いによって占められているのなら、
+彼女らの声が聞こえなくなる、ということだ。
+
+会話についての「グレシャムの法則」というものである。
+もし、会話が本当に不作法なところまで【落ちたら】、より思慮深い人がそこから離れはじめる。
+女性起業家について、ジェシカよりよく理解している人はいない。
+だけど、おそらく誰も、彼女がその話題について率直に話しているのを聞くことはないだろう。
+【ちょっとまえに】彼女はあえて、その水につま先をつけてみたけれど、
+そのときの反応はとても暴力的で、彼女は「二度とごめんだ」と決心した。
+
+Thanks to Sam Altman, Paul Buchheit, Patrick Collison, Daniel Gackle, Carolynn Levy, Jon Levy, 
+Kirsty Nathoo, Robert Morris, Geoff Ralston, and Harj Taggar for reading drafts of this. 
+And yes, Jessica Livingston, who made me cut surprisingly little.
+
+草稿を読んでくれた Sam Altman、 Paul Buchheit、 Patrick Collison、
+Daniel Gackle、 Carolynn Levy、 Jon Levy、 Kirsty Nathoo、 Robert Morris、
+Geoff Ralston、そして Harj Taggar に感謝する。
+
+そしてええ、 Jessica Livingston、 驚くほど【短いものに書き直させた】。

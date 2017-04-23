@@ -1,0 +1,252 @@
+[ http://paulgraham.com/name.html ]
+
+Change Your Name
+あなたの名前を変えよう
+
+August 2015
+2015年8月
+
+If you have a US startup called X and you don't have x.com,
+you should probably change your name.
+
+もし、あなたがアメリカで X という【名前の】スタートアップを持っていて、
+x.com を持っていないのなら、おそらく、あなたは名前を変えるべきだ。
+
+The reason is not just that people can't find you. 
+For companies with mobile apps, especially, having the right domain name
+is not as critical as it used to be for getting users. 
+
+The problem with not having the .com of your name is that it signals weakness. 
+
+Unless you're so big that your reputation precedes you,
+a marginal domain suggests you're a marginal company. 
+Whereas (as Stripe shows) having x.com signals strength
+even if it has no relation to what you do.
+
+その理由は、誰もあなたのことを見つけられない、というだけではない。
+モバイルアプリの会社にとっては、とりわけ、正しいドメイン名を取得することは、
+ユーザーを獲得することほど重要なことではない【からだ】。
+
+あなたの名前の x.com を持っていないことの問題は、弱さのシグナルだということだ。
+
+あなたがとても大きいのでなければ、【あなたの評判が、あなたより先行する】ので、
+取るに足らないドメイン名は、あなたが取るに足らない会社だ、と示唆する。
+
+だが一方で、(Stripe が示すとおり、)
+【ドメイン名が】あなたがやっていることと何の関係もないときでさえ、
+x.com を【持つこと】は力強いメッセージを発する。
+
+Even good founders can be in denial about this. 
+Their denial derives from two very powerful forces: identity,
+and lack of imagination.
+
+良い創業者たちでさえ、これについて【拒否】【してしまう。】
+彼らが拒否するのは、とても強力なふたつの力に由来する。
+アイデンティティーと想像力の欠落。
+
+X is what we are, founders think. 
+There's no other name as good. 
+Both of which are false.
+
+X は私たちそのもの、創業者は考える。
+ほかに【しっくりくる】名前はない。
+このふたつは誤りだ。
+
+You can fix the first by stepping back from the problem. 
+Imagine you'd called your company something else. 
+
+If you had, surely you'd be just as attached to that name as you are
+to your current one. 
+
+The idea of switching to your current name would seem repellent. [1]
+
+ひとつ目のやつは、うしろに下がって、問題から離れることで解決できる。
+あなたの会社を何か他の名前で呼んでいたら、と想像してください。
+
+もし【できた】なら、ちょうどそんなふうに、あなた自身を表す名前に、
+【いまあなたが思いついたやつ】を貼り付けるべきである。
+
+【いまあなたが思いついたやつ】に名前を切り換える、というアイデアは、
+とてもイヤなものだろう。[1]
+
+There's nothing intrinsically great about your current name. 
+Nearly all your attachment to it comes from it being attached to you. [2]
+
+【あなたがいま思いついた】名前について、本質的に、
+なにも【グレートなもの】はない。
+あなたの【思いついた名前】への【アタッチメント】は、ほぼすべて、
+あなたに取り付けられている【思いついた名前】から来る。 [2]
+
+The way to neutralize the second source of denial, 
+your inability to think of other potential names, 
+is to acknowledge that you're bad at naming. 
+Naming is a completely separate skill from those you need to be a good founder. 
+You can be a great startup founder but hopeless at thinking of names for your company.
+
+ふたつ目の拒否の源は、
+命名可能なほかの名前を考え出せない、あなたの能力のなさであり、
+それを中和する方法は、自分のネーミングセンスのなさを認めることだ。
+あなたが優秀なひとりの創立者になるために必要なことがらと、
+名前付けのセンスとは、完璧に、何の関係もない。
+あなたが、会社の名前を考え出すことが絶望的にへたくそでも、
+あなたは優秀なひとりのスタートアップ創立者になれる。
+
+Once you acknowledge that, 
+you stop believing there is nothing else you could be called. 
+There are lots of other potential names that are as good or better;
+you just can't think of them.
+
+いったんあなたがそれを認めたら、
+あなたは、【これ以外に】呼ばれるのにふさわしい名前はない、
+という思い込みを【やめる】。
+ほかの可能性のある名前はたくさんあって、それらは、ぴったりか、ましである。
+ただ、あなたがそれらを考えられないだけだ。
+
+How do you find them?
+One answer is the default way to solve problems you're bad at:
+find someone else who can think of names. 
+
+But with company names there is another possible approach. 
+
+It turns out almost any word or word pair that is not an obviously bad name
+is a sufficiently good one, and the number of such domains is so large that
+you can find plenty that are cheap or even untaken. 
+
+So make a list and try to buy some. 
+That's what Stripe did. 
+(Their search also turned up parse.com, 
+which their friends at Parse took.)
+
+あなたは、どうやって見つける？
+ひとつの答えは、あなたが【苦手とする】問題を解決するときの、
+デフォルトの方法だ、誰でもいいから名前を考えられる人をさがす【んだ】。
+
+だけど、会社の名前についていえば、もうひとつの可能なアプローチがある。
+
+ほとんどの社名は、【てきとうな】単語、もしくは、
+それほど明白に悪くはない単語によるペアで出来ていて、
+【それで】十分に良いものが出来る。
+
+そのような【組み合わせの】ドメインは、とてもたくさんあるので、
+あなたは、安価か、まだ誰にも取られていないものを、
+たっぷり見つけることができる。
+
+だからリストを作って、【そのなかから】いくつか買ってみよう。
+【これ】は Stripe がやった方法だ。
+（彼らの【検索】は「parse.com」に【なった】が、
+それは彼らの【 Parse 在住の】友人たちが取得した）。
+
+The reason I know that naming companies is a distinct skill orthogonal
+to the others you need in a startup is that I happen to have it. 
+
+Back when I was running YC and did more office hours with startups, 
+I would often help them find new names. 
+
+80% of the time we could find at least one good name in a 20 minute office hour slot.
+
+スタートアップのなかで、あなたが必要とするスキルのうち、
+会社に名前をつけることは、
+それ以外のスキルと直交する【一意の】スキルであることを私が知っているのは、
+偶然、私がそれを持っている【からだ】。
+
+YC を運営していた頃に戻って、
+私は、スタートアップ【の創業者】たちと一緒に
+【いまより】たくさんオフィス・アワーをしていたが、
+私は、よく彼らの新しい名前を見つける手伝いをしていた。
+
+【１スロット】20分のオフィス・アワーのなかで、
+80 %くらいの【確率】で、少なくともひとつ、ぴったりの名前を見つけられた。
+
+Now when I do office hours I have to focus on more important questions, 
+like what the company is doing. 
+
+I tell them when they need to change their name. 
+
+But I know the power of the forces that have them in their grip, 
+so I know most won't listen. [3]
+
+オフィス・アワーをするとき、現在、私は、
+その企業がいまやっていること【が何なのか】、というような、
+重要な質問に、もっと焦点を当てる必要がある。
+
+私は、彼らが名前を変える必要があるのがいつか、彼らに伝える。
+
+だけど、彼らを掴んで放さない【思い込みの】力の強さを知っている。
+だから、【彼らのほとんどが】耳をかさないことも知っている。[3]
+
+There are of course examples of startups that have succeeded without
+having the .com of their name. 
+There are startups that have succeeded despite
+any number of different mistakes. 
+But this mistake is less excusable than most.
+
+It's something that can be fixed in a couple days
+if you have sufficient discipline to acknowledge the problem.
+
+もちろん、彼らの名前の入った .com ドメインを持つことなく、
+成功したスタートアップの例はある。
+異なるいくつかのミスを犯したのに、それにもかかわらず、
+成功したスタートアップはある。
+だがこの場合のミスは、ほとんどのミスよりも許されないものだ。
+
+もし、あなたが問題を認識する十分な見識をもっているのなら。
+それは２～３日で解決出来るたぐいの問題だ。
+
+100% of the top 20 YC companies by valuation have the .com of their name. 
+94% of the top 50 do. 
+But only 66% of companies in the current batch have the .com of their name. 
+Which suggests there are lessons ahead for most of the rest, 
+one way or another.
+
+【評価によると、】YC 出身の企業 TOP 20 は、
+100 % 彼らの名前を冠した .com ドメインを持っている。
+TOP 50 のうち、94 % が持っている。
+だが、【カレントバッチ】では、66 % しか、
+彼らの名前を冠した .com ドメインを持っていない。
+いずれにせよ、残り（【33 %のカレントバッチ】）のほとんどに、
+【まず取りかかるべき】レッスンがあることを、それは示唆している。
+
+Notes
+ノート
+
+[1] Incidentally, 
+this thought experiment works for nationality and religion too.
+
+[1]ついでながら、
+この思考実験は、国籍と宗教についても働く。
+
+[2] The liking you have for a name that has become part of your identity
+manifests itself not directly, which would be easy to discount, 
+but as a collection of specious beliefs about its intrinsic qualities. 
+(This too is true of nationality and religion as well.)
+
+[2]名前というものは、
+【名付けた】あなた【自身】のアイデンティティーの一部になる。
+
+あなたのリンク付け（命名）の仕方は、
+　・直接的ではないやりかたで【それ】自体を【表し】、
+　・割り引くことは簡単である
+　・けれども、【それに】本来備わっている性質についての、
+　　上っ面だけの信念【の数々を集めた】【ひとつのコレクション】である。
+（これも同じく、国籍と宗教についてよく当てはまる。）
+
+[3] Sometimes founders know
+it's a problem that they don't have the .com of their name, 
+but delusion strikes a step later in the belief that
+they'll be able to buy it despite having no evidence it's for sale. 
+Don't believe a domain is for sale unless the owner has already told you
+an asking price.
+
+[3]ときどき、創業者たちは、
+彼らの名前のついた .com ドメインを持っていないことが問題だと知る。
+【それが売り出されるという】確たる証拠がないのにもかかわらず、
+彼らは、いつかそれが買えるようになる、という信念に【とらわれる】。
+だが、間違った信念は、踏み出す一歩を遅らせる。
+まだ、持ち主があなたに価格を提示していないのに、あるドメインが売り出される、
+などと信じるなかれ。
+
+Thanks to Sam Altman, Jessica Livingston, and Geoff Ralston
+for reading drafts of this.
+
+草稿を読んでくれた Sam Altman、 Jessica Livingston、そして Geoff Ralston
+に感謝する。
