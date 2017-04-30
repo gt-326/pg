@@ -1,0 +1,498 @@
+[ http://paulgraham.com/aord.html ]
+
+Default Alive or Default Dead?
+デフォルトは生か、死か？
+
+October 2015
+2015年10月
+
+When I talk to a startup that's been operating for more than 8 or 9 months, 
+the first thing I want to know is almost always the same. 
+
+Assuming
+their expenses remain constant and
+their revenue growth
+is what it's been over the last several months, 
+do they make it to profitability on the money they have left? 
+Or to put it more dramatically, 
+by default do they live or die?
+
+8 ～ 9 ヶ月以上にわたって運営して【きて】いるスタートアップと話すとき、
+最初に私が知りたいことがらは、ほぼ毎回同じだ。
+
+支出は一定のままであり、かつ、
+歳入の【伸び】は【これまでの】数ヶ月を上まわっている、と仮定してたとき、
+彼らは、残してあるお金で、それを収益性【まで】持っていけるのか？
+もしくは、よりドラマチックに【言うなら】、
+デフォルトに【従うと】、彼らは生きるか、死ぬか？
+
+The startling thing is how often the founders themselves don't know. 
+Half the founders I talk to don't know whether
+they're default alive or default dead.
+
+驚くべきことがらは、どれほど【多くの】創業者が知らないか、だ。
+私の【話す】創業者のうち、その半分が、自身のデフォルトが生か、死かを知らない。
+
+If you're among that number, 
+Trevor Blackwell has made a handy calculator you can use to find out.
+
+もし、あなたが【その半分に】該当するなら、
+Trevor Blackwell が手のひらに載る計算機（訳者註："Startup Growth Calculator"）
+を作ってある【から、あなたもそれを使って確かめてみるといい。】
+
+The reason I want to know first
+whether a startup is default alive or default dead is that 
+the rest of the conversation depends on the answer. 
+
+If the company is default alive, 
+we can talk about ambitious new things they could do. 
+
+If it's default dead, 
+we probably need to talk about how to save it. 
+
+We know the current trajectory ends badly. 
+How can they get off that trajectory?
+
+そのスタートアップのデフォルトが生か、死か、を、
+私が最初に知りたい理由は、その答えによって、
+残りの会話【の内容】が【変わるから】だ。
+
+もし、生がデフォルトの会社なら、
+私たちは、彼らのできそうな野心あふれる新しいことがらについて話せる。
+
+もし、死がデフォルトの会社なら、
+おそらく、私たちはどうやって会社を生かすかについて話す必要がある。
+
+私たちは、現状の【会社の】軌道が【悪い形】で終わることを知っている。
+どうやったら、彼らはその軌道を【修正】できるだろう？
+
+Why do so few founders know whether they're default alive or default dead?
+Mainly, I think, because they're not used to asking that. 
+
+It's not a question that makes sense to ask early on, 
+any more than it makes sense to ask a 3 year old
+how he plans to support himself.
+
+But as the company grows older
+the question switches from meaningless to critical. 
+That kind of switch often takes people by surprise.
+
+これほどわずかな創業者しか、
+自身のデフォルトが生か、死かを知らないのは、なぜだろう？
+思うにそれは、彼らがそのことについて、それまでほとんど問うことが
+なかったことが【主な理由だ】。
+
+早い時期に訊いても、それは有意な質問ではなく、
+三歳児に【どんなふうに自身をサポートすることを計画しているか】を訊くのと
+なんら変わらない。
+
+だが、会社が成長し、年をとるに【したがって】、
+その質問は、意味のないものから、より重要なものへと変わっていく。
+その種の切り替わりは、しばしば人々を驚かせる。
+
+I propose the following solution:
+instead of starting to ask too late
+whether you're default alive or default dead, start asking too early. 
+
+It's hard to say precisely when the question switches polarity. 
+But it's probably not that dangerous to start worrying too early that
+you're default dead, 
+whereas it's very dangerous to start worrying too late.
+
+私は、【以下の】解決策を提案する：
+遅すぎる時期になってから問い始めるかわりに、
+早すぎる時期に、デフォルトが生か、死かを問い始めよう。
+
+その質問の【極性】が【逆のほうに振れるのが】いつなのか、
+正確に言うのはむつかしい。だが、あなたのデフォルトが死【なのだから】、
+【あなたのたどる道の】早すぎる時期に心配し始めることは、おそらく危険じゃない。
+一方で、遅すぎる時期に心配し始めることは、とても危険だ。
+
+The reason is a phenomenon I wrote about earlier: the fatal pinch. 
+The fatal pinch is default dead + slow growth + not enough time to fix it. 
+And the way founders end up in it is
+by not realizing that's where they're headed.
+
+その理由は、私が早い時期に書いたある現象だ：【致命的なピンチ】
+
+【致命的なピンチ ＝ 死がデフォルト ＋ 遅い成長 ＋ それを解決する時間も不十分】
+
+そして、創業者たちが、そのなかでお手上げになるみちすじは、
+【そこに足を踏み入れたこと】彼らがはっきり認識しないことによるものだ。
+
+There is another reason founders don't ask themselves
+whether they're default alive or default dead:
+they assume it will be easy to raise more money. 
+
+But that assumption is often false, 
+and worse still, 
+the more you depend on it, 
+the falser it becomes.
+
+もうひとつ、創業者たちが自身にデフォルトが生か、死かを訊かない理由がある：
+【追加の資金調達】は簡単なこと、と彼らは想定している。
+
+だが、その想定がしばしば誤りで、
+そして、悪いことは【まだつづき】、
+あなたは、よりその想定に依拠するようになり、
+【いっそう大きな誤り】となる。
+
+Maybe it will help to separate facts from hopes. 
+Instead of thinking of the future with vague optimism, 
+explicitly separate the components. 
+
+Say "We're default dead, but we're counting on investors to save us."
+
+Maybe as you say that it will set off the same alarms in your head that
+it does in mine. 
+And if you set off the alarms sufficiently early, 
+you may be able to avoid the fatal pinch.
+
+おそらく、願望と事実を分けることは役に立つ。
+ぼんやりした楽観主義にもとづいて未来を考えることのかわりに、
+構成要素を明確に分けよう。
+
+【口に出して】言ってみよう、
+「デフォルトは死、だけど、出資者が私たちを救ってくれるはずだ」と。
+
+おそらく、口に出して言うことで、
+あなたの頭のなかで【鳴っている】それと同じ内容のアラームを打ち消すはずだ。
+【私の場合はそうだ】。
+そして、もし【十分に】早い時期にあなたがアラームを消すなら、
+あなたは、たぶん「致命的なピンチ」を避けられるだろう。
+
+It would be safe to be default dead
+if you could count on investors saving you. 
+As a rule their interest is a function of growth. 
+If you have steep revenue growth, 
+say over 6x a year, 
+you can start to count on investors being interested
+even if you're not profitable. [1]
+
+But investors are so fickle that
+you can never do more than start to count on it. 
+Sometimes something about your business will spook investors
+even if your growth is great. 
+So no matter how good your growth is, 
+you can never safely treat fundraising as more than a plan A. 
+
+You should always have a plan B as well:
+you should know (as in write down) precisely
+what you'll need to do to survive if you can't raise more money, 
+and precisely when you'll have to switch to plan B if plan A isn't working.
+
+もし、出資者が救ってくれるだろう、と頼りに【できていたら】、
+それはあなたを【安全に】、デフォルトが死、【の状態】へ【導いていた】だろう。
+原則として、彼らの興味【の対象】は、成長を生み出す機能だ。
+もし、あなたが【険しい】【歳入の成長】を持っているのなら、
+＊一年で 6 倍以上【と言え】、
+【仮に】利益をもたらしていない状態であっても、
+出資者に興味を持ってもらえることを、あなたは期待し始めることが【できる】。[1]
+
+だが、出資者たちはたいへん気まぐれだから、
+あなたは、それを期待する【こと】以上のことは【何も】できない。
+あなたの成長が申し分ないときでさえ、ときどき、あなたの商売についての何かが、
+出資者を怖がらせることがある。
+だから、あなたの成長がどれだけすばらしいものであれ、あなたは決して、
+
+＊1【出資額の増額】を【複数のプラン A として】【安全に】扱うことはできない。
+＊2【プラン A 以上【のお金を調達する】、という意味での】【出資額の増額】を
+【安全に】扱うことはできない。
+
+その上、あなたはつねにプラン B を持つべきだ：
+あなたは（【以下の２点について】）正確に知るべきだ。
+
+　・もし、これ以上の増額ができないのなら、
+　生き延びるために何をする必要があるのか。
+
+　・もし、プラン A が機能しないために、
+　必要にせまられてプラン B に変更するのがいつなのか。
+
+In any case, growing fast versus operating cheaply is
+far from the sharp dichotomy many founders assume it to be. 
+
+In practice there is surprisingly little connection between
+how much a startup spends and how fast it grows. 
+
+When a startup grows fast, 
+it's usually because the product hits a nerve, 
+in the sense of hitting some big need straight on. 
+
+When a startup spends a lot, 
+it's usually because the product is expensive to develop or sell, 
+or simply because they're wasteful.
+
+どんな場合であれ、素早い成長 vs. 倹約的な運用【という構図】は、
+多くの創業者が想定するような、【きれいに二分できる】ものとはほど遠いものだ。
+
+実際、スタートアップがどれだけたくさん支出するか、ということと、
+それがどれだけ速く成長するか、の間には、驚くほど小さな関連性しかない。
+
+スタートアップが速く成長するときは、
+たいてい製品が【人が気にしていることに触れる】からで、
+何か大きなものに【触れる】ことの【センスにおいて】、
+＊【まっすぐあることが必要だ】
+
+あるスタートアップがたくさん支出するときは、
+その製品が、開発するには高価すぎる場合か、もしくは、売るのに高価すぎるためで、
+そうでなければ単純に、彼らが浪費家であるためだ。
+
+If you're paying attention, 
+you'll be asking at this point not just how to avoid the fatal pinch, 
+but how to avoid being default dead. 
+That one is easy: don't hire too fast. 
+Hiring too fast is by far the biggest killer of startups
+that raise money. [2]
+
+もしあなたが注意を【払っている】のなら、
+ただ、「致命的なピンチ」を避ける方法だけではなく、
+【死ぬことがデフォルトという状態】を避ける方法についても、あなたは訊ねるだろう。
+ひとつは簡単：早すぎる時期に人を雇うな。
+早すぎる【雇用】は、お金を【調達している】スタートアップを殺す、
+たいへん大きな一番の要因だ。[2]
+
+Founders tell themselves they need to hire in order to grow. 
+But most err on the side of overestimating this need rather than
+underestimating it. 
+
+Why? Partly because there's so much work to be done. 
+Naive founders think that if they can just hire enough people, 
+it somehow will be. 
+
+Partly because successful startups have lots of employees, 
+so it seems like that's what one does in order to be successful.
+
+In fact the large staffs of successful startups are probably
+more the effect of growth than the cause.
+
+And partly because when founders have slow growth they don't want to face
+what is usually the real reason: the product is not appealing enough.
+
+創業者は、成長するためには人を雇うことが必要だ、と自分自身言う。
+この【人を雇う】必要性を過小評価するよりも、過大評価することにより、
+【創業者の】ほとんどが間違いを犯している。
+
+なぜだろう？
+部分的な理由は、やらなければいけない仕事がとてもたくさんあるからだ。
+ナイーブな出資者は、もしも十分な人数を雇えたならばと考え、
+【どういうわけだか】それが実現する。
+
+部分的な理由は、成功したスタートアップは人をたくさん雇っていて、
+それが成功するためにする【べき】ことのひとつのように感じられるためだ。
+
+実際は、成功したスタートアップ【で働いているたくさん】のスタッフたちは、
+おそらく、【成功の】原因であるよりも、【その】結果だなの。
+
+そして、
+部分的な理由は、【ふつうは】成長が遅いとき、
+出資者たちは【遅い成長の】本当の理由が何なのかに向き合いたがらない：
+その製品が十分にアピールしていない。
+
+Plus founders who've just raised money are often encouraged
+to overhire by the VCs who funded them. 
+
+Kill-or-cure strategies are optimal for VCs
+because they're protected by the portfolio effect. 
+
+VCs want to blow you up, 
+in one sense of the phrase or the other.
+
+But as a founder your incentives are different. 
+You want above all to survive. [3]
+
+くわえて、【資金調達に成功した】【ばかりの】創業者は、
+彼らに出資している VC によって、よく、多く要員を雇うことをけしかけられる。
+
+VC はポートフォリオ【効果】によって守られているから、
+「殺すか、もしくは、癒すか」作戦は、彼らににとって【最適だ】。
+
+＊フレーズや、そのほかの【センス】のなかで、
+VC はあなたを吹き飛ばしたがっている。
+
+だが、創業者である、あなたのインセンティブは【それとは】異なっている。
+あなたはなによりもまず、生きのびたい。[3]
+
+Here's a common way startups die. 
+They make something moderately appealing and have decent initial growth. 
+They raise their first round fairly easily
+because the founders seem smart and the idea sounds plausible. 
+
+But because the product is only moderately appealing, 
+growth is ok but not great. 
+The founders convince themselves that hiring a bunch of people is
+the way to boost growth. 
+Their investors agree. 
+
+But (because the product is only moderately appealing) the growth never comes. 
+Now they're rapidly running out of runway. 
+They hope further investment will save them. 
+But because they have high expenses and slow growth, 
+they're now unappealing to investors. 
+They're unable to raise more, 
+and the company dies.
+
+死ぬスタートアップが皆通る、一本道がある。
+彼らは、ほどほどに魅力的な製品をつくり、最初の【段階の】成長を立派に遂げている。
+創業者たちは賢そうだし、そのアイデアも妥当そうだから、
+彼らは、簡単に【ファーストラウンドの fairly 】を上げて【達成する】。
+
+だが、その製品は、ほどほどに魅力的であるにすぎないため、
+その成長は OK だが、素晴らしい、ではない。
+創業者は「それが成長を加速させるための方法なんだ」と、
+【ひと束の】要員を雇うことを自分に納得させる。
+彼らの出資者たちも同意する。
+
+だが、（ほどほどに魅力的な製品であるにすぎないがゆえに）成長はやってこない。
+【いま】彼らは【滑走路】の外を速く走っている。
+彼らは、さらなる追加出資が彼らを救うことを願っている。
+だが、高支出と遅い成長により、出資者にとって【もはや】彼らは魅力的でない。
+彼らは上げることができず、そして、その会社は死ぬ。
+
+What the company should have done is address the fundamental problem:
+that the product is only moderately appealing. 
+Hiring people is rarely the way to fix that. 
+More often than not it makes it harder. 
+
+At this early stage, 
+the product needs to evolve more than to be "built out,"
+and that's usually easier with fewer people. [4]
+
+その会社がするべきだったことは、根本的な問題【について】【話すことだ】:
+製品がほどほどに魅力的であるにすぎない、という【ことを】。
+人を雇うことが、それを解決する手段になることはほとんどない。
+【通常、それはその【解決】をより難しくする。】
+
+初期のステージでは、製品を「完成させる」よりも、より改良することが必要で、
+それはたいてい、少人数でやるほうがやりやすい。[4]
+
+Asking whether you're default alive or default dead may save you from this. 
+Maybe the alarm bells it sets off will counteract
+the forces that push you to overhire. 
+
+Instead you'll be compelled to seek growth in other ways. 
+
+For example, 
+by doing things that don't scale, 
+or by redesigning the product in the way only founders can. 
+
+And for many if not most startups, 
+these paths to growth will be the ones that actually work.
+
+デフォルトが生か、死かを訊くことは、あなたをこれから救うかもしれない。
+それを【打ち消す】アラームは、たぶん、
+あなたにもっと人を雇うように仕向ける圧力を和らげる。
+
+【それよりも】あなたは、ほかのやり方で【成長を探すこと】を強いられるだろう。
+
+たとえば、
+【スケールしない】ことをすることによって、
+もしくは、製品を、創業者だけが可能なやりかたで再デザインすることによって。
+
+そして、もしも「ほとんど」でないのなら、スタートアップの「多く」にとって、
+成長へのこれらの経路は、本当に機能する【魅力的な製品】に結実する。
+
+Airbnb waited 4 months after raising money at the end of Y Combinator
+before they hired their first employee. 
+
+In the meantime the founders were terribly overworked. 
+But they were overworked evolving Airbnb into the astonishingly
+successful organism it is now.
+
+Y Combinator の終わり時点の【資金調達】のあと、Airbnb は、
+最初の要員を雇うのを 4 ヶ月待った。
+
+その間、創業者たちは恐ろしいほどのオーバーワーク状態だった。
+だが、オーバーワークによる彼らの改良が、Airbnb を今の驚くほどの成功へと導いた。
+
+Notes
+ノート
+
+[1] Steep usage growth will also interest investors. 
+Revenue will ultimately be a constant multiple of usage, 
+so x% usage growth predicts x% revenue growth. 
+
+But in practice investors discount merely predicted revenue, 
+so if you're measuring usage you need a higher growth rate to impress investors.
+
+[1]【険しい】【製品の利用量】の成長も、また、出資者に興味をもたせる。
+歳入は、最終的に【製品の利用量】の一定の倍数になる。
+だから、【製品の利用量】の x% の成長は、歳入の x% の成長を【予言する】。
+
+だが、現実には、出資者は【その】予言された歳入を【減額】するに過ぎない。
+だから、あなたが【製品の利用量】を計測しているなら、
+あなたは出資者に印象づけるための高い成長率が必要になる。
+
+[2] Startups that don't raise money are saved from hiring too fast
+because they can't afford to. 
+
+But that doesn't mean you should avoid raising money
+in order to avoid this problem, 
+any more than that total abstinence is
+the only way to avoid becoming an alcoholic.
+
+【資金調達しない】スタートアップは、早すぎる時期に人を雇うこと【の危険】から
+守られている。なぜなら、彼らはその余裕がないからだ。
+
+だが、この問題を避けるために、あなたは【資金調達】を避けるべきだ、
+言っているのではない。アルコール依存者になることを避けるただひとつの方法が、
+禁欲主義だというのと同じことだ。
+
+[3] I would not be surprised
+if VCs' tendency to push founders to overhire is not
+even in their own interest. 
+
+They don't know how many of the companies that get killed by overspending
+might have done well if they'd survived. 
+My guess is a significant number.
+
+[3]もし、創業者たちを雇用過多に仕向ける VC たちの傾向が、
+＊彼ら自身の興味【においてさえ】【でなくても】、私は驚かされないだろう。
+
+彼らはどれほどの会社が、支出過多によって殺されたかを知らない。
+もし【その会社が】生きのびていたらな、立派にやっていることだろう。
+私の推測ではかなりの数にのぼる。
+
+[4] After reading a draft, Sam Altman wrote:
+
+"I think you should make the hiring point more strongly. 
+I think it's roughly correct to say that
+YC's most successful companies have never been the fastest to hire, 
+and one of the marks of a great founder is being able to resist this urge."
+
+[4]草稿を読んだあと、Sam Altman は書いた：
+
+「もっと人を雇用する【タイミング】を強調するべきだ、と私は思う。
+思うに、【ざっくりだけど】正確に言うとこうだ。
+YC 出身のもっとも成功した会社が、一番早くに人を雇うことはなかった。
+そして、偉大な創業者であることのサインのひとつが、
+この【人を雇い入れろ、という】説得に抵抗できること、である。」
+
+Paul Buchheit adds:
+
+"A related problem that
+I see a lot is premature scaling—founders take a small business that
+
+isn't really working (bad unit economics, typically)
+and then scale it up because they want impressive growth numbers.
+
+This is similar to over-hiring in that it makes the business much harder
+to fix once it's big, 
+plus they are bleeding cash really fast."
+
+Paul Buchheit が付けくわえる：
+
+「ひとつ関係のある問題として、
+私がたくさん見た問題は、早すぎる段階で【ビジネスがスケールすること】であり、
+創業者は、ホントは機能しない、
+その小さなビジネス（典型として、【悪いユニット経済】）を運営していて、
+そして、めざましい成長の数字が欲しいため、彼らはその【規模を拡大する】。
+
+これは過剰雇用によく似ている。
+一度大きくなると、このビジネスは【もともとの体質を改善】するのが難しくなる。
+くわえて、彼らはホントに早くお金を【出血している。】」
+
+Thanks to Sam Altman, Paul Buchheit, Joe Gebbia, Jessica Livingston,
+and Geoff Ralston for reading drafts of this.
+
+草稿を読んでくれた Sam Altman、 Paul Buchheit、 Joe Gebbia、
+Jessica Livingston、そして Geoff Ralston に感謝する。

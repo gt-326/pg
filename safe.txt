@@ -1,0 +1,240 @@
+[ http://paulgraham.com/safe.html ]
+
+Why It's Safe for Founders to Be Nice
+なぜ、良いひとになることがスタートアップ創業者にとって安全なのか
+
+August 2015
+2015年8月
+
+I recently got an email from a founder that helped me understand something
+important: why it's safe for startup founders to be nice people.
+
+最近、ある【スタートアップの創業者】からメールをもらった。
+そのメールは、私がある重要なことを理解する手助けになった：
+なぜ、良いひとになることがスタートアップ創業者にとって安全なのか。
+
+I grew up with a cartoon idea of a very successful businessman
+(in the cartoon it was always a man): a rapacious, cigar-smoking,
+table-thumping guy in his fifties who wins by exercising power,
+and isn't too fussy about how. 
+
+As I've written before,
+one of the things that has surprised me most about startups is
+how few of the most successful founders are like that. 
+Maybe successful people in other industries are;
+I don't know; but not startup founders. [1]
+
+私は、マンガに出てくる「とても成功したビジネスマン」のイメージを
+その原型に抱いて成長した（マンガのなかでは、いつもそれは男だった）：
+強欲で、葉巻をくわえていて、どんどんと拳でテーブル叩く、50 くらいの男。
+彼は【エクササイズ・パワー】により成功し、【どうやるか】について、
+それほど神経質ではない【、というイメージだ】。
+
+まえに書いたことだが、
+もっとも成功したスタートアップ創業者のなかにそのような人がどれほど少ないか、
+ということは、スタートアップにかんすることがらのなかで、私を驚かせるものの
+ひとつである。
+それ以外の産業ではそうなのかもしれないが、私は知らない。
+だが、スタートアップ創業者たちはそうではない。[1]
+
+I knew this empirically, 
+but I never saw the math of why till I got this founder's email. 
+In it he said he worried that he was fundamentally soft-hearted
+and tended to give away too much for free. 
+He thought perhaps he needed "a little dose of sociopath-ness."
+
+経験的に知っていたが、
+私は、そのメールをもらうまで【なぜの数学】を見なかった。
+
+彼は、そのメールで、自身の基本的な優しい心持ちと、
+【作ったものの】多くをタダであげてしまいがちなことを心配していた。
+ひょっとしたら、「ちょっと反社会的行為者っぽさを服用する」ことが必要だ、
+と彼は考えた【のかもしれない】。
+
+I told him not to worry about it, 
+because so long as he built something good enough to spread by word of mouth, 
+he'd have a hyperlinear growth curve. 
+
+If he was bad at extracting money from people, 
+at worst this curve would be some constant multiple less than
+1 of what it might have been.
+
+But a constant multiple of any curve is exactly the same shape. 
+The numbers on the Y axis are smaller, 
+but the curve is just as steep, 
+and when anything grows at the rate of a successful startup, 
+the Y axis will take care of itself.
+
+私は、そのことについて心配することはない、と彼に伝えた。
+なぜなら、口コミによって【評判が】広がるくらい十分に良いものを築いたのと同じくらい、
+とても長い【間】、彼は【ハイパーな】成長曲線をすでに【持って】いたからだ。
+
+もし、彼が【ユーザー】からお金を徴収するのが下手くそなら、
+【最悪でも】この曲線【の傾き】は【負数ではなく】、得られたであろう【傾き】の１よりも小さい、
+一定の倍数になるだろう。
+
+だけど、どんなカーブのものであれ、一定の【倍数】は【ぴったり】同じ形をしている。
+Y 軸の【値】は小さめ、
+だが、カーブはまさに【急勾配】、
+そして、成功するスタートアップの【割合】において、何かが成長しているとき、
+＊Y 軸は【それ自身を気をつけるはずである】。
+
+Some examples will make this clear. 
+Suppose your company is making $1000 a month now, 
+and you've made something so great that it's growing at 5% a week. 
+Two years from now, 
+you'll be making about $160k a month.
+
+いくつか例がこれを明らかにする。
+いま、あなたの会社はひと月 1,000 ドル稼いでるとしよう、そして、
+あなたは、週に 5% の成長を【もたらす】なにかとてもすばらしい物を作った。
+今から 2 年後、あなたはひと月に 160,000 ドル稼ぐようになる。
+
+Now suppose you're so un-rapacious that
+you only extract half as much from your users as you could. 
+
+今のあなたは全然ガツガツしていなくて、ユーザーから得られるはずの利益の、
+たった半分しか得ていない、と仮定しよう。
+
+That means two years later you'll be making $80k a month instead of $160k. 
+
+【そうすると、】2 年後、あなたはひと月に 160,000 ドル稼ぐ代わりに、
+80,000 ドル稼ぐようになる、ということだ。
+
+How far behind are you?
+How long will it take to catch up with where you'd have been
+if you were extracting every penny? A mere 15 weeks. 
+
+After two years, the un-rapacious founder is only 3.5 months
+behind the rapacious one. [2]
+
+その差はどれくらいあるのだろう？
+もし、利益を全部搾り取ったとして、その差を埋めるのにどれくらいかかる？
+たった 15 週。
+
+2 年後、ガツガツしていない創業者と、ガツガツしている創業者との差は、
+たったの 3.5 ヶ月だ。[2]
+
+If you're going to optimize a number, 
+the one to choose is your growth rate. 
+Suppose as before that you only extract half as much from users as you could, 
+but that you're able to grow 6% a week instead of 5%. 
+
+Now how are you doing compared to the rapacious founder after two years? 
+You're already ahead—$214k a month versus $160k—and pulling away fast. 
+In another year you'll be making $4.4 million a month to the rapacious founder's $2 million.
+
+もし、【値】をいじ【れ】るのなら、
+選ぶべきは、あなたの成長率だ。
+あなたのユーザーから、得られるはずの利益のたった半分しか得ていないが、
+週に 5 %だった成長【率】を  6 %に上げられる、と仮定してみよう。
+
+【いま、】どうやってガツガツ創業者の 2 年後と比較する？
+あなたはすでに【先行していて、】ひと月あたり 214,000 ドル稼いでいる。対するは 160,000 ドル。
+素早く【抜き去る】。
+【別の年、】あなたはひと月あたり 44,000,000 ドル稼げるようになっている、
+対するガツガツ起業家は 2,000,000 ドルだ。
+
+Obviously one case where it would help to be rapacious is when growth depends on that. 
+What makes startups different is that usually it doesn't. 
+Startups usually win by making something so great that people recommend it to their friends. 
+And being rapacious not only doesn't help you do that, 
+but probably hurts. [3]
+
+The reason startup founders can safely be nice is that making great things is compounded, 
+and rapacity isn't.
+
+So if you're a founder, 
+here's a deal you can make with yourself that will both make you happy
+and make your company successful. 
+
+Tell yourself you can be as nice as you want, 
+so long as you work hard on your growth rate to compensate. 
+Most successful startups make that tradeoff unconsciously. 
+Maybe if you do it consciously you'll do it even better.
+
+言うまでもなく、成長がそれに拠っている【状況の】ときには、
+ガツガツしていることが役立つ【だろう】。
+たいていの場合、それはスタートアップに違いを生み出しているものには【ならない】。
+スタートアップは、たいてい何かものすごい物を作って勝つ。
+ユーザーがそれを友だちに推薦【したくなる】ような。
+そして、ガツガツしていることはあなたの助けにならないどころか、
+【むしろ】、おそらくあなたを傷つける。[3]
+
+スタートアップ創業者が【間違いなく】いい人になれる理由は、
+すごいものを作ることは【複合的なもの】であり、そして、強欲はそうではない。
+
+だから、もし、あなたが創業者なら、
+ここに、あなた自身を幸せにし、あなたの会社を成功に導く、この両方を実現する取引がある。
+
+あなたが欲するようないい人になれる、と自分自身に言い聞かせよう。
+【さもなければ、】埋め合わせをするために、とても長い間、
+あなたの成長率のうえで、とてもハードに働く【はめになる】。
+
+ほとんどの成功したスタートアップは、無意識のうちに、このトレードオフをしている。
+もし、意識的にそれをするのなら、おそらく、あなたはもっとうまくするだろう。
+
+Notes
+ノート
+
+[1] Many think successful startup founders are driven by money. 
+In fact the secret weapon of the most successful founders is that they aren't.
+
+If they were, 
+they'd have taken one of the acquisition offers that
+every fast-growing startup gets on the way up.
+
+What drives the most successful founders is the same thing
+that drives most people who make things: the company is their project.
+
+[1]多くの人は、
+成功したスタートアップ創業者はお金に駆動されている、と考える。
+【だが】実際は、もっとも成功したスタートアップ創業者たちの秘密兵器は、【お金】ではない。
+
+もし【お金】だったら、
+すばやく成長するすべてのスタートアップ【であればもらう】、
+成長の坂道の途中での【獲得の申し出のうちの 1 つに飛びついていただろう】。
+
+もっとも成功したスタートアップ創業者たちを駆動するもの、
+それは、物ごとを築くひとのほとんどを動かすのと同じものだ：
+＊【集団】は彼らのプロジェクトだ。
+
+[2] In fact since 2 ≈ 1.05 ^ 15, 
+the un-rapacious founder is always 15 weeks behind the rapacious one.
+
+実際、1.05 ^ 15 = 2.07892818。
+ガツガツしていない創業者は、ガツガツ創業者にたいして、常に 15 週分の差を【つけられている】。
+
+[3] The other reason it might help to be good at squeezing money out of customers is that 
+startups usually lose money at first, 
+and making more per customer 
+makes it easier to get to profitability before your initial funding runs out. 
+
+But while it is very common for startups
+to die from running through their initial funding 
+and then being unable to raise more, the underlying cause
+is usually slow growth or excessive spending rather than insufficient effort to
+extract money from existing customers.
+
+それが顧客からお金を徴収することを上手にする助けになるかもしれない、という他の理由は、
+
+スタートアップ【たち】はたいてい、最初【の】お金を失うものだが、
+そして、顧客単位の作ることをより多くすることが
+
+【ひとりの顧客につき、】もっと作ることは、
+あなたが最初の出資【分】を使い切るまえに、収益性【に】到着することを
+より容易にする。
+
+だが、スタートアップではとても共通している
+
+最初の出資【分】を【走り抜けること】が原因で死ぬこと、
+【それから】それ以上上げることことができないこと、
+【根底に潜む】原因は、たいてい遅い成長か、
+既存のユーザーからお金を徴収するのに不十分な努力よりも過度な出費、
+のいずれかである。
+
+Thanks to Sam Altman, Harj Taggar, Jessica Livingston, and Geoff Ralston for reading drafts of this, 
+and to Randall Bennett for being such a nice guy.
+
+草稿を読んでくれた Sam Altman、 Harj Taggar、 Jessica Livingston、そして Geoff Ralston に感謝する。
+そして Randall Bennett、そんなナイスガイでいてくれて、ありがとう。
