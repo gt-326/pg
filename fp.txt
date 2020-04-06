@@ -1,0 +1,41 @@
+[ http://www.paulgraham.com/fp.html ]
+
+Fashionable Problems
+オシャレな問題ども
+
+December 2019
+2019年12月
+
+I've seen the same pattern in many different fields:
+even though lots of people have worked hard in the field,
+only a small fraction of the space of possibilities has been explored,
+because they've all worked on similar things.
+
+私は、多くの異なる領域において【その】同じパターンを目にしてきた：
+多くの人がハードにとり組んでいる領域においてさえ、
+可能性のスペースのうち、すでに探索済みとなっているのはわずかな部分についてのみ。
+なぜなら、彼ら全員、似たことがらにとり組んでいるからだ。
+
+Even the smartest, most imaginative people are surprisingly conservative when deciding what to work on.
+People who would never dream of being fashionable in any other way get sucked into working on fashionable problems.
+
+もっとも賢い人たち、想像力豊かな人のほとんどでさえも、何にとり組むか決めるとき、驚くほど保守的なものだ。
+他でなら、オシャレであろうなどと思ったりしない人が、オシャレな問題にとり組むことに吸い寄せられる。
+
+If you want to try working on unfashionable problems,
+one of the best places to look is in fields that people think have already been fully explored:
+essays, Lisp, venture funding — you may notice a pattern here.
+If you can find a new approach into a big but apparently played out field,
+the value of whatever you discover will be multiplied by its enormous surface area.
+
+もし、あなたがオシャレじゃない問題にとり組もうとするのなら、
+【注意深く】見るべき一番良いの場所のひとつが、人々が「もうすでに、すべて探索済み」と考える領域のなかだ：
+エッセイ、Lisp、ベンチャーへの資金提供　ー　ここに、あなたはひとつのパターンを見つけるだろう。
+もし、「もうすでにやり尽くされた」と思われている大きな領域のひとつに入り込む新しいアプローチを、あなたが見つけられるのなら、
+【それがどんなに小さなものでもかまわない】あなたの発見した価値は、その領域の広大な表面積とかけ算される。
+
+The best protection against getting drawn into working on the same things as everyone else may be to genuinely love what you're doing.
+Then you'll continue to work on it even if you make the same mistake as other people and think that it's too marginal to matter.
+
+他のみんなのような、似かよったことがらにとり組むことに引き寄せられること、それにたいする一番の障壁は、あなたがやっていることを心から愛することかもしれない。
+そうすれば、あなたはそれに取り組みつづける。たとえほかの人と同じミスを犯したり、それが【あまりにニッチで狭すぎて】扱うに足らないこと、と考えたとしても。
