@@ -1,0 +1,66 @@
+[ http://www.paulgraham.com/cred.html ]
+
+Coronavirus And Credibility
+コロナウィルスと確実性
+
+April 2020
+2020年4月
+
+I recently saw a video of TV journalists and politicians confidently saying that the coronavirus would be no worse than the flu.
+What struck me about it was not just how mistaken they seemed, but how daring.
+How could they feel safe saying such things?
+
+ついこないだ、あるビデオ[*]をみた。
+それは、テレビジャーナリストと政治屋どもが「コロナウィルスが、インフルエンザよりも悪くなることはないだろう」と断定していた。
+それが衝撃的だったのは、【彼らの見立てが】どう間違えているか、というだけではなく、どれほど大胆か、ということだった。
+【伝染病のような】そんなことがらにたいして、彼らはどうやって安全だと言えたのか？
+
+The answer, I realized, is that they didn't think they could get caught.
+They didn't realize there was any danger in making false predictions.
+These people constantly make false predictions, and get away with it,
+because the things they make predictions about either have mushy enough outcomes that they can bluster their way out of trouble,
+or happen so far in the future that few remember what they said.
+
+私は分かっていたが、その答えはこうだ。
+彼らは、自分の手で掴むことができないことがらについて、考えないのだ。
+誤った予言を【練っている】ときに、彼らは【横たわっている】どんな危険性もキチンと認識していなかった。
+このたぐいの人たちは、いつも誤った予言を作り出し、その予言とともに歩くものだ。
+
+彼らが予言する対象は、以下のいずれかだ。
+問題そっちのけに、【それぞれのスタイルで】怒鳴って居られるほどぐちゃぐちゃしている、もしくは、
+彼らが言っていたことを思い出す者がほとんど居ない、遠い未来において起こる。
+
+An epidemic is different.
+It falsifies your predictions rapidly and unequivocally.
+
+伝染病は、異なっている。
+すぐさま、そして、曖昧さなしに、あなたの予言を【ニセモノにしてしまう】。
+
+But epidemics are rare enough that these people clearly didn't realize this was even a possibility.
+Instead they just continued to use their ordinary m.o., which, as the epidemic has made clear,
+is to talk confidently about things they don't understand.
+
+…まぁ、伝染病というのものが、それくらい滅多にないものだということなのだが、
+これらの人は、そのことをひとつの可能性としてさえ、認識しなかった。
+そのかわりに、彼らはただ平時のやり方（ modus operandi ）をつづけるのだった。
+伝染病がハッキリさせたのだが、それは、知らないことがらについて【さえ】自信をもって話す、という。
+
+An event like this is thus a uniquely powerful way of taking people's measure.
+As Warren Buffet said, "It's only when the tide goes out that you learn who's been swimming naked."
+And the tide has just gone out like never before.
+
+このように、今回のような出来事は、人々の話し方を計測する固有の強力な手段だ。
+ウォーレン・バフェットが言ったように。「誰がフルチンで泳ぎ続けているのかを、あなたが学ぶのは潮が引いたときだけ。」
+そして、何もなかったかかのように、ただ潮は引いてしまう。
+
+Now that we've seen the results, let's remember what we saw,
+because this is the most accurate test of credibility we're ever likely to have.
+I hope.
+
+その結果を見た今、私たちは、それまで目にしたことを思い出そうではないか。
+それが、確実性にたいする最も正確なテストだからだ。
+【私たちが、それをずっと手放さないことを】願う。
+
+[*]
+"Saluting the Heroes of the Coronavirus Pandumbic | The Daily Show"
+[ https://www.youtube.com/watch?v=NAh4uS4f78o ]
