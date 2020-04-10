@@ -1,0 +1,135 @@
+[ http://www.paulgraham.com/mod.html ]
+
+The Two Kinds of Moderate
+二種類の中道
+
+December 2019
+2019年12月
+
+There are two distinct ways to be politically moderate: on purpose and by accident.
+Intentional moderates are trimmers,
+deliberately choosing a position mid-way between the extremes of right and left.
+Accidental moderates end up in the middle, on average,
+because they make up their own minds about each question,
+and the far right and far left are roughly equally wrong.
+
+政治的な中道になるには２つの個別の方法がある：意識的なもの、そして、偶発によるもの。
+意図的中道は、日和見主義者で、右端と左端の間の真ん中の位置を意識的に選ぶ、というもの。
+偶発的中道は、論点それぞれにたいして自分なりの意見を持っていて、かつ、ざっくり言って極右と極左のどちらも等しく誤っている、と考えていて、
+結果的として真ん中、平均に落ちつく、というもの。
+
+You can distinguish intentional from accidental moderates by the distribution of their opinions.
+If the far left opinion on some matter is 0 and the far right opinion 100,
+an intentional moderate's opinion on every question will be near 50.
+Whereas an accidental moderate's opinions will be scattered over a broad range,
+but will, like those of the intentional moderate, average to about 50.
+
+彼らの意見の分布によって、あなたは意図的中道を、偶発的中道から見分けることができる。
+もし、あることがらにたいして極左の意見が 0、極右の意見が 100 というとき、
+【そのことがらについての】どの質問にたいしても、意識的中道の意見はだいたい 50 になるだろう。
+一方、偶発的中道の意見は広い範囲に分布するものの、それらを平均すると、だいたい 50 という、意識的中道と似たものになる。
+
+Intentional moderates are similar to those on the far left and the far right in that their opinions are, in a sense, not their own.
+The defining quality of an ideologue, whether on the left or the right, is to acquire one's opinions in bulk.
+You don't get to pick and choose.
+Your opinions about taxation can be predicted from your opinions about same-sex marriage.
+And although intentional moderates might seem to be the opposite of ideologues,
+their beliefs (though in their case the word "positions" might be more accurate) are also acquired in bulk.
+If the median opinion shifts to the right or left, the intentional moderate must shift with it.
+Otherwise they stop being moderate.
+
+意識的中道の「意見」というものは、それが彼らの持っているものではなく感覚によるものだから、極左、極右の人たちのそれとよく似ている。
+それが左であれ、右であれ、イデオローグの性質の定義は、誰の評判を大量に獲得することだ。
+あなたは選別することはしない。
+あなたの税制にたいする意見は、あなたの同性婚にたいする意見から言い当てられる。
+そして、意識的中道の信念（「立ち位置」のほうが、より彼らの実態に則しているのかもしれない）は、
+イデオローグと同じように、大量に獲得されたものだが、彼らは正反対だ。
+もし、その中位の意見が右か左に移動するのなら、それとともに意識的中道は移動するにちがいない。
+さもなければ、彼らは中道でいることをやめている。
+
+Accidental moderates, on the other hand, not only choose their own answers, but choose their own questions.
+They may not care at all about questions that the left and right both think are terribly important.
+So you can only even measure the politics of an accidental moderate from the intersection of the questions they care about
+and those the left and right care about,
+and this can sometimes be vanishingly small.
+
+もう一方の偶発的中道は、自分の答えだけじゃなく、また自分の論点も選ぶ。
+左と右の双方が、ともにとても重要だと考える論点について、たぶん【偶発的中道の】彼らはまったく気にしないだろう。
+偶発的中道にとっての関心事と、左派と右派の関心事との共通部分、それを計測しさえすれば、偶発的中道の政見を計測できる。
+そして、ときとしてそれは見えないくらい小さなものになる。
+
+It is not merely a manipulative rhetorical trick to say "if you're not with us, you're against us,"
+but often simply false.
+
+「もし、あなたが私たちとともに居ないのなら、私たちと敵対していることになる、うんぬん」というのは、
+修辞法上の、人を操るごまかしであるだけではなく、たいていシンプルに誤りだ。
+
+Moderates are sometimes derided as cowards, particularly by the extreme left.
+But while it may be accurate to call intentional moderates cowards,
+openly being an accidental moderate requires the most courage of all,
+because you get attacked from both right and left,
+and you don't have the comfort of being an orthodox member of a large group to sustain you.
+
+ときどき中道は臆病者と嘲られることがある。とくに極左によって。
+しかし、それは意識的中道を臆病者と呼ぶかぎりにおいて当てはまるものである。
+オープンに偶発的中道でいることは、右と左の両方から攻撃され、また、
+ひとつの大きなグループに属する正統なひとりのメンバーでいることの安心感を得ることもない。
+そのため、もっとも勇気を要するものだから【、臆病者のそしりはあたらない】。
+
+Nearly all the most impressive people I know are accidental moderates.
+If I knew a lot of professional athletes, or people in the entertainment business, that might be different.
+Being on the far left or far right doesn't affect how fast you run or how well you sing.
+But someone who works with ideas has to be independent-minded to do it well.
+
+私の知っているもっとも印象的な人たちは、ほぼすべて偶発的中道だ。
+もし、私がたくさんのアスリートやエンタメ業界人たちを知っていたら、それは変わっていただろう。
+【政治的に】左、右であることは、あなたがどれほど速く走るか、あなたがどれほど上手にうたうか、にたいして影響しない。
+だが、アイディアとともに仕事をする人は、上手にやるためには、独立した意識を持っていなくてはいけない。
+
+Or more precisely, you have to be independent-minded about the ideas you work with.
+You could be mindlessly doctrinaire in your politics and still be a good mathematician.
+In the 20th century, a lot of very smart people were Marxists — just no one who was smart about the subjects Marxism involves.
+But if the ideas you use in your work intersect with the politics of your time,
+you have two choices: be an accidental moderate, or be mediocre.
+
+もっとハッキリ言えば、あなたが仕事でとり組むアイディアについて独立した意識を持ってなきゃいけない。
+あなたの政見が愚かしく狂信的なものだったとしても、優れた数学者として居られるだろう。
+20 世紀、とてもスマートな人々の多くがマルクス主義者だった　ー　しかし、マルクス主義が何をもたらすかについてスマートな人はいなかった。
+しかし、もしあなたの仕事でもちいるアイディアが、あなたの時代の政治と交わるなら、
+あなたには２つの選択肢がある：偶発的中道でいるか、二流でいるか。
+
+Notes
+ノート
+
+[1] It's possible in theory for one side to be entirely right and the other to be entirely wrong.
+Indeed, ideologues must always believe this is the case.
+But historically it rarely has been.
+
+[1] 一方がまったく正しくて、もう一方がまったく誤っている、という可能性がある。
+たしかに、イデオローグたちはいつもこのように信じている。
+しかし、歴史的にそういうことまれである。
+
+[2] For some reason the far right tend to ignore moderates rather than despise them as backsliders.
+I'm not sure why.
+Perhaps it means that the far right is less ideological than the far left.
+Or perhaps that they are more confident, or more resigned, or simply more disorganized.
+I just don't know.
+
+[2] 極右は、いくつかの理由で、中道を「以前の望ましくない行動様式に堕落した人」として軽蔑するよりも、無視しがちだ。
+なぜなのか、私はハッキリとはわからない。
+もしかしたら、極右は極左ほどイデオロギー的でないことを意味するのかもしれない。
+もしくは、彼らのほうがより自信に満ちているか、より諦めているのか、単純にもっと組織だっていない、とか。
+ホント、私は分からないだけなんだけど。
+
+[3] Having heretical opinions doesn't mean you have to express them openly.
+It may be easier to have them if you don't.
+
+[3] 異端の意見を持つことは、あなたがそれをオープンにしなければいけない、という意味ではない[*]。
+もしあなたがしなければ、そのような意見を持つことはより簡単になる。
+[*] [　"What you can't say" http://www.paulgraham.com/say.html ]
+
+Thanks to Austen Allred, Trevor Blackwell, Patrick Collison, Jessica Livingston, Amjad Masad, Ryan Petersen,
+and Harj Taggar for reading drafts of this.
+
+草稿を読んでくれた Austen Allred、Trevor Blackwell、Patrick Collison、Jessica Livingston、Amjad Masad、Ryan Petersen、
+そして Harj Taggar に感謝する。
