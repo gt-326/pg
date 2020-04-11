@@ -13,9 +13,10 @@ Accidental moderates end up in the middle, on average,
 because they make up their own minds about each question,
 and the far right and far left are roughly equally wrong.
 
-政治的な中道になるには２つの個別の方法がある：意識的なもの、そして、偶発によるもの。
-意図的中道は、日和見主義者で、右端と左端の間の真ん中の位置を意識的に選ぶ、というもの。
-偶発的中道は、論点それぞれにたいして自分なりの意見を持っていて、かつ、ざっくり言って極右と極左のどちらも等しく誤っている、と考えていて、
+政治的な中道になるには２つの個別の方法がある：意識的なもの、そして、偶発的なもの。
+意識的中道は、日和見主義者で、右端と左端の間の真ん中の位置を意識的に選ぶ、というもの。
+偶発的中道は、論点それぞれにたいして自分なりの意見を持っていて、かつ、
+ざっくり言って極右と極左のどちらも等しく誤っている、と考えていて、
 結果的として真ん中、平均に落ちつく、というもの。
 
 You can distinguish intentional from accidental moderates by the distribution of their opinions.
@@ -24,12 +25,13 @@ an intentional moderate's opinion on every question will be near 50.
 Whereas an accidental moderate's opinions will be scattered over a broad range,
 but will, like those of the intentional moderate, average to about 50.
 
-彼らの意見の分布によって、あなたは意図的中道を、偶発的中道から見分けることができる。
+彼らの意見の分布によって、あなたは意識的中道を、偶発的中道から見分けることができる。
 もし、あることがらにたいして極左の意見が 0、極右の意見が 100 というとき、
 【そのことがらについての】どの質問にたいしても、意識的中道の意見はだいたい 50 になるだろう。
 一方、偶発的中道の意見は広い範囲に分布するものの、それらを平均すると、だいたい 50 という、意識的中道と似たものになる。
 
-Intentional moderates are similar to those on the far left and the far right in that their opinions are, in a sense, not their own.
+Intentional moderates are similar to those on the far left and the far right in that their opinions are, 
+in a sense, not their own.
 The defining quality of an ideologue, whether on the left or the right, is to acquire one's opinions in bulk.
 You don't get to pick and choose.
 Your opinions about taxation can be predicted from your opinions about same-sex marriage.
@@ -43,7 +45,7 @@ Otherwise they stop being moderate.
 あなたは選別することはしない。
 あなたの税制にたいする意見は、あなたの同性婚にたいする意見から言い当てられる。
 そして、意識的中道の信念（「立ち位置」のほうが、より彼らの実態に則しているのかもしれない）は、
-イデオローグと同じように、大量に獲得されたものだが、彼らは正反対だ。
+イデオローグと同じように、大量に獲得されたものだが、彼らは【お互いに】正反対にあるようだ。
 もし、その中位の意見が右か左に移動するのなら、それとともに意識的中道は移動するにちがいない。
 さもなければ、彼らは中道でいることをやめている。
 
@@ -105,9 +107,9 @@ Notes
 Indeed, ideologues must always believe this is the case.
 But historically it rarely has been.
 
-[1] 一方がまったく正しくて、もう一方がまったく誤っている、という可能性がある。
+[1] 理屈のうえでは、一方がまったく正しくて、もう一方がまったく誤っている、という可能性はある。
 たしかに、イデオローグたちはいつもこのように信じている。
-しかし、歴史的にそういうことまれである。
+しかし、歴史的にそれはまれである。
 
 [2] For some reason the far right tend to ignore moderates rather than despise them as backsliders.
 I'm not sure why.
@@ -125,8 +127,8 @@ I just don't know.
 It may be easier to have them if you don't.
 
 [3] 異端の意見を持つことは、あなたがそれをオープンにしなければいけない、という意味ではない[*]。
-もしあなたがしなければ、そのような意見を持つことはより簡単になる。
-[*] [　"What you can't say" http://www.paulgraham.com/say.html ]
+もしあなたがしなければ、そのような意見を持つことはより簡単になるだろう。
+[*] [ "What you can't say" http://www.paulgraham.com/say.html ]
 
 Thanks to Austen Allred, Trevor Blackwell, Patrick Collison, Jessica Livingston, Amjad Masad, Ryan Petersen,
 and Harj Taggar for reading drafts of this.
