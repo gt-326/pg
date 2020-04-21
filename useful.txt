@@ -1,0 +1,680 @@
+[ http://www.paulgraham.com/useful.html ]
+
+How to Write Usefully
+役に立つように書くには
+
+February 2020
+2020年2月
+
+What should an essay be? Many people would say persuasive.
+That's what a lot of us were taught essays should be.
+But I think we can aim for something more ambitious: that an essay should be useful.
+
+エッセイはどうあるべきか？多くの人が説得力があるものにすべき、と言うだろう。
+それが、私たちの多くが教え込まれた「エッセイのあるべきかたち」だ。
+だけど、私たちはさらに野心的になれると思う：エッセイは役に立つものであるべきだ。
+
+To start with, that means it should be correct.
+But it's not enough merely to be correct.
+It's easy to make a statement correct by making it vague.
+That's a common flaw in academic writing, for example.
+If you know nothing at all about an issue,
+you can't go wrong by saying that the issue is a complex one,
+that there are many factors to be considered,
+that it's a mistake to take too simplistic a view of it, and so on.
+
+まずはじめに、【エッセイは】正確であるべきだということを意味する。
+だけど、ただ正確なだけでは十分ではない。
+曖昧にすることで、声明を誤りのないものにするのは簡単だ。
+たとえば、それは学術的な論文書きの作業のなかではそれは共通するフローだ。
+もし、あなたがあることがらにたいして何も知らないのなら、
+「その問題は考慮すべき多くの要素があり、複雑なものであり、うんぬん」と断っておけば、間違うことはない。
+だけど、ものごとを単純に切り取りすぎることになったり、とか、せいぜいそんなことにしかならないから、それは間違いだ。
+
+Though no doubt correct, such statements tell the reader nothing.
+Useful writing makes claims that are as strong as they can be made without becoming false.
+
+正確であることには疑いの余地はないのに、にもかかわらず、そのような声明は読者に何も伝えない。
+役に立つように書くというやり方は、誤りを含まなければ、そのぶんだけその声明を強力なものにする。
+
+For example,
+it's more useful to say that Pike's Peak is near the middle of Colorado than merely somewhere in Colorado.
+But if I say it's in the exact middle of Colorado,
+I've now gone too far, because it's a bit east of the middle.
+
+たとえば、
+【北アメリカ大陸・ロッキー山脈にある山の一つ。もっとも有名なアメリカの山頂のひとつで】「パイクスピーク」（Pikes Peak ？）の場所を、
+たんに「コロラド州のなかのどこか」と言うよりも、「コロラド州の真んなか近く」と言うほうが役に立つ。
+だけど、それを「きっちりコロラドの真ん中」と言うと、遠ざかってしまうことになる。
+なぜなら、ちょっと東寄りの真ん中にあるから。
+
+Precision and correctness are like opposing forces.
+It's easy to satisfy one if you ignore the other.
+The converse of vaporous academic writing is the bold, but false, rhetoric of demagogues.
+Useful writing is bold, but true.
+
+精度と正確さとは、相反するもののようだ。
+そのうちの一方を無視するなら、もう一方をクリアするのは簡単だ。
+雰囲気だけの論文調の談話は、太字　ー　しかし、偽　ー　デマゴーグどものレトリックだ。
+役に立つように書くことは、太字、しかし、正しい。
+
+It's also two other things: it tells people something important,
+and that at least some of them didn't already know.
+
+【正確であること以外に】２つのことがらがある：読者になにか重要な何かを伝えること、
+そして、すでに読者の全員が知っていることではない、ということ。
+
+Telling people something they didn't know doesn't always mean surprising them.
+Sometimes it means telling them something they knew unconsciously but had never put into words.
+In fact those may be the more valuable insights, because they tend to be more fundamental.
+
+読者の知らないことを、ということは、いつも彼らをビックリさせるようなことを、という意味ではない。
+ときにそれは、彼らが無意識に知ってはいたものの、言葉にしてこなかったこと、それを彼らに伝えることを意味する。
+事実、それらはより基本的なものであることから、より有益な洞察だろう。
+
+Let's put them all together.
+Useful writing tells people something true and important that they didn't already know,
+and tells them as unequivocally as possible.
+
+それ全部、いっしょに引きずり出そう。
+役に立つように書くことは、まだ読者が知らない重要な真実を、
+可能な限り曖昧さを含まないかたちで彼らに伝える。
+
+Notice these are all a matter of degree.
+For example, you can't expect an idea to be novel to everyone.
+Any insight that you have will probably have already been had by at least one of the world's 7 billion people.
+But it's sufficient if an idea is novel to a lot of readers.
+
+これらはすべて程度によるので、ご注意を。
+全員にとって目新しいアイディア、というものは予想できない。
+おそらく、あなたのどんな洞察もすでに見つけられている。世界人口 70 億人のうちの最低ひとりによって。
+だが、読者の多くにとって目新しいアイディアでさえあれば、それで十分なのだ。
+
+Ditto for correctness, importance, and strength.
+In effect the four components are like numbers you can multiply together to get a score for usefulness.
+Which I realize is almost awkwardly reductive, but nonetheless true.
+
+上記の、正しさ（精度と正確さ）、重要さ、そして、力強さ。
+これら４つの構成要素を、数字のように掛けあわせて、有用性のスコアを得られる。
+ほとんどは惨憺たるものになるだろうが、にもかかわらず、それが真実であることを知っている。
+
+_____
+
+
+How can you ensure that the things you say are true and novel and important?
+Believe it or not, there is a trick for doing this.
+I learned it from my friend Robert Morris, who has a horror of saying anything dumb.
+His trick is not to say anything unless he's sure it's worth hearing.
+This makes it hard to get opinions out of him,
+but when you do, they're usually right.
+
+真実で、目新しくて、重要だとあなたが言うことがらは、どのようにしてそれを確信できるのだろう？
+信じるかどうか、これを確信するためのトリックがある。
+私はそれを、友人のロバート・モリスから学んだ。なんであれバカげたことを口にするのを恐れている人物だ。
+彼のトリックはこうだ。「耳を傾ける価値あり」と確信できないかぎり、何も言わない。
+これにより、彼の外側にある意見を得るのは難しくなる。
+しかし、あなたがやるとき、それらを正しいものにしてくれる。
+
+Translated into essay writing,
+what this means is that if you write a bad sentence, you don't publish it.
+You delete it and try again.
+Often you abandon whole branches of four or five paragraphs.
+Sometimes a whole essay.
+
+エッセイを書くことに当てはめてみると、
+これが意味することはこうだ。もし、あなたがまずい文章を書くのなら、それを発表しない。
+あなたは、それを削除し、もう一度それを書き直そうとする。
+４〜５段落分のブランチを丸ごと捨てる、なんてことは良くあることで、
+ときには一本まるごと、なんてこともあるだろう。
+
+You can't ensure that every idea you have is good,
+but you can ensure that every one you publish is,
+by simply not publishing the ones that aren't.
+
+あなたのアイディアすべてが良いものだ、なんて確信は持てないけれど、
+発表するものすべてにたいしては、持てるんだ。
+良くないものは発表しない、というシンプルな方法で。
+
+In the sciences, this is called publication bias, and is considered bad.
+When some hypothesis you're exploring gets inconclusive results,
+you're supposed to tell people about that too.
+But with essay writing, publication bias is the way to go.
+
+科学の分野では、これは出版バイアスと呼ばれていて、そして悪いものとされている。
+探索中の仮説がはっきりした結果を得られていないとき、
+あなたは他の人にたいして、同じように伝えるだろう。
+だが、エッセイの書き方についていえば、出版バイアスは前進するための方法だ。
+
+My strategy is loose, then tight.
+I write the first draft of an essay fast, trying out all kinds of ideas.
+Then I spend days rewriting it very carefully.
+
+私の作戦はいいかげんで、それゆえ、きっちりしている。
+私は、すべての種類のアイディアを試したエッセイの最初の草稿を早く書きあげ、
+それから、数日掛けて、それをとても注意深く書き直す。
+
+I've never tried to count how many times I proofread essays,
+but I'm sure there are sentences I've read 100 times before publishing them.
+When I proofread an essay, there are usually passages that stick out in an annoying way,
+sometimes because they're clumsily written, and sometimes because I'm not sure they're true.
+The annoyance starts out unconscious,
+but after the tenth reading or so I'm saying "Ugh, that part" each time I hit it.
+They become like briars that catch your sleeve as you walk past.
+Usually I won't publish an essay till they're all gone —
+till I can read through the whole thing without the feeling of anything catching.
+
+エッセイを何度校正したか、数えようとしたことはないが、
+でも、発表まえのそれらのエッセイには、100 回は読み返しただろう箇所が複数あったことを確信している。
+あるエッセイを校正したとき、たいてい、目につくくだりがある。
+ぎこちない書き方だっり、本当のことか確信を持てないことから、それらは私をイライラさせるのだ。
+10 回くらい読み返したあとや、そのような記述に出くわすたんびに「うーん、あの部分…」ともだえてる。
+イバラのように、あなたが通りすぎようとするときに、服の袖をつかむのだ。
+たいてい、それらがなくなる　ー　すべての文章がひとつも引っかかりなく読めるようになる　ー　まで、
+私はそのエッセイを発表することはない。
+
+I'll sometimes let through a sentence that seems clumsy,
+if I can't think of a way to rephrase it,
+but I will never knowingly let through one that doesn't seem correct.
+You never have to.
+If a sentence doesn't seem right,
+all you have to do is ask why it doesn't,
+and you've usually got the replacement right there in your head.
+
+もし、ぎこちない書き方だなと思われるところがあって、
+別の言い方で置き換える方法を考えられない場合、ときどき目をつぶることがある。
+だが、正確じゃなさそうだな、と思われる部分については、知ったかぶりでそこを見過ごすことはない。
+あなたはぜったいにそうすべきではない。
+もし、ある文章がどうも正しくなさそうならば、
+あなたがすべきことは、なぜそれが正しくないのか問うことで、
+そうすればたいてい、頭のなかで、その部分を正しいものに置き換えてしまっている。
+
+This is where essayists have an advantage over journalists.
+You don't have a deadline.
+You can work for as long on an essay as you need to get it right.
+You don't have to publish the essay at all, if you can't get it right.
+Mistakes seem to lose courage in the face of an enemy with unlimited resources.
+Or that's what it feels like.
+What's really going on is that you have different expectations for yourself.
+You're like a parent saying to a child "we can sit here all night till you eat your vegetables."
+Except you're the child too.
+
+これは、エッセイストがジャーナリストを超える、ひとつの強みの部分だ。
+あなたは限界を持っていない。
+あるエッセイをそれが正しいものにするまで、必要なだけ、あなたは取り組める。
+もし、それを正しいものにできなければ、そのエッセイの全文をすべて公開する必要はない。
+無制限のリソースとともにある敵を前にして、描き損じは、くじけてしまうようだ。
+もしくは、そう感じさせるものだ。
+まぁ、可能性として複数の異なる【結論】を持つようになるのが、落としどころだろう。あなたは身のためにも。
+「あなたが野菜を食べ終わるまで、一晩中、私たちはそこに座っていられるよ」と子供に言う親のようなもの。
+ちがいは、あなたがその子供でもある、ということ。
+
+I'm not saying no mistake gets through.
+For example, I added condition (c) in "A Way to Detect Bias" after readers pointed out that I'd omitted it.
+But in practice you can catch nearly all of them.
+
+ミスなく完璧に書き終えられる、などと言っていない。
+たとえば、エッセイ「バイアスの見つけ方」[*訳注1] のなかで、「条件 (c)」を追加したのは、私が忘れていることを読者に指摘されたあとだ。
+だが、実際、あなたはそれらのほぼ全部を捕まえることができる。
+
+There's a trick for getting importance too.
+It's like the trick I suggest to young founders for getting startup ideas: to make something you yourself want.
+You can use yourself as a proxy for the reader.
+The reader is not completely unlike you,
+so if you write about topics that seem important to you,
+they'll probably seem important to a significant number of readers as well.
+
+同じように、重要性を獲得するためのトリックもある。
+それは、私が若い創業者に提案するスタートアップのアイディアを得るためのコツと似ている：あなたが欲しい何かを作るんだ。
+あなたは、自分自身を読者の代替として使える。
+読者は、あなたとはまったく異なっているわけではなく、
+あなたにとって重要そうだ、ということがらについて書くのなら、
+おそらく、読者のうちの一定数にとってもそれは重要なものだろう。
+
+Importance has two factors.
+It's the number of people something matters to, times how much it matters to them.
+Which means of course that it's not a rectangle, but a sort of ragged comb, like a Riemann sum.
+
+重要性は２つの要素を持っている。
+何人にとってそれは重要なことか、何度くらい彼らにとってそれが重要になるか、ということ。
+それが意味するのは、もちろん長方形ではなく、リーマン積分のような、高さのならびが一定しない櫛のようなものになる。
+
+The way to get novelty is to write about topics you've thought about a lot.
+Then you can use yourself as a proxy for the reader in this department too.
+Anything you notice that surprises you, who've thought about the topic a lot,
+will probably also surprise a significant number of readers.
+And here, as with correctness and importance, you can use the Morris technique to ensure that you will.
+If you don't learn anything from writing an essay, don't publish it.
+
+目新しさを獲得する方法は、あなたがその大部分について知っていると思っていることについて書くんだ。
+そうすれば、ここでも同じように、あなた自身を読者の代替として使える。
+あなたが気がついたあなたを驚かせたものは、なんであれ、そのことがらについてよく知っている、と考えている
+読者のうちの一定数をも、おそらく驚かせるだろう。
+正確さと重要性とともに、ここで「モリス技法」を使って確度を獲得できる。
+もし、あなたがエッセイを書くことから何一つ学べないなら、それを発表してはいけない。
+
+You need humility to measure novelty,
+because acknowledging the novelty of an idea means acknowledging your previous ignorance of it.
+Confidence and humility are often seen as opposites,
+but in this case, as in many others, confidence helps you to be humble.
+If you know you're an expert on some topic,
+you can freely admit when you learn something you didn't know,
+because you can be confident that most other people wouldn't know it either.
+
+目新しさを計測するためには謙遜さを必要とする。
+なぜなら、あるアイディアの目新しさを認めるということは、それに気づくまえのあなたの無知を認めることだから。
+よく、確信と謙虚は正反対のもののように見なされるが、
+この場合、そしてほかの場面でも、確信はあなたが謙虚でいることの助けとなる。
+もし、いくつかのトピックにおいて、自分自身をエキスパートだと知っているのなら、
+知らなかった何かを学ぶ機会が有ること、あなたはそれを気軽に認められるだろう。
+なぜなら、他のほとんどの人も同じようにそれを知らなかった、ということを確信できるのだから。
+
+The fourth component of useful writing, strength, comes from two things:
+thinking well, and the skillful use of qualification.
+These two counterbalance each other,
+like the accelerator and clutch in a car with a manual transmission.
+As you try to refine the expression of an idea, you adjust the qualification accordingly.
+Something you're sure of, you can state baldly with no qualification at all,
+as I did the four components of useful writing.
+Whereas points that seem dubious have to be held at arm's length with perhapses.
+
+役に立つように書くことの構成要素の４番目、強さは、２つのことがらから成る：
+よく考えること、そして、技能を巧みに使う。
+これら２つは、お互いを平衡させていて、マニュアル車のアクセルとクラッチの関係に似ている。
+あるアイディアの表現を洗練させようとしているとき、あなたがその表現に応じて技巧をアジャストする。
+【＊】私がやった、役に立つように書くための４つの構成要素をもちいて、
+技巧を一切もちいなくても、あなたが確信していることを率直に表明できる。
+【＊】ひょっとしたら、これらの要素は手の届く範囲に置かれるべきことがらなのではないだろうか。
+
+As you refine an idea, you're pushing in the direction of less qualification.
+But you can rarely get it down to zero.
+Sometimes you don't even want to, if it's a side point
+and a fully refined version would be too long.
+
+アイディアを洗練させることで、あなたは技巧少なめの方向に持っていける。
+だが、それをゼロまで持っていけることはまれだ。
+もしそれがサイドポイントならば、あなたがそうしたくないとしても、
+書き直した十分に洗練されたバージョンは、ときに、あまりに長くなりすぎるだろう。
+
+Some say that qualifications weaken writing.
+For example, that you should never begin a sentence in an essay with "I think,"
+because if you're saying it, then of course you think it.
+And it's true that "I think x" is a weaker statement than simply "x."
+Which is exactly why you need "I think."
+You need it to express your degree of certainty.
+
+ある人が言うように、技巧は説得力を弱めてしまう。
+たとえば、エッセイの冒頭の一文を「私が考えるに〜」などと始めるべきではない。
+もし、あなたがそう言ったのなら、当然それについて考えているわけだから。
+「〜だと思う」のほうが、シンプルに「〜だ。」と言う声明よりも弱い、というのは正しい。
+まさに、それが「私が考えるに〜」という言い方を必要とする理由だ。
+あなたの確度を表すために、それを必要とする。
+
+But qualifications are not scalars.
+They're not just experimental error.
+There must be 50 things they can express: how broadly something applies,
+how you know it, how happy you are it's so, even how it could be falsified.
+
+I'm not going to try to explore the structure of qualification here.
+It's probably more complex than the whole topic of writing usefully.
+
+Instead I'll just give you a practical tip: Don't underestimate qualification.
+It's an important skill in its own right,
+not just a sort of tax you have to pay in order to avoid saying things that are false.
+So learn and use its full range.
+It may not be fully half of having good ideas, but it's part of having them.
+
+だが、技巧はスカラー値ではない。
+ただの実験上のエラーではない。
+それらによって表現できることがらは 50 はあるにちがいない：どれくらい幅広く当てはめられるか、
+どれくらいあなたがそれを知っているか、たとえ、それがねじ曲げられたものだとしても、
+もしそうなったら、あなたはどれほどハッピーか。
+
+ここでは、技巧の構造を探求することを試そうとしているわけではない。
+おそらくそれは、役に立つように書くことのすべてのトピックよりも、さらに複雑なものになる。
+
+かわりに、実践的なコツをさしあげる：技巧を過小評価するな。
+間違ったことを言うのを避けるために支払わなきゃいけない「コスト」としてだけじゃなく、
+それが持つ正しさにおいて、それはひとつの重要なスキルだ。
+だからフルレンジでそれを学び、そしてそれを使え。
+それは、良いアイディアを持っていることのきっちり半分ではないかもしれないが、
+良いアイディアを持っていることの一部だ。
+
+There's one other quality I aim for in essays: to say things as simply as possible.
+But I don't think this is a component of usefulness.
+It's more a matter of consideration for the reader.
+And it's a practical aid in getting things right;
+a mistake is more obvious when expressed in simple language.
+
+But I'll admit that the main reason I write simply is not for the reader's sake or
+because it helps get things right,
+but because it bothers me to use more or fancier words than I need to.
+It seems inelegant, like a program that's too long.
+
+エッセイのなかで私が目論んでいることの品質、それを計測するべつの指標がある：できるかぎりシンプルに言うこと。
+だが、それは有用性の構成要素とは考えていない。
+読者のための配慮のほうが、もっと大事だ。
+そして、正しいことがらを得るうえで、それは実践的な助けのひとつである；
+シンプルな言葉で表現されているなかでは、ミスはより明白になる。
+
+だが、私がシンプルに書く一番の理由は、読者のためとか、
+正しいことがらを得るのを助けてくれる、とかそんな理由ではなく、
+むしろ、必要とするよりも多くの言葉をもちいる、または、装飾的に言葉をもちいる、
+そのことにイライラするからだということを認めよう。
+長すぎるプログラムのように、それは洗練されていない。
+
+I realize florid writing works for some people.
+But unless you're sure you're one of them, the best advice is to write as simply as you can.
+
+けばけばしい文章が、ある種の人たちに作用することを良く知っている。
+だけど、あなたがそのうちの一人であることを自覚してなくても、一番のアドバイスは、できるかぎりシンプルに書くことだ。
+
+_____
+
+
+I believe the formula I've given you,
+importance + novelty + correctness + strength, is the recipe for a good essay.
+But I should warn you that it's also a recipe for making people mad.
+
+あなたに示した「重要さ＋目新しさ＋正確さ＋強さ」という公式は、
+よいエッセイを書くためのレシピであると信じている。
+だけど、それはまた人々を怒らせるレシピでもある、ということを警告しなくてはいけない。
+
+The root of the problem is novelty.
+When you tell people something they didn't know, they don't always thank you for it.
+Sometimes the reason people don't know something is because they don't want to know it.
+Usually because it contradicts some cherished belief.
+And indeed, if you're looking for novel ideas,
+popular but mistaken beliefs are a good place to find them.
+Every popular mistaken belief creates a dead zone of ideas around it that are relatively unexplored
+because they contradict it.
+
+その問題の根っこは目新しさだ。
+あなたが誰かに、彼らの知らなかったことを伝えるとき、彼らがいつでもあなたに感謝するわけではない。
+人が何かを知らない理由が、彼らがそれを知りたがらないから、ということがある。
+たいてい、それは彼らが愛着を持っている信念とぶつかるためである。
+そして、もしあなたが新しいアイディアを探しているなら、
+なるほど、なじみ深いが間違った信念というのは、それを見つけるのにうってつけの場所だ。
+なじみ深いものではあるけれど間違った信念は、どれも、その周辺にアイディアのデッドゾーン[*訳注2]を生みだす。
+そして、そこが未踏なのは、それらのアイディアがその信念とぶつかることと関係している。
+
+The strength component just makes things worse.
+If there's anything that annoys people more than having their cherished assumptions contradicted,
+it's having them flatly contradicted.
+
+構成要素の「強さ」は、まさにこの事態を悪化させる。
+人々が愛着を持っている思い込みとぶつかるうえに、もし彼らをイラつかせるものが何かあるのなら、
+それは、彼らのどちらともぶつかることになる。
+
+Plus if you've used the Morris technique, your writing will seem quite confident.
+Perhaps offensively confident, to people who disagree with you.
+The reason you'll seem confident is that you are confident: you've cheated,
+by only publishing the things you're sure of.
+It will seem to people who try to disagree with you that you never admit you're wrong.
+In fact you constantly admit you're wrong.
+You just do it before publishing instead of after.
+
+くわえて、例の「モリス技法」をもちいていたのなら、あなたの声明はきわめて確信に満ちたものであろう。
+あなたに同意しない人にとっては、もしかすると不愉快なほどに。
+あなたが自信に満ちているだろう、その理由は、あなたが確信してるためだ：ズルをしてね。
+自分が確信していることだけを発表する、という方法で。
+あなたに同意しないよう試みる人たちには、あなたが自分の誤りを認めない奴だと感じられるだろう。
+実際、あなたは自分が間違えていることを認めている。繰り返し。
+あなたはただそれをやるんだ。発表するまえに。
+発表した後にそうする代わりに。
+
+And if your writing is as simple as possible, that just makes things worse.
+Brevity is the diction of command.
+If you watch someone delivering unwelcome news from a position of inferiority,
+you'll notice they tend to use lots of words, to soften the blow.
+Whereas to be short with someone is more or less to be rude to them.
+
+そして、もしできるかぎりシンプルに書いているのなら、まさにこの事態を悪化させる。
+簡潔さは命令の語法だ。
+もし、あなたよりも下位のポジションの誰かが、あなたのところにうれしくないニュースを持ってくるとき、
+ショックを和らげるために、彼らが多くの言葉をもちいることに気づくだろう。
+だからまぁ、誰かにとっては、簡潔であることは不作法となってしまう。
+
+It can sometimes work to deliberately phrase statements more weakly than you mean.
+To put "perhaps" in front of something you're actually quite sure of.
+But you'll notice that when writers do this, they usually do it with a wink.
+
+ときに、あなたが意図した以上に効くこともあるけれど、
+実際にはとても確信にみちていることがらについてであっても、
+「もしかすると」と前置きをおくことで、あなたの声明を弱めて表現することができる。
+だが、書き手がこれをやるときは、たいていウィンクをしながらそう言っていることに気づくだろう。
+
+I don't like to do this too much.
+It's cheesy to adopt an ironic tone for a whole essay.
+I think we just have to face the fact that elegance and curtness are two names for the same thing.
+
+私はこれをやり過ぎるのは好きではない。
+エッセイ全体のために皮肉なトーンを採用するのは、安っぽいことだ。
+優雅さと簡潔さが同じものの２つの名前だという事実に、私たちはただ向かい合わないといけない、と私は考える。
+
+You might think that if you work sufficiently hard to ensure that an essay is correct,
+it will be invulnerable to attack.
+That's sort of true.
+It will be invulnerable to valid attacks.
+But in practice that's little consolation.
+
+あなたはこう考えるかもしれない。
+エッセイが正確であることを確信するのに十分はほど一生懸命取り組めば、
+攻撃にたいして傷つくことがない状態になるだろう、と。
+そこには多少の真実がある。
+有効な攻撃にたいしては、傷つくことがない状態ではあるだろう。
+だが、それは実際にはほとんど慰めにならない。
+
+In fact,
+the strength component of useful writing will make you particularly vulnerable to misrepresentation.
+If you've stated an idea as strongly as you could without making it false,
+all anyone has to do is to exaggerate slightly what you said,
+and now it is false.
+
+実際、
+役に立つように書くための構成要素うちの「強さ」は、とりわけ「誤解」にたいして、あなたを傷つきやすい状態にする。
+もし、あなたができるかぎり強力に、間違いにしないようにしてあるアイディアに取り組むのなら、
+誰も、あなたが言ったことをいささか大げさに誇張することくらいしかできず、
+そして今、それは間違いだ。
+
+Much of the time they're not even doing it deliberately.
+One of the most surprising things you'll discover,
+if you start writing essays,
+is that people who disagree with you rarely disagree with what you've actually written.
+Instead they make up something you said and disagree with that.
+
+【＊】慎重にやるときでさえも、そのほとんどがそうではない。
+あなたが発見するであろう最も驚くことがらは、
+もし、あなたがエッセイを書きはじめるなら、
+あなたと意見の合わない人が、あなたが実際に書き終えたものにたいして異を唱えることはまれである、ということだ。
+かわりに彼らは、あなたが言った何かを作り上げて、そして、それにたいして異を唱えるのだ。
+
+For what it's worth,
+the countermove is to ask someone who does this to quote a specific sentence or passage you wrote that they believe is false,
+and explain why.
+I say "for what it's worth" because they never do.
+So although it might seem that this could get a broken discussion back on track,
+the truth is that it was never on track in the first place.
+
+それをする誰かにたいして、彼らがウソだと信じる部分　ー　明確な文章、もしくは、その一節　ー　をあなたの書いたものから示すよう、
+お願いすること、そして、なぜかを説明するんだ。
+その言葉に値するもののためにも、対抗手段とはそうすることだ。
+「その言葉に値するもののためにも、」と私が言うのは、彼らがそうすることはないからだ。
+【＊】というわけで、これが壊された議論をレールのうえに取り戻すことができたのかもしれないが、
+それにもかかわらず、その真実はこうだ。
+【＊】それは一等地のなかのレールの上にはなかった。
+
+Should you explicitly forestall likely misinterpretations? Yes,
+if they're misinterpretations a reasonably smart and well-intentioned person might make.
+In fact it's sometimes better to say something slightly misleading and then add the correction than
+to try to get an idea right in one shot.
+That can be more efficient, and can also model the way such an idea would be discovered.
+
+誤解のように、明白に、未然に防ぐべきなのか？そうだ。
+もし、それらの誤解が、賢明なほどスマートかつ善意の人によるもの、であれば。
+一発で良いアイディアを得ようと試みるよりも、
+わずかにミスリードさせることを言って、それから補正を追加する、というほうが良い、ということも実際にはある。
+より効率の良いものになるし、また、そのようなアイディアが発見されるための道筋のモデルにもなり得る。
+
+But I don't think you should explicitly forestall intentional misinterpretations in the body of an essay.
+An essay is a place to meet honest readers.
+You don't want to spoil your house by putting bars on the windows to protect against dishonest ones.
+The place to protect against intentional misinterpretations is in end-notes.
+But don't think you can predict them all.
+
+People are as ingenious at misrepresenting you when you say something they don't want to hear
+as they are at coming up with rationalizations for things they want to do but know they shouldn't.
+I suspect it's the same skill.
+
+だが、故意による「誤解」を、エッセイの本文のなかで未然に避けるべきだ、とは考えない。
+エッセイは、正直な読者たちと出会うためのひとつの場所だ。
+不正直な人たちにたいする防御のために、窓に板を打ちつけて、あなたの家を覆いたくはないだろう。
+わざとらしい誤解にたいする防御の場所は、末尾の補足だ。
+だが、それらすべてを予知できるなどと考えないこと。
+
+人は巧妙だ。
+彼らがやりたいこと（だが、それをすべきでないということを知っている）を正当化するとき。
+そして、彼らが聞きたくないこと　ー　上記の彼らのありよう　ー　を指摘するあなたを「誤解」するとき。
+私は、それが同じスキルなのではないか、と疑っている。
+
+_____
+
+
+As with most other things, the way to get better at writing essays is to practice.
+But how do you start?
+Now that we've examined the structure of useful writing,
+we can rephrase that question more precisely.
+Which constraint do you relax initially? The answer is,
+the first component of importance: the number of people who care about what you write.
+
+他のほとんどのものを持っているとして、エッセイを書くうえで上手になるための方法は、練習することだ。
+だが、あなたはどうやって始める？
+役に立つように書く仕組みをひととおり吟味し終えた今、
+私たちは、あの質問（＊訳者より。冒頭の「エッセイはどうあるべきか？」のことかな？）をよりハッキリと言い換えることができる。
+あなたはどのハードルを最初に飛びこえさせる？その答えは、
+「重要さ」の最初の構成要素：どれくらいの人があなたの書くことに関心を示すか、だ。
+
+If you narrow the topic sufficiently,
+you can probably find something you're an expert on.
+Write about that to start with.
+If you only have ten readers who care, that's fine.
+You're helping them, and you're writing.
+Later you can expand the breadth of topics you write about.
+
+もし、そのトピックについてほとんど知らないのなら、（そのトピックの範疇の）何か、
+あなたがよく知っていることがらを見つけることは出来るだろう。そこから書きはじめよう。
+もし 10 人だけ、それに関心を持つ読者を持っているなら、それは素晴らしい。
+彼らを助けていて、そして、あなたは書き出している。
+書くものの幅はあとで広げられる。
+
+The other constraint you can relax is a little surprising: publication.
+Writing essays doesn't have to mean publishing them.
+That may seem strange now that the trend is to publish every random thought, but it worked for me.
+I wrote what amounted to essays in notebooks for about 15 years.
+I never published any of them and never expected to.
+I wrote them as a way of figuring things out.
+But when the web came along I'd had a lot of practice.
+
+あなたが飛びこえさせられる他のハードル、それはちょっと驚くものだ：発表する。
+エッセイを書くことは、書いたものを必ず発表しなきゃいけない、ということではない。
+無作為の考えをすべて発表するのが当たり前の今じゃ、奇妙に感じるかもしれないが、それは役に立った。
+だいたい 15 年間くらい、ノートパソコンのなかでエッセイに相当するものを書いてた。
+けっして、それらを発表することはなかったし、想像もしていなかった。
+私はものごとを理解するための方法として書いた。
+ウェブの時代が来たときには、私はたくさんの練習を重ねていた。
+
+Incidentally, Steve Wozniak did the same thing.
+In high school he designed computers on paper for fun.
+He couldn't build them because he couldn't afford the components.
+But when Intel launched 4K DRAMs in 1975, he was ready.
+
+ついでながら、スティーヴ・ヴォズニアックが同じことをやった。
+高校で、彼は楽しみのために紙の上でコンピュータをデザインした。
+それらを組み上げるための十分な構成要素を得る余裕がなかったため、彼は組み上げることが出来なかった。
+だが 1975 年にインテルが 4K のメモリー（Dynamic Random Access Memory）を出して、その準備が整った。
+
+_____
+
+
+How many essays are there left to write though?
+The answer to that question is probably the most exciting thing I've learned about essay writing.
+Nearly all of them are left to write.
+
+にしても、エッセイを書くためのネタはどれくらい残っているだろう？
+その答えは、おそらく私がエッセイを書くことについて学んだ、最もわくわくすることがらだ。
+ほぼすべてのネタが、これから書かれるために残されている。
+
+Although the essay is an old form, it hasn't been assiduously cultivated.
+In the print era, publication was expensive, and there wasn't enough demand for essays to publish that many.
+You could publish essays if you were already well known for writing something else, like novels.
+Or you could write book reviews that you took over to express your own ideas.
+But there was not really a direct path to becoming an essayist.
+Which meant few essays got written,
+and those that did tended to be about a narrow range of subjects.
+
+エッセイ[*訳注3]は、古い表現形態であるにもかかわらず、熱心に耕されることはなかった。
+印刷物の時代、出版は高価だった。そしてエッセイにたいする需要は、それを印刷するほど十分にはなかった。
+もし、あなたが何かを、小説のように上手に書くことでよく知られていたのなら、あなたはエッセイを発表することができた。
+もしくは、あなたの持っているアイディアをこっそり表現するために場として、読書レビューは書くことができた。
+だが、エッセイストになるための一直線の道はまだ準備されていなかった。
+エッセイと意図したものはわずかで、
+書かれたものは、主題の幅を狭めようと試みられたものだった。それらは成し遂げた。
+
+Now, thanks to the internet, there's a path.
+Anyone can publish essays online.
+You start in obscurity, perhaps, but at least you can start.
+You don't need anyone's permission.
+
+インターネットに感謝しよう。いま、その道は拓けている。
+誰でも、オンラインでエッセイを発表できる。
+おそらく、あなたは真っ暗闇のなかで始めることになるだろうが、でも少なくとも始められる。
+あなたは誰の許可も必要ない。
+
+It sometimes happens that an area of knowledge sits quietly for years,
+till some change makes it explode.
+Cryptography did this to number theory.
+The internet is doing it to the essay.
+
+なんらかの変化が爆発させるまで、何年もの間、知識が静かに座っている領域で、それはときどき起こる。
+暗号解読法は、数理論にたいしてこれをやった。
+インターネットは、エッセイにたいしてそれをやっている。
+
+The exciting thing is not that there's a lot left to write,
+but that there's a lot left to discover.
+There's a certain kind of idea that's best discovered by writing essays.
+If most essays are still unwritten, most such ideas are still undiscovered.
+
+わくわくすることがらは、書くことがたくさん残されていることではなく、
+探求することがたくさん残されていること、だ。
+エッセイを書くことによって発見されるのが一番良い、という、そういう種類のアイディアが一定数ある。
+もし、ほとんどのエッセイが未だに書かれていないのなら、そのようなアイディアのほとんどはまだ発見されていない。
+
+
+Notes
+メモ
+
+[1] Put railings on the balconies, but don't put bars on the windows.
+[1] バルコニーに手すりをおくべきで、ウィンドウズ PC に板を打ちつけないように。
+
+[2] Even now I sometimes write essays that are not meant for publication.
+I wrote several to figure out what Y Combinator should do, and they were really helpful.
+
+[2] 今でさえ、ときどき私は発表することを目的としないエッセイを書いている。
+「Y Combinator」ですべきことを見つけるためにいくつか書いたし、そして、それらは役に立った。
+
+Thanks to Trevor Blackwell, Daniel Gackle, Jessica Livingston, and Robert Morris for reading drafts of this.
+草稿を読んでくれた Trevor Blackwell、 Daniel Gackle、 Jessica Livingston、そして Robert Morris に感謝する。
+
+
+訳注
+
+[*訳注1]
+"A Way to Detect Bias" [ http://www.paulgraham.com/bias.html ]
+拙訳「バイアスの見つけ方」 [ https://github.com/gima326/pg/blob/master/bias.txt ]
+
+[*訳注2]
+"Novelty and Heresy" [ http://www.paulgraham.com/nov.html ]
+拙訳「目新しさと異端」 [ https://github.com/gima326/pg/blob/master/nov.txt ]
+
+[*訳注3]
+"The Age of The Essay" [ http://www.paulgraham.com/essay.html ]
+拙訳なし
