@@ -1,0 +1,819 @@
+[ http://www.paulgraham.com/lesson.html ]
+
+The Lesson to Unlearn
+意識的にやめるためのレッスン
+
+December 2019
+2019年12月
+
+The most damaging thing you learned in school wasn't something you learned in any specific class.
+It was learning to get good grades.
+
+あなたが学校で学んだことがらで、もっとも有害なものは専門的な授業で学んだことではない。
+それは、よい成績をとるために学ぶことだ。
+
+When I was in college,
+a particularly earnest philosophy grad student once told me that he never cared what grade he got in a class,
+only what he learned in it.
+This stuck in my mind because it was the only time I ever heard anyone say such a thing.
+
+私が大学に居たとき、
+とりわけ熱心な哲学科の大学院生が、私に一度伝えてくれた。
+彼は、授業での成績を気にしたことはなく、その授業で学んだことだけを気にしてた、と。
+そのようなことを耳にしたのはその時だけだったから、それは私の意識のなかで引っかかっていた。
+
+For me, as for most students,
+the measurement of what I was learning completely dominated actual learning in college.
+I was fairly earnest; I was genuinely interested in most of the classes I took, and I worked hard.
+And yet I worked by far the hardest when I was studying for a test.
+
+私にとって、そして、生徒のほとんどにとって、
+学んでいたことを測定すること、それが大学における実際の学びを完璧に支配していた。
+私はかなり熱心な生徒だった；選択した授業のほとんどに本当に興味を持っていたし、そして、私は一生懸命取り組んでいた。
+だが、それでも取り組みぶりは試験のための勉強が最上級で、平時はそれからはほど遠かった。
+
+In theory, tests are merely what their name implies: tests of what you've learned in the class.
+In theory you shouldn't have to prepare for a test in a class any more than you have to prepare for a blood test.
+In theory you learn from taking the class,
+from going to the lectures and doing the reading and/or assignments,
+and the test that comes afterward merely measures how well you learned.
+
+試験が、その名前が意味するとおりなら：
+その授業のなかであなたが学んだことをテストするだけ、ということになる。
+血液検査のために準備すること以上のことを、あなたは試験のために準備するべきではない、ということになる。
+授業を選択すること　ー講義に出席し、教科書読み、（そして、あるのなら）課題をこなすー　からあなたが学ぶのなら、
+その後に、あなたがどのくらいよく学んだのかを、試験はただ測定するだけ、ということになる。
+
+In practice, as almost everyone reading this will know,
+things are so different that
+hearing this explanation of how classes and tests are meant to work is like
+hearing the etymology of a word whose meaning has changed completely.
+In practice, the phrase "studying for a test" was almost redundant, because that was when one really studied.
+The difference between diligent and slack students was that the former studied hard for tests and the latter didn't.
+No one was pulling all-nighters two weeks into the semester.
+
+ここでの「授業と試験がどのように機能しなければならないか」の説明と、
+「その言葉が意味することが完全に変わってしまった言葉の語源」についての説明とは似ている。
+だが実際には、これを読んでいる人のほとんどが知ることになるように、それらはほど遠いものだ。
+その一回が本当に勉強したときなのだから、「試験勉強」という言い回しは、実際にはほとんど冗長だ。
+勤勉な生徒となまけ者の生徒との違いは、前者が試験のために一生懸命勉強し、後者がしなかった、ということだった。
+２週間の徹夜族は置き去りにされ、次の学期へ引き入れる生徒は誰もいなかった。【＊】
+
+Even though I was a diligent student,
+almost all the work I did in school was aimed at getting a good grade on something.
+
+私は勤勉な学生だったのにもかかわらず、
+私の取り組みのほとんどは、何かの分野で良い成績を得ることを目的としたものだった。
+
+To many people, it would seem strange that the preceding sentence has a "though" in it.
+Aren't I merely stating a tautology? Isn't that what a diligent student is, a straight-A student?
+That's how deeply the conflation of learning with grades has infused our culture.
+
+前段の「にもかかわらず」ってとこは、多くの人々にとって奇妙に感じられるかもしれない。
+私が同義反復してるだけか？勤勉な学生ってのは、成績・評価がトップクラスの学生のことじゃないの？
+学びと成績の合成が、どれだけ私たちの文化に深く影響を与えているか、その証左だ。
+
+Is it so bad if learning is conflated with grades? Yes, it is bad.
+And it wasn't till decades after college, when I was running Y Combinator, that I realized how bad it is.
+
+学びが成績と合成されるのって、そんなに悪いことなの？そうだ、悪いことだ。
+そして、それがどれくらい悪いことかを私がハッキリ認識したのは、大学卒業後の数十年の間にではなかった。
+私が Y Combinator を運営していたときだった。
+
+I knew of course when I was a student that studying for a test is far from identical with actual learning.
+At the very least, you don't retain knowledge you cram into your head the night before an exam.
+But the problem is worse than that.
+The real problem is that most tests don't come close to measuring what they're supposed to.
+
+もちろん、学生のときの私は知っていた。
+試験のための勉強が、実際の学びからどれほどかけ離れたものなのか。
+ひどい場合、試験前夜に頭に詰め込む知識をあなたは保持しない。
+しかし、ここでの問題はそれよりもひどい。
+本当の問題は、ほとんどの試験が測定する対象に近づくことがない、ということだ。
+
+If tests truly were tests of learning, things wouldn't be so bad.
+Getting good grades and learning would converge, just a little late.
+The problem is that nearly all tests given to students are terribly hackable.
+Most people who've gotten good grades know this, and know it so well they've ceased even to question it.
+You'll see when you realize how naive it sounds to act otherwise.
+
+もし試験が学びをテストするものだったら、ものごとはこれほどひどくはならなかったろう。
+よい成績を得ることと学びは、ほんの少し遅れるけれど、ひとつに収束してただろう。
+問題は、生徒に課されるほぼすべての試験がハックしやすい、ということだ。
+よい成績を得た人たちのほとんどは、そのことをよく知っていて、それを疑問に思うことさえも止めてしまっているほどだ。
+それをハッキリと理解したとき、べつのやり方でふるまうことがどれほど純朴であるか分かるでしょう。
+
+Suppose you're taking a class on medieval history and the final exam is coming up.
+The final exam is supposed to be a test of your knowledge of medieval history, right?
+So if you have a couple days between now and the exam, surely the best way to spend the time,
+if you want to do well on the exam, is to read the best books you can find about medieval history.
+Then you'll know a lot about it, and do well on the exam.
+
+あなたが中世の歴史についての授業をとってるとしよう。最終試験がやってきます。
+その試験は、あなたの中世の歴史についての知識をテストするものと期待されている。そうだよね？
+試験まで二日あるとして、その試験で良い点をとりたいのなら、じゃあその期間におこなう一番効果的なやり方は、
+きっと、中世の歴史についての一番良い本を見つけて、それを読むことだ。
+そうしてそれについて多くのことを知り、あなたはその試験で十分に力を発揮するでしょう。
+
+No, no, no, experienced students are saying to themselves.
+If you merely read good books on medieval history,
+most of the stuff you learned wouldn't be on the test.
+It's not good books you want to read,
+but the lecture notes and assigned reading in this class.
+And even most of that you can ignore,
+because you only have to worry about the sort of thing that could turn up as a test question.
+You're looking for sharply-defined chunks of information.
+If one of the assigned readings has an interesting digression on some subtle point,
+you can safely ignore that, because it's not the sort of thing that could be turned into a test question.
+But if the professor tells you that there were three underlying causes of the Schism of 1378,
+or three main consequences of the Black Death, you'd better know them.
+And whether they were in fact the causes or consequences is beside the point.
+For the purposes of this class they are.
+
+いや、いや、いや…、経験豊かな生徒は自分自身に言う。
+もし、中世の歴史についての良書を読んだだけなら、
+あなたが学んだことがらのほとんどはその試験には出てこないだろう。
+あなたが読みたいのは、良書ではなく、その授業での講義ノートであり、授業で用いられているテキストだ。
+そして、試験の設問にのぼることがらについてだけ心配すればよいのだから、
+あなたはそのほとんどを無視することさえできる。
+ざっくりと定義された情報の塊をこそ、あなたはさがしている。
+テキストの記述のなかに、興味深い脱線トピックがあったとしよう。
+試験の設問にのぼることがらではないから、あなたは安心してそこを無視できる。
+しかし、もし教授が 1378 年の「宗派分立」の３つの原因、だとか、黒死病の主要な３つの結果などについて説明したら、
+あなたはそれらについて知るべきだ。
+実際に、それらが原因や結果だったのかの当否は問題ではない。
+その授業におけるそれらの目的のために、だ。
+
+At a university there are often copies of old exams floating around,
+and these narrow still further what you have to learn.
+As well as learning what kind of questions this professor asks, you'll often get actual exam questions.
+Many professors re-use them.
+After teaching a class for 10 years, it would be hard not to, at least inadvertently.
+
+大学では、古い試験問題のコピーがそこらに漂っていて、
+そして、それらはあなたが学ばなくてはならないことを狭めるのを助長する。
+この教授がどんな質問をしてくるのかをよく学ぶほど、実際の試験の設問が分かるだろう。
+教授の多くが、それらを再利用している。
+10 年間ひとつの授業を教えたあとでは、それをしないことは難しくなるし、少なくとも不注意でそうしてしまう。
+
+In some classes,
+your professor will have had some sort of political axe to grind,
+and if so you'll have to grind it too.
+The need for this varies.
+In classes in math or the hard sciences or engineering it's rarely necessary,
+but at the other end of the spectrum there are classes where you couldn't get a good grade without it.
+
+いくつかの授業では、
+あなたの教授はある種の政治的な下心、腹に一物を持っている人物だろう。
+そして、もしそうなら、あなたも同じようにそれを研がなくちゃいけないだろう。
+これにたいする需要は変化する。
+数学、科学、工学の授業でそれが必要になることはほとんどないが、
+スペクトラムの逆の端っこには、それなしでは良い成績を得られない授業がある。
+
+Getting a good grade in a class on x is so different from learning a lot about x that you have to choose one or the other,
+and you can't blame students if they choose grades.
+Everyone judges them by their grades — graduate programs, employers, scholarships, even their own parents.
+
+科目 X の授業では良い成績を得ることと、X についてたくさん学ぶことの間に大きな隔たりがあり、
+だから、あなたはどちらかを選ばなくちゃいけない。そして、成績のほうを選んだ生徒をあなたは非難できない。
+卒業プログラム、雇用主、奨学金、　ー彼らの両親でさえもー　みんな成績によって彼らのことを判断する。
+
+I liked learning, and I really enjoyed some of the papers and programs I wrote in college.
+But did I ever, after turning in a paper in some class, sit down and write another just for fun?
+Of course not. I had things due in other classes.
+If it ever came to a choice of learning or grades, I chose grades.
+I hadn't come to college to do badly.
+
+私は学ぶことが好きだったし、そして大学ではいくつかのレポートやプログラムを書くことを本当に楽しんでいた。
+だけど、ある授業でレポートを提出したあとに、席に戻って、そして別のを書いたことがあったか？ただ楽しみのために？
+もちろんそんなことはなかった。別の授業のやらなきゃいけないことがあったし。
+もし「学びか、成績か」の選択を迫られたなら、私は成績のほうを選んでた。
+私は下手にやるために大学に行ってたんじゃない。
+
+Anyone who cares about getting good grades has to play this game,
+or they'll be surpassed by those who do.
+And at elite universities, that means nearly everyone,
+since someone who didn't care about getting good grades probably wouldn't be there in the first place.
+The result is that students compete to maximize the difference between learning and getting good grades.
+
+良い成績を得ることを意識する人は、皆、このゲームをプレイすることを強いられるか、
+さもなければ、プレイヤーの誰かのふるまいに驚かされることになる。
+そして、名門大学において、それはほぼ全員ということを意味する。
+良い成績を得ることを気にしない人というのは、おそらく、トップクラスのその場所には居ないはずだから。
+その結果、生徒たちは最小限の学びで最大限の良い成績を得ることを競うことになる。
+
+Why are tests so bad?
+More precisely, why are they so hackable?
+Any experienced programmer could answer that.
+How hackable is software whose author hasn't paid any attention to preventing it from being hacked?
+Usually it's as porous as a colander.
+
+なぜ試験はそんなにひどいのか？
+はっきり言えば、なぜそんなにハックしやすいんだろう？
+経験豊かなプログラマーなら、それに応えられる。
+ハックされることに対してひとつも考慮されていないソフトウェアは、どれくらいハックしやすいだろう？
+たいてい、それはザルのように穴だらけだ。
+
+Hackable is the default for any test imposed by an authority.
+The reason the tests you're given are so consistently bad
+— so consistently far from measuring what they're supposed to measure —
+is simply that the people creating them haven't made much effort to prevent them from being hacked.
+
+ハックしやすさは、権威により押しつけられる試験のデフォルトだ。
+あなたに与えられた試験が一貫してとてもひどい理由　ー測定するはずの対象にまったく近づけていないー　は、
+単純に、それを作成した人たちが、ハックされることを妨げるために十分な努力を払っていないためだ。
+
+But you can't blame teachers if their tests are hackable.
+Their job is to teach, not to create unhackable tests.
+The real problem is grades, or more precisely, that grades have been overloaded.
+If grades were merely a way for teachers to tell students what they were doing right and wrong,
+like a coach giving advice to an athlete, students wouldn't be tempted to hack tests.
+But unfortunately after a certain age grades become more than advice.
+After a certain age, whenever you're being taught, you're usually also being judged.
+
+もし、試験がハック可能であったとしても、あなたはそれを作成した教師を非難できない。
+彼らの仕事は教えることであり、ハックしづらい試験を作成することではない。
+本当の問題は成績であり、はっきり言えば、成績はずーっと過負荷が掛かった状態だ。
+アスリートにたいしてコーチがあたえるアドバイスのように、もし、成績が生徒にたいして、
+彼らがやってることが「正しいか／間違っているか」をただ伝えるものであれば、
+生徒たちが試験をハックする誘惑に駆られることはなかっただろう。
+しかし、不幸にも、ある年齢以降になると成績はアドバイス以上のものになってしまう。
+ある年齢以降になると、あなたが何かを教わっているときは、たいてい、あなたは判定されてもいる。
+
+I've used college tests as an example, but those are actually the least hackable.
+All the tests most students take their whole lives are at least as bad, including,
+most spectacularly of all, the test that gets them into college.
+If getting into college were merely a matter of having the quality of one's mind measured
+by admissions officers the way scientists measure the mass of an object,
+we could tell teenage kids "learn a lot" and leave it at that.
+You can tell how bad college admissions are,
+as a test, from how unlike high school that sounds.
+In practice, the freakishly specific nature of the stuff ambitious kids have to do in high school
+is directly proportionate to the hackability of college admissions.
+The classes you don't care about that are mostly memorization,
+the random "extracurricular activities" you have to participate in to show you're "well-rounded,"
+the standardized tests as artificial as chess,
+the "essay" you have to write that's presumably meant to hit some very specific target,
+but you're not told what.
+
+ひとつの例として大学での試験を引き合いに出したが、実際には、それらのハックの余地は最も小さい。
+ほとんどの生徒が一生のうちで臨む試験は、少なく見積もってもひどいものだが、
+そのなかでも最大級のものが、彼らを大学に入れた試験だ。
+もし、大学入試が、科学者が大規模なオブジェクトの集団を測定する方法をもちいて、
+ただ受験生の意志のみを試験官が測定するだけだったなら、
+私たちはティーンの子たちに「たくさん学んでね」と伝えれば、話はそれでお終いだったろう。
+「高校」の意味合いがどれほどかけ離れるかを見れば、
+大学入試制度が、試験としてどれほどひどいものなのかが分かる。
+野心的な子供たちが高校生のときにやっておかなくちゃいけないことがら、
+その異常なほどの特殊な性質は、実際、大学入試制度のハック可能性と直接的に比例している。
+あなたがそれを気にしない授業は、ほぼ暗記作業、【＊】
+あなたが「総合的」であることを示すために参加する必要のある、ランダムな「課外活動」、
+チェスのように人工的な標準化された試験、
+あなたは書かなくてはならない「エッセイ」、どうもそれはとても特殊な対象
+ーしかし、何かを伝えられることはないー　を叩くことを意味するようだ。【＊】
+
+As well as being bad in what it does to kids,
+this test is also bad in the sense of being very hackable.
+So hackable that whole industries have grown up to hack it.
+This is the explicit purpose of test-prep companies and admissions counsellors,
+but it's also a significant part of the function of private schools.
+
+この試験は、子供たちにそれが及ぼすこと、そのなかでひどいというだけでなく、
+とてもハックしやすいという性質においても、ひどい。
+とてもハックしやすいから、それをハックすることで産業まるごと成長を遂げた。
+これがテスト準備会社と入試カウンセラーの明白な目的であり、
+また、それは私学の機能の重要部分でもある。
+
+Why is this particular test so hackable?
+I think because of what it's measuring.
+Although the popular story is that the way to get into a good college is to be really smart,
+admissions officers at elite colleges neither are, nor claim to be,
+looking only for that.
+What are they looking for?
+They're looking for people who are not simply smart, but admirable in some more general sense.
+And how is this more general admirableness measured? The admissions officers feel it.
+In other words, they accept who they like.
+
+この特殊な試験はなぜハックしやすいのか？
+思うにそれは、それが測定している対象のためだ。
+「良い大学に入る方法は、本当に賢くなることだ」という一般的な物語にもかかわらず、
+エリート大学の試験官たちは、そうであると主張しないし、そのことのためだけに探しているわけでもない。
+彼らは何を探しているのだろう？
+彼らが探しているのは、ただ単純に賢い人でない人ではなく、他にも一般的な価値観のうえで賞賛に値する人だ。
+どうやって、この、より一般的な栄誉を計測する？試験官はそれを感知する。
+べつの言い方をすると、彼らは、彼らの好きな人物を受け入れているんだ。
+
+So what college admissions is a test of is whether you suit the taste of some group of people.
+Well, of course a test like that is going to be hackable.
+And because it's both very hackable and there's (thought to be) a lot at stake,
+it's hacked like nothing else.
+That's why it distorts your life so much for so long.
+
+というわけで、大学入試は、ある集団の雰囲気にフィットするかどうかの試験になる。
+ええ、もちろん、その試験はハックしやすいものになるだろう。
+そして、それはとてもハックしやすく、かつ、たくさんのご褒美がある（べきだと考えられている）ため、
+ほかの何よりもハックされている。
+そういうわけで、それはあなたの生活をとても歪める。とても長い期間にわたって。
+
+It's no wonder high school students often feel alienated.
+The shape of their lives is completely artificial.
+
+しばしば高校生たちの多くが疎外感を感じるのは、不思議なことじゃない。
+彼らの生活の形は、完璧に人工的だ。
+
+But wasting your time is not the worst thing the educational system does to you.
+The worst thing it does is to train you that the way to win is by hacking bad tests.
+This is a much subtler problem that I didn't recognize until I saw it happening to other people.
+
+しかし、あなたの人生を浪費させることが、教育システムがなす最悪なことがらではない。
+最悪のことがらは、出来の悪い試験をハックすることによって勝つやり方を、あなたに調教することだ。
+これはとてもとらえがたい問題で、私はそれが別の人に起こっているのを目にするまでハッキリと認識していなかった。
+
+When I started advising startup founders at Y Combinator, especially young ones,
+I was puzzled by the way they always seemed to make things overcomplicated.
+How, they would ask, do you raise money?
+What's the trick for making venture capitalists want to invest in you?
+The best way to make VCs want to invest in you, I would explain, is to actually be a good investment.
+Even if you could trick VCs into investing in a bad startup, you'd be tricking yourselves too.
+You're investing time in the same company you're asking them to invest money in.
+If it's not a good investment, why are you even doing it?
+
+Y Combinator でスタートアップの創業者たちへのアドバイスを始めたとき、
+彼らが、とりわけ若い子たちが、ものごとを過剰に複雑にするやり方に、いつも私は困惑させられてた。
+彼らは質問したがった。
+「どうやって、お金を引き上げるんですか？」
+「ベンチャー投資家が、あなたに出資したくなるトリックってなんですか？」
+私はこう説明したが、ベンチャー投資家に出資したくさせる一番の方法は、実際にそれをよい出資にすることだ。
+もしトリックを使って見込みのないスタートアップに出資させられたとしても、ベンチャー投資家とともに、自分自身をもだますことになる。
+彼らに出資してもらうのと同じ会社に、あなたは時間を投じている。
+それが良くない出資なら、あなたはなぜその事業を運営してられるか？
+
+Oh,
+they'd say, and then after a pause to digest this revelation,
+they'd ask: What makes a startup a good investment?
+
+…なるほど、
+彼らはそう言って、そして、この啓示を咀嚼するためにしばらく止まったあと、
+彼らは尋ねた：何がスタートアップを良い出資先にするんだろう、と。
+
+So I would explain that what makes a startup promising,
+not just in the eyes of investors but in fact, is growth.
+Ideally in revenue, but failing that in usage.
+What they needed to do was get lots of users.
+
+だから、私は説明するんだ。
+出資者目線からだけではなく、事実にもとづいてね。
+見込みのあるスタートアップたらしめているのが何なのか、それは成長だ。
+財源は理想的でも、その使い方で失敗する。【＊】
+彼らがやらなければならなかったことは、たくさんのユーザーを獲得することだった。
+
+How does one get lots of users?
+They had all kinds of ideas about that.
+They needed to do a big launch that would get them "exposure."
+They needed influential people to talk about them.
+They even knew they needed to launch on a tuesday,
+because that's when one gets the most attention.
+
+あの人は、どうやってたくさんのユーザーを獲得するの？
+彼らは、それについてすべての種類のアイディアを持っていた。
+彼らは、そのサービスをマスコミに採りあげてもらうべく、大きなリリースを必要とした。
+彼らは、そのサービスについて語り合うための影響力のある人を必要とした。
+あの人がもっとも注目を集めたのがその曜日だという理由から、
+彼らは、火曜日に製品をリリースする必要があることさえも知っていた。
+
+No, I would explain, that is not how to get lots of users.
+The way you get lots of users is to make the product really great.
+Then people will not only use it but recommend it to their friends,
+so your growth will be exponential once you get it started.
+
+いいや、そんなのはたくさんのユーザーを獲得する方法できないよ、と私は説明する。
+あなたがたくさんのユーザーを獲得する方法は、製品を本当に素晴らしいものにすることだ。
+そうすれば、人々はそれを使うだけでなく、彼らの友人にそれを奨めてくれるから、
+一度それが軌道にのれば、あなたの成長は指数関数での伸びていく。
+
+At this point I've told the founders something you'd think would be completely obvious:
+that they should make a good company by making a good product.
+And yet their reaction would be something like the reaction many physicists must have had
+when they first heard about the theory of relativity:
+a mixture of astonishment at its apparent genius,
+combined with a suspicion that anything so weird couldn't possibly be right.
+Ok, they would say, dutifully.
+And could you introduce us to such-and-such influential person?
+And remember, we want to launch on Tuesday.
+
+私がその創業者たちに伝えたこの点において、あなたが考えていたことが完璧に明白になった：
+良い製品を作ることによって、良い会社は作られなきゃいけない。
+そして、彼らの反応はまだ、多くの物理学者が
+初めて相対性理論について耳にしたときにとった反応と似たものだった：
+その明白な天才における驚きの混合物は、
+なんであれ、「とても奇妙なことがらは真実になれないかもしれない」という疑いと合体してた：
+「分かりました」、彼らは礼儀正しく言った。
+そして、「…で、私たちに影響力のある人を紹介していただけませんか？
+覚えておいてください、私たちは火曜日にリリースしたいんです」と。
+
+It would sometimes take founders years to grasp these simple lessons.
+And not because they were lazy or stupid.
+They just seemed blind to what was right in front of them.
+
+創業者がこれらの単純なレッスンをつかもうとするのには、数年かかることがある。
+そして、それは彼らが怠惰だったり、間抜けだったから、という理由からではない。
+彼らの前の、何が真実だったかについて、盲目なだけだったようなのだ。
+
+Why, I would ask myself, do they always make things so complicated?
+And then one day I realized this was not a rhetorical question.
+
+なんでだろう？
+私は自分自身に尋ねるだろう、彼らはいつもものごとをこんなに複雑にするんだろう？
+そして、ある日、これが修辞疑問ではないことがハッキリと分かった。
+
+Why did founders tie themselves in knots doing the wrong things when the answer was right in front of them?
+Because that was what they'd been trained to do.
+Their education had taught them that the way to win was to hack the test.
+And without even telling them they were being trained to do this.
+The younger ones, the recent graduates, had never faced a non-artificial test.
+They thought this was just how the world worked:
+that the first thing you did, when facing any kind of challenge,
+was to figure out what the trick was for hacking the test.
+That's why the conversation would always start with how to raise money, because that read as the test.
+It came at the end of YC.
+It had numbers attached to it, and higher numbers seemed to be better.
+It must be the test.
+
+なぜ創業者たちは、彼らの前のその答えが真実であるときに、間違ったことをする集団のなかで、自らを縛り上げるんだろう？
+なぜならそれは、彼らがずーっとそうするように訓練されてきたからだった。
+彼らの教育が、彼らに「試験をハックすることが勝つための道だ」と教えてきてた。
+そして、それを伝えなくたって、彼らはそれでもそれをするように訓練されていた。
+最近卒業した若い子たちは、これまで人工的でない試験と対峙したことがなかった。
+彼らは考えた：
+チャレンジすることと向き合うときに、いつだって、おまえが最初にやったことは、
+試験をハックするためのトリックを見つけ出すことだった。
+これこそが、まさにその世界の仕組みだ、と。
+そういうわけで、会話はいつもお金を吊り上げる方法から始まる。
+試験だと解釈されたわけだ。
+YC の終わりにそれはやってきて。
+それと結びついている数字があり、そして、どうやら高い数字がはうまくいってる、ということらしい。
+それが試験にちがいない、と。
+
+There are certainly big chunks of the world where the way to win is to hack the test.
+This phenomenon isn't limited to schools.
+And some people, either due to ideology or ignorance, claim that this is true of startups too.
+But it isn't.
+In fact, one of the most striking things about startups is the degree to which you win by simply doing good work.
+There are edge cases, as there are in anything, but in general you win by getting users,
+and what users care about is whether the product does what they want.
+
+試験をハックすることが勝つためのやり方、という世界は、本当に大きく広がっている。
+この現象は学校に限定されない。
+そしてある人は、イデオロギーのせいか、不勉強のためなのか、それはスタートアップもそうじゃないかと主張する。
+だが、そうじゃない。
+実際は、スタートアップについてもっとも重要なことがらのひとつが、あなたが勝ったかどうかの指標はシンプルによい仕事をしているか、だということだ。
+極端な事例はあるものの（例示しないが、なんでもいい）、一般的には、あなたはユーザーを獲得することで勝つんだ。
+そして、ユーザーが気にするのは、その製品が彼らの求めることをこなすかどうか、だ。
+
+Why did it take me so long to understand why founders made startups overcomplicated?
+Because I hadn't realized explicitly that schools train us to win by hacking bad tests.
+And not just them, but me!
+I'd been trained to hack bad tests too, and hadn't realized it till decades later.
+
+創業者たちがスタートアップを過度に複雑化するのを理解するのに、なぜこれほど長くかかったのか？
+学校が、出来の悪い試験をハックして勝つよう訓練することを、私がハッキリと理解していなかったためだ。
+彼らだけではなく、私もだ！
+私も同じくずーっと出来の悪い試験をハックするよう訓練されてきた。
+そして、数十年後になるまでそのことを理解しなかった。
+
+I had lived as if I realized it, but without knowing why.
+For example, I had avoided working for big companies.
+But if you'd asked why, I'd have said it was because they were bogus, or bureaucratic.
+Or just yuck.
+I never understood how much of my dislike of big companies was due to the fact that you win by hacking bad tests.
+
+そのことをハッキリ知ったとしても生き延びていただろうが、なぜなのかを知ることはなかった。
+たとえば、私は大企業で働くことを避けていた。
+しかし、なぜなのか自分に尋ねていたなら、彼らはインチキだから、もしくは、官僚的だから、と答えていた。
+もしくは、「おえーっ」とだけ。
+私は理解することがなかったんだ。
+出来の悪い試験をハックすることで自分がどれだけ勝ってきたかという事実こそが、私の大企業嫌いの原因なのだ、と。
+
+Similarly, the fact that the tests were unhackable was a lot of what attracted me to startups.
+But again, I hadn't realized that explicitly.
+
+同様に、試験がハックしづらかったという事実が、私をスタートアップに惹きつけたものの多くであった。
+だが、もう一度言う、私はハッキリとそれを理解していなかった。
+
+I had in effect achieved by successive approximations something that may have a closed-form solution.
+I had gradually undone my training in hacking bad tests without knowing I was doing it.
+Could someone coming out of school banish this demon just by knowing its name, and saying begone?
+It seems worth trying.
+
+閉じた形式の解決作を持つかもしれない連続する近似値により、私は達成された効果を獲得した。【＊】
+私は、過去にやっていたそれを知ることを除き、出来の悪い試験をハックする訓練をだんだん放っておくようになったが、
+この悪魔を払いのけられないものだろうか？その名前を知り、そして、消え失せろと唱えるだけで。
+試してみる価値はありそうだ。
+
+Merely talking explicitly about this phenomenon is likely to make things better,
+because much of its power comes from the fact that we take it for granted.
+After you've noticed it, it seems the elephant in the room, but it's a pretty well camouflaged elephant.
+The phenomenon is so old, and so pervasive.
+And it's simply the result of neglect.
+No one meant things to be this way.
+This is just what happens when you combine learning with grades, competition,
+and the naive assumption of unhackability.
+
+それの力の源泉のほとんどが、私たちがそれを当然のことと考えていることからきているのだから、
+この現象について、ただハッキリと話してさえいれば、事態を好転してくれそうだ。
+あなたはその現象に気がついたんだ。
+それは部屋のなかの象のようだ。だが、それはとても上手に覆い隠されてている象だ。
+この現象はとても古く、そして、とても浸透している。
+そして、それは不作為のシンプルな結果だ。
+誰もこんなふうにしようと意図していない。
+成績、競争、「ハックされないだろう」という素朴な想定。
+それらが学びと結合する時に起こるのが、まさに、これだ。
+
+It was mind-blowing to realize that two of the things I'd puzzled about the most
+— the bogusness of high school, and the difficulty of getting founders to see the obvious — both had the same cause.
+It's rare for such a big block to slide into place so late.
+
+私がもっとも困惑させられたことがら２つ　ー高校のインチキさ、そして、創業者たちに明白な事実を見せることの難しさー　が、
+どちらも同じ原因を持っていたのだ、ということを理解するのは、意識が吹き飛ぶようなことだった。
+これほど後になって、このような大きなブロックがはまり込むなんて、まれである。【＊】
+
+Usually when that happens it has implications in a lot of different areas,
+and this case seems no exception.
+For example, it suggests both that education could be done better,
+and how you might fix it.
+But it also suggests a potential answer to the question all big companies seem to have:
+how can we be more like a startup? I'm not going to chase down all the implications now.
+What I want to focus on here is what it means for individuals.
+
+これが起こるとき、たいてい、それは多くの異なる領域での含意を持っている。
+そして、この場合には例外は無いようだ。
+たとえば、「教育がもっとマシになるとしたら？」、「それをどんなふうに直す？」という２つを提案する。
+しかし、それはすべての大企業が抱えていると思われる問題への潜在的な答えをも提案している：
+「どうやったら私たちはもっとスタートアップのようになれる？」
+いまその含意のすべてを突き止めることはしない。
+ここで私が注目したいのは、個々人のためにそれが意味するもの、だ。
+
+To start with,
+it means that most ambitious kids graduating from college have something they may want to unlearn.
+But it also changes how you look at the world.
+Instead of looking at all the different kinds of work people do and thinking of them vaguely as more or less appealing,
+you can now ask a very specific question that will sort them in an interesting way:
+to what extent do you win at this kind of work by hacking bad tests?
+
+まずはじめに、
+それは、大学を卒業しようとしてる有望な子たちのほとんどが、
+何か意識的にやめたいことを抱えているんじゃないか、という意味だ。
+しかし、それはまた、あなたの世界の見方を変える。
+人々のやるすべての種類の仕事を見るかわりに、そして、
+多かれ少なかれアピールしている、漠然としたそれらの思考を見るかわりに、
+いまのあなたは、興味深い方法でそれらを選りわける、とても特化した質問を投げることができる：
+「その仕事では、出来の悪い試験をハックすることで、どのくらいの範囲を勝ち取れる？」
+
+It would help if there was a way to recognize bad tests quickly.
+Is there a pattern here?
+It turns out there is.
+
+もし出来の悪い試験を素早く見つける方法があるのなら、それは助けになる。
+ここに何かパターンがあるかな？
+それが露わになる。
+
+Tests can be divided into two kinds:
+those that are imposed by authorities, and those that aren't.
+Tests that aren't imposed by authorities are inherently unhackable,
+in the sense that no one is claiming they're tests of anything more than they actually test.
+A football match, for example, is simply a test of who wins, not which team is better.
+You can tell that from the fact that commentators sometimes say afterward that the better team won.
+Whereas tests imposed by authorities are usually proxies for something else.
+A test in a class is supposed to measure not just how well you did on that particular test,
+but how much you learned in the class.
+While tests that aren't imposed by authorities are inherently unhackable,
+those imposed by authorities have to be made unhackable.
+Usually they aren't. So as a first approximation,
+bad tests are roughly equivalent to tests imposed by authorities.
+
+試験は２種類に分別できる：
+権威によって課されるもの、そして、そうでないものだ。
+それらが実際にテストしている以上のなにかである、などと主張する人が誰もいない、という性質上、
+権威によって課されていない試験は、生得的にハックしづらい。
+たとえば、フットボールの試合は、誰が勝つかの試験であり、どっちのチームが良いかという試験ではない。
+ときどき解説者があとから「良いほうのチームが勝ったんだ」と言うから、あなたがそう言うことも可能だ。
+だが一方、権威によって課せられた試験は、たいてい他の何かの代理だ。
+授業のなかでの試験は、特定の試験でどれだけあなたがうまくやれたか、それだけじゃなく、
+授業のなかであなたがどれだけ学んだか、を測定することが想定されている。
+権威によって課されたものでない間は、試験は生得的にハックしづらく、
+権威によって課されるものは、ハックしづらくされなきゃいけない。
+ふつうは、試験はハックしづらくはない。だから、最初の近似値のひとつとして、
+「出来の悪い試験は、権威によって課される試験とざっくりと同等」だ。
+
+You might actually like to win by hacking bad tests.
+Presumably some people do.
+But I bet most people who find themselves doing this kind of work don't like it.
+They just take it for granted that this is how the world works,
+unless you want to drop out and be some kind of hippie artisan.
+
+実際、あなたは出来の悪い試験をハックすることによって勝ちたいかも知れない。
+どうもある人はそうするようだ。
+だが、この種の仕事をしてる人たちのほとんどが、それを好きでないと気がつくこと、私はそれに賭ける。
+彼らは、ただ「これが世界の仕組みであり、それを当然のこと」と考えているだけなんだ。
+さもなければ、ドロップアウトし、ある種のヒッピー熟練工になりたがっている。
+
+I suspect many people implicitly assume that working in a field with bad tests is the price of making lots of money.
+But that, I can tell you, is false.
+It used to be true.
+In the mid-twentieth century, when the economy was composed of oligopolies,
+the only way to the top was by playing their game.
+But it's not true now.
+There are now ways to get rich by doing good work,
+and that's part of the reason people are so much more excited about getting rich than they used to be.
+When I was a kid, you could either become an engineer and make cool things,
+or make lots of money by becoming an "executive."
+Now you can make lots of money by making cool things.
+
+出来の悪い試験とともに在る領域で働くことを、多くの人たちが無条件に、
+たくさんのお金を得る「代償」と見なしているんじゃないか、と私は思う。
+だが断言できる、それは誤りだ。
+かつては真実とされていた。
+20 世紀の中ごろ、経済が寡占市場によって構成されていて、
+トップへの道はただひとつ、彼らのゲームをプレイすることだった。
+だが、いまやそれは真実ではない。
+良い仕事をすることによってお金持ちになる道がいくつもあり、
+そして、それは、かつてやっていたことよりも、人々が豊かさを獲得することにたいへん興奮する理由の一部だ。
+私が子供だった頃は、いずれか一方が可能だった。
+エンジニアになって、そしてクールなものを作る、もしくは、
+「エグゼクティブ」になることでたくさんのお金を作る。
+いま、あなたはクールなものを作ることで、たくさんお金を儲けることができる。
+
+Hacking bad tests is becoming less important as the link between work and authority erodes.
+The erosion of that link is one of the most important trends happening now,
+and we see its effects in almost every kind of work people do.
+Startups are one of the most visible examples, but we see much the same thing in writing.
+Writers no longer have to submit to publishers and editors to reach readers; now they can go direct.
+
+徐々に壊れる「仕事と権威とのリンク」として、出来の悪い試験をハッキングすることは重要でなくなっている。
+このリンクの崩壊は、現在起こっている傾向の最も重要なひとつで、
+そして、人々がこなす、ほぼ全ての種類の仕事のなかでのその影響を、私たちは見ている。
+スタートアップが最も可視化される例のひとつだが、私たちはものを書くことのなかに多くの共通項を見る。
+ライターたちが読者に届くためには、出版者と編集者に投稿するしかなかったが；
+いまや、彼らは直接出向いていける。
+
+The more I think about this question, the more optimistic I get.
+This seems one of those situations
+where we don't realize how much something was holding us back until it's eliminated.
+And I can foresee the whole bogus edifice crumbling.
+Imagine what happens as more and more people start to ask themselves
+if they want to win by hacking bad tests, and decide that they don't.
+The kinds of work where you win by hacking bad tests will be starved of talent,
+and the kinds where you win by doing good work will see an influx of the most ambitious people.
+And as hacking bad tests shrinks in importance, education will evolve to stop training us to do it.
+Imagine what the world could look like if that happened.
+
+この疑問について考えるほど、私はより楽観的になれる。
+そいつが、どれほど私たちを引き戻そうとしていたか。
+そいつが取り除かれるまで、おそらく私たちはそのことを理解していない、という、
+そんなシチュエーションのひとつが、これだ。
+そして、このインチキの体系は崩れつつあることを予見できる。
+「出来の悪い試験をハックすることで勝ちたいのか？」と自分自身に問い始めるようになったら、
+彼らがそれをしなくなった 10 年で何が起こるか、想像してみよう。
+出来の悪い試験をハックすることで勝ちをおさめる類いの職種では、才能を持った人材が枯渇し、
+良い仕事で勝ちをおさめるところでは、最も有望な人々が殺到するのを目にするだろう。
+そして、出来の悪い試験をハックすることの重要性は順位を下げ、
+教育システムは、私たちにそれをするよう仕込むことを止めるように進化するだろう。
+もしそれが起こったら、世界がどんなふうに見えるようになるか、想像してみよう。
+
+This is not just a lesson for individuals to unlearn, but one for society to unlearn,
+and we'll be amazed at the energy that's liberated when we do.
+
+これは個人にたいする意識的にやめるためのレッスンというだけではない。
+社会にたいするものでもある。私たちが実行するときに解き放たれるそのエネルギーに、
+私たちは驚かされるだろう。
+
+Notes
+ノート
+
+[1] If using tests only to measure learning sounds impossibly utopian,
+that is already the way things work at Lambda School.
+Lambda School doesn't have grades.
+You either graduate or you don't.
+The only purpose of tests is to decide at each stage of the curriculum
+whether you can continue to the next.
+So in effect the whole school is pass/fail.
+
+[1] 学びの度合いを測定することだけに試験をもちいることが非現実的と思えるなら、
+すでに、それは Lambda School でのものごとを機能させる方法だ。
+Lambda School は成績を持っていない。
+あなたは卒業すること、しないことのいずれかを選べる。
+試験の目的は、カリキュラムの各段階で、あなたが次へ進むことが出来るかどうかを判断するためだけのものだ。
+だから、実際上、学校全体が到達／未達のテストなのだ。
+
+[2] If the final exam consisted of a long conversation with the professor,
+you could prepare for it by reading good books on medieval history.
+A lot of the hackability of tests in schools is due to the fact
+that the same test has to be given to large numbers of students.
+
+[2] もし、最終試験が教授との長時間の対談で構成されていたなら、
+中世の歴史についての良い本を読むことで、それへの準備を出来ただろう。
+学校における試験のハックしやすさの原因の多くは、
+同じ試験が大多数の生徒に与えられなければならないからだ。
+
+[3] Learning is the naive algorithm for getting good grades.
+
+[3] 学びは、よい成績を得るためには純朴なアルゴリズムだ。
+
+[4] Hacking has multiple senses.
+There's a narrow sense in which it means to compromise something.
+That's the sense in which one hacks a bad test.
+But there's another, more general sense,
+meaning to find a surprising solution to a problem,
+often by thinking differently about it.
+Hacking in this sense is a wonderful thing.
+And indeed, some of the hacks people use on bad tests are impressively ingenious;
+the problem is not so much the hacking as that, because the tests are hackable,
+they don't test what they're meant to.
+
+[4] ハッキングは掛け合わせられる性質を持っている。
+それは狭い意味だと、それは何かと折衷することを意味する。
+その性質のひとつが出来の悪い試験をハックする。
+だが、他にも、もっと一般的な性質があって、
+それは、ある問題への驚くべき解決法を見つけることを意味し、
+問題にたいする異なった考え方によって見つけられることが多い。
+この性質におけるハッキングは素晴らしいことだ。
+そして、たしかに、人々が出来の悪い試験にたいして用いるハックのいくつかは、印象的なほど巧妙だ；
+問題は、そのようなハックがあまり多くない、ということだ。なぜなら、試験はハックしやすく、
+それらは本来測定することを期待されている対象をテストしないからだ。
+
+[5] The people who pick startups at Y Combinator are similar to admissions officers,
+except that instead of being arbitrary,
+their acceptance criteria are trained by a very tight feedback loop.
+If you accept a bad startup or reject a good one,
+you will usually know it within a year or two at the latest, and often within a month.
+
+[5] Y Combinator でスタートアップを選抜する人たちは、試験官と似ている。
+恣意的にふるまう代わりに、彼らの受諾基準がとてもタイトなフィードバックの反復によって鍛えられていることを除けば。
+もし悪いスタートアップを受け入れるか、良いものを弾くのなら、
+あなたがそれを知るのは、ふつう、遅くとも１〜２年以内、そしてたいてい１ヶ月以内だろう。
+
+[6] I'm sure admissions officers are tired of reading applications from kids
+who seem to have no personality beyond being willing to seem
+however they're supposed to seem to get accepted.
+What they don't realize is that they are, in a sense, looking in a mirror.
+The lack of authenticity in the applicants is a reflection of the arbitrariness of the application process.
+A dictator might just as well complain about the lack of authenticity in the people around him.
+
+[6] 私は、試験官たちが、申請書類に目を通すことにウンザリしていることを理解している。
+申請者は、快く思われることを越えてくる個性を持っていないとおぼしき子たちだ。
+にもかかわらず、彼らは受け入れられると思っているようだ。
+彼らが分かっていないことは、ある意味、自分が鏡をのぞき込んでいるということだ。
+応募者たちのなかの信頼性の欠如は、申請のプロセスの恣意性の反射だ。
+独裁者は、彼のまわりの人たちの信頼性の欠落にたいして、不満を言ったほうが良い。
+
+[7] By good work, I don't mean morally good,
+but good in the sense in which a good craftsman does good work.
+
+[7] 良い仕事により、とは道徳的な良いではなく、
+熟練工がなす良い仕事、という意味での「良い」だ。
+
+[8] There are borderline cases where it's hard to say which category a test falls in.
+For example, is raising venture capital like college admissions,
+or is it like selling to a customer?
+
+[8] どっちのカテゴリーに分類されるのか、判定するのが難しい境界線上のケースがある。
+たとえば、のぼり調子のベンチャーキャピタルが、大学入試に似ているか、
+それとも、顧客に売り込むことに似ているか？
+
+[9] Note that a good test is merely one that's unhackable.
+Good here doesn't mean morally good, but good in the sense of working well.
+The difference between fields with bad tests and good ones is not that the former are bad and the latter are good,
+but that the former are bogus and the latter aren't.
+But those two measures are not unrelated.
+As Tara Ploughman said, the path from good to evil goes through bogus.
+
+[9] 良い試験は、ただハックしづらいだけなんだ。
+ここでの「良い」は、道徳的な意味での良いではなく、良く機能している、という意味での良いだ。
+出来の悪い試験と良い試験のフィールドの違いは、前者は悪く、後者は良いということではなく、
+前者がインチキで、後者がそうではない、ということなんだ。
+だけど、これら２つが計測するものは無関係ではない。
+Tara Ploughman （タラ・プログマン）が言ったように、良いから悪いへの道はインチキを通る。
+
+[10] People who think the recent increase in economy inequality is due to changes
+in tax policy seem very naive to anyone with experience in startups.
+Different people are getting rich now than used to,
+and they're getting much richer than mere tax savings could make them.
+
+[10] スタートアップでの経験を持つ者からすると、
+「近年の経済的不公平が広がりは税制の変更のためである」と考える人たちはとても素朴すぎる。
+かつてより色々な人が豊かになっているし、
+そして、彼らはただ節税して浮かせた金額以上の、多くの豊かさを獲得している。
+
+[11] Note to tiger parents: you may think you're training your kids to win,
+but if you're training them to win by hacking bad tests, you are,
+as parents so often do, training them to fight the last war.
+
+[11] 虎の親御さんへのメモ：子供たちが勝てるように訓練しているよ、とあなたは考えるかも知れない。
+しかし、もし、出来の悪い試験をハックことで勝つように訓練しているのなら、
+…まぁ親というのはそうしがちだが、あなたは最後の戦争で戦うために彼らを訓練しているんだよ。
+
+Thanks to Austen Allred, Trevor Blackwell, Patrick Collison, Jessica Livingston, Robert Morris,
+and Harj Taggar for reading drafts of this.
+
+草稿を読んでくれた Austen Allred、Trevor Blackwell、Patrick Collison、Jessica Livingston、Robert Morris、
+そして Harj Taggar に感謝する。
