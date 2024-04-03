@@ -1,0 +1,45 @@
+[ https://paulgraham.com/getideas.html ]
+
+How To Get New Ideas
+新しいアイデアの見つけ方
+
+January 2023
+2023年1月
+
+(Someone [*] fed my essays into GPT to make something that could answer questions based on them,
+then asked it where good ideas come from.
+The answer was ok, but not what I would have said.
+This is what I would have said.)
+
+（誰か[*] が GPT に僕のエッセイを喰わせて、それらにもとづく質問にたいして答えを返してくれるものを作り、
+良いアイデアがどこからやってくるのか、それに訊ねた。
+その答えは問題ないものだったが、私が言いそうなものではなかった。
+これが、私の言いそうなことだ。）
+
+The way to get new ideas is to notice anomalies:
+what seems strange, or missing, or broken?
+You can see anomalies in everyday life (much of standup comedy is based on this),
+but the best place to look for them is at the frontiers of knowledge.
+
+新しいアイデアを得る方法は、異常に気づくことだ：
+奇妙だったり、見落とされていたり、壊れてたり、というような。
+毎日の生活のなかでも見つけられるけれど（たくさんのスタンダップコメディーがこれにもとづいている）、
+そのような異常を見つけるのにいちばん良い場所は、知識のフロンティアだ。
+
+Knowledge grows fractally.
+From a distance its edges look smooth,
+but when you learn enough to get close to one, you'll notice it's full of gaps.
+These gaps will seem obvious;
+it will seem inexplicable that no one has tried x or wondered about y.
+In the best case, exploring such gaps yields whole new fractal buds.
+
+知識はフラクタルに成長する。
+離れたところから眺めると、そのエッジはどれもなめらかに見えるけれど、
+十分に学んでそのひとつに近づいてみると、それが隙間だらけであることに気がつくだろう。
+
+それらの隙間は明白だ；
+誰も x を試していないとか、y について不思議に思わないなんて、と。
+最良の場合、それらの隙間を探索することが、まったく新しいフラクタルの芽を生む。
+
+[*]
+[ https://twitter.com/stef/status/1617222428727586816 ]
