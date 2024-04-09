@@ -1,0 +1,110 @@
+[ https://paulgraham.com/read.html ]
+
+The Need To Read
+読む必要
+
+November 2022
+2022年11月
+
+In the science fiction books I read as a kid,
+reading had often been replaced by some more efficient way of acquiring knowledge.
+Mysterious "tapes" would load it into one's brain like a program being loaded into a computer.
+
+子供の頃に私が読んだ SF 本のなかでは、
+読むことは、よく、より効果的に知識を得るなんらかの方法に置き換えられていた。
+謎めいた「テープ」は、コンピュータにプログラムをロードするように、人の脳にそれをロードした。
+
+That sort of thing is unlikely to happen anytime soon.
+Not just because it would be hard to build a replacement for reading,
+but because even if one existed, it would be insufficient.
+Reading about x doesn't just teach you about x; it also teaches you how to write. [1]
+
+しばらくは、それらの方法が読むことと代わることはなさそうだ。
+読むことに代わるものを作ることが難しい、というだけではなく、
+もしそれが実現したとしても、それでは不十分だからだ。
+x について読むことは、あなたにただ x について教えてくれるだけではない；それは書き方も教えてくれるんだ。[1]
+
+Would that matter?
+If we replaced reading, would anyone need to be good at writing?
+
+それが重要なことなのか？
+もし、我々が読むことを置き換えたら、書くことが上手である必要があるだろうか？
+
+The reason it would matter is that writing is not just a way to convey ideas,
+but also a way to have them.
+
+それが重要であることことの理由は、こうだ。
+書くことは、ただアイデアを伝える方法だというだけではなく、
+それを得る方法でもあるからだ。
+
+A good writer doesn't just think, and then write down what he thought,
+as a sort of transcript.
+A good writer will almost always discover new things in the process of writing.
+And there is, as far as I know, no substitute for this kind of discovery.
+Talking about your ideas with other people is a good way to develop them.
+But even after doing this, you'll find you still discover new things when you sit down to write.
+There is a kind of thinking that can only be done by writing. [*]
+
+[*]
+[ https://paulgraham.com/words.html ]
+
+よい書き手というのは、頭だけで考えるのではない。
+転写するように、その人が考えていたことを書き下すわけでもない。
+
+よい書き手というのは、ほぼ常に、書くという工程のなかで新しい事柄を発見するものだ。
+そして、私の知るかぎり、この見つけ方に置き換わるものはない。
+
+あなたのアイデアをほかの人に話すことは、それを進展させるよい方法のひとつだ。
+だが、その後でさえ、書くために席についたときにもまだ新しい事柄を見つけている自分に、あなたは気がつくだろう。
+書くことをつうじてしか成し得ない思考法というものがある。
+
+There are of course kinds of thinking that can be done without writing.
+If you don't need to go too deeply into a problem, you can solve it without writing.
+If you're thinking about how two pieces of machinery should fit together, writing about it probably won't help much.
+And when a problem can be described formally, you can sometimes solve it in your head.
+But if you need to solve a complicated, ill-defined problem,
+it will almost always help to write about it.
+Which in turn means that someone who's not good at writing will almost always be at a disadvantage in solving such problems.
+
+もちろん、書くことなしでもアイデアを得る方法は他にもいくつかある。
+それほど掘り下げる必要のない問題なら、あなたは書くことをしなくても成しえるだろう。
+機械の部品２つを、どのように互いに噛み合わせるようかと考えているのなら、
+それについて書くことは、たぶんそれほど役に立たないだろう。
+そして形式的に詳述できるのなら、頭のなかでその問題を解くことも可能だろう。
+
+だが、あまりきちんと定義されていない、こんがらがった問題を解く必要があるのなら、
+それについて書くことは、ほぼ常に助けてくれるはずだ。
+書くことに不得手な人がそのような問題に直面した場合、ほぼ常に、それは不利にはたらくことになる、ということを意味する。
+
+You can't think well without writing well,
+and you can't write well without reading well.
+And I mean that last "well" in both senses.
+You have to be good at reading, and read good things. [2]
+
+あなたは、よく書くことをせずに、うまく考えることはできない。
+そして、よく読むことなしに、うまく書くことはできない。
+
+よく読むと言ったが、この「よく」はつぎの２つに共通している。
+あなたはよく読まなければいけないし、良いものを読まなくてはいけないんだ。[2]
+
+People who just want information may find other ways to get it.
+But people who want to have ideas can't afford to.
+
+ただ情報が欲しい人は、それを得るための他の方法を見つけるだろう。
+だが、アイデアを得たい人にはズルをする資格はないんだ。
+
+
+Notes
+ノート
+
+[1] Audiobooks can give you examples of good writing,
+but having them read to you doesn't teach you as much about writing as reading them yourself.
+
+[1] オーディオブックはあなたによい書き方の例をくれるが、
+あなた自身で読むときほどには、書くことについて教えるように導くことはない。
+
+[2] By "good at reading" I don't mean good at the mechanics of reading.
+You don't have to be good at extracting words from the page so much as extracting meaning from the words.
+
+[2] 「よく読む」という言い方だが、私は速読を意味していない。
+たくさんの単語をページから抽出するのが上手である必要はない。それらの言葉から意味を抽出するんだ。
